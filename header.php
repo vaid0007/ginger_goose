@@ -66,7 +66,7 @@
 <header>
       <div class="header">
          <div class="header-top-area">
-            <div class="header-layout-4">
+            <!-- <div class="header-layout-4">
                <div class="header-to-main d-none d-sm-flex">
                   <div class="link-text">
                      <span><img src="assets/imgs/icons/call.png" alt=""></span>
@@ -81,7 +81,7 @@
                      </div>
                   </div>
                </div>
-            </div>
+            </div> -->
          </div>
          <div class="header-layout-4 header-bottom">
             <div id="header-sticky" class="header-4">
@@ -90,7 +90,7 @@
                      <div class="header-left">
                         <div class="header-logo">
                            <a href="index.html">
-                              <img src="assets/imgs/logo/logo.svg" alt="logo not found">
+                              <img src="assets/imgs/logo/GG_logo.png" alt="logo not found" style="width:100px;">
                            </a>
                         </div>
                         <div class="mean__menu-wrapper d-none d-lg-block">

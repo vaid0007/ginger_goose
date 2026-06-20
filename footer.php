@@ -5,7 +5,7 @@
                <div class="footer-grid-3">
                   <div class="footer-widget-3">
                      <div class="footer-logo mb-35">
-                        <a href="index.html"><img src="assets/imgs/logo/logo.svg" alt="image bnot found"></a>
+                        <a href="index.html"><img src="assets/imgs/logo/GG_logo.png" alt="image bnot found" style="width:150px;"></a>
                      </div>
                      <p>It helps designers plan out where the content will sit, the content to be written and approved.
                      </p>
@@ -40,8 +40,7 @@
                            <li><a href="#">Home</a></li>
                            <li><a href="#">About</a></li>
                            <li><a href="#">Service</a></li>
-                           <li><a href="#">Portfoilo</a></li>
-                           <li><a href="#">News</a></li>
+                           <li><a href="#">Gallery</a></li>
                            <li><a href="#">Contact</a></li>
                         </ul>
                      </div>

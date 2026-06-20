@@ -89,7 +89,49 @@
   color: var(--clr-theme-5);
 }
 
-.footer-link-2 ul li a::after, .footer-style-4 .footer-link ul li a::after, .contact__from-input textarea, .cart-area .product-quantity-form, .doctor-item, .doctor-card, .doctor-card-2, .doctor-social-3, .product-thumb img, .product-tooltip, .discount-thumb, .brand-item, .why-choose-item, .why-choose-serial span, .project-item, .project-item:before, .project-content-inner, .blog-content-box, .blog-item-3, .blog-thumb-bg, .blog-thumb-bg::after, .team-content, .service-item, .service-thumb, .service-icon span, .service__thumb-2, .service-bottom-content, .service-item-3, .service-thumb-4:before, .service-link-2, .bar-icon span:nth-child(2), .bar-icon-2 span:nth-child(1), .main-menu ul li.has-dropdown > a::after, .main-menu ul li .submenu, .main-menu ul li .mega-menu, .main-menu ul li .mega-menu li ul li a::before, .df-search-area, .mean-container .mean-nav ul li > a > i, .mean-container .mean-nav ul li a.mean-expand.mean-clicked i, .offcanvas__contact-icon i, .offcanvas__overlay, .fill-btn.has-border i, a,
+.footer-link-2 ul li a::after,
+.footer-style-4 .footer-link ul li a::after,
+.contact__from-input textarea,
+.cart-area .product-quantity-form,
+.doctor-item,
+.doctor-card,
+.doctor-card-2,
+.doctor-social-3,
+.product-thumb img,
+.product-tooltip,
+.discount-thumb,
+.brand-item,
+.why-choose-item,
+.why-choose-serial span,
+.project-item,
+.project-item:before,
+.project-content-inner,
+.blog-content-box,
+.blog-item-3,
+.blog-thumb-bg,
+.blog-thumb-bg::after,
+.team-content,
+.service-item,
+.service-thumb,
+.service-icon span,
+.service__thumb-2,
+.service-bottom-content,
+.service-item-3,
+.service-thumb-4:before,
+.service-link-2,
+.bar-icon span:nth-child(2),
+.bar-icon-2 span:nth-child(1),
+.main-menu ul li.has-dropdown > a::after,
+.main-menu ul li .submenu,
+.main-menu ul li .mega-menu,
+.main-menu ul li .mega-menu li ul li a::before,
+.df-search-area,
+.mean-container .mean-nav ul li > a > i,
+.mean-container .mean-nav ul li a.mean-expand.mean-clicked i,
+.offcanvas__contact-icon i,
+.offcanvas__overlay,
+.fill-btn.has-border i,
+a,
 .btn,
 button,
 span,
@@ -106,7 +148,9 @@ h2,
 h3,
 h4,
 h5,
-h6, i[class^=flaticon-], .body__overlay {
+h6,
+i[class^="flaticon-"],
+.body__overlay {
   -webkit-transition: all 0.3s 0s ease-out;
   -moz-transition: all 0.3s 0s ease-out;
   -ms-transition: all 0.3s 0s ease-out;
@@ -119,7 +163,7 @@ h6, i[class^=flaticon-], .body__overlay {
   /**
   @font family declaration
   */
-  --bd-ff-body: 'Sora', sans-serif;
+  --bd-ff-body: "Sora", sans-serif;
   --bd-ff-fontawesome: "Font Awesome 6 Pro";
   /**
   @color declaration
@@ -137,16 +181,16 @@ h6, i[class^=flaticon-], .body__overlay {
   --clr-text-secondary: #161616;
   --clr-text-body: #555555;
   --clr-text-2: #222222;
-  --clr-text-3: #9F9F9F;
+  --clr-text-3: #9f9f9f;
   --clr-text-4: #808080;
-  --clr-bg-1: #F0F0F0;
+  --clr-bg-1: #f0f0f0;
   --clr-bg-2: #191919;
-  --clr-bg-3: #EDF9FD;
-  --clr-bg-4: #F2FBFE;
+  --clr-bg-3: #edf9fd;
+  --clr-bg-4: #f2fbfe;
   --clr-bg-5: #f7f7f7;
-  --clr-border-1: #2F2F2F;
+  --clr-border-1: #2f2f2f;
   --clr-border-2: rgba(85, 85, 85, 0.2);
-  --clr-gradient-1: linear-gradient(96.81deg, #FF589B 0%, #FFC107 100%);
+  --clr-gradient-1: linear-gradient(96.81deg, #ff589b 0%, #ffc107 100%);
   /**
   @font weight declaration
   */
@@ -299,11 +343,11 @@ hr:not([size]) {
   border-width: 1px;
 }
 
-input[type=text],
-input[type=email],
-input[type=tel],
-input[type=number],
-input[type=password],
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="number"],
+input[type="password"],
 textarea {
   outline: none;
   background-color: #fff;
@@ -314,7 +358,7 @@ textarea {
   color: var(--clr-common-heading);
   padding-left: 26px;
   padding-right: 26px;
-  border: 1px solid #E0E2E3;
+  border: 1px solid #e0e2e3;
 }
 
 *::-moz-selection {
@@ -350,7 +394,7 @@ textarea {
 /*----------------------------------------
    Flaction customize
 -----------------------------------------*/
-i[class^=flaticon-] {
+i[class^="flaticon-"] {
   line-height: 1;
   top: 2px;
   position: relative;
@@ -359,7 +403,13 @@ i[class^=flaticon-] {
 /*----------------------------------------
    Bootstrap customize
 -----------------------------------------*/
-.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
   --bs-gutter-x: 3rem;
 }
 
@@ -406,11 +456,13 @@ i[class^=flaticon-] {
   --bs-gutter-y: 60px;
 }
 
-.g-0, .gy-0 {
+.g-0,
+.gy-0 {
   --bs-gutter-y: 0;
 }
 
-.g-0, .gx-0 {
+.g-0,
+.gx-0 {
   --bs-gutter-x: 0;
 }
 
@@ -528,7 +580,9 @@ i[class^=flaticon-] {
   right: -20px;
   margin-top: -25px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .mfp-close::after {
     right: 15px;
     margin-top: -30px;
@@ -623,7 +677,7 @@ i[class^=flaticon-] {
 }
 
 .theme-bg-1 {
-  background: var(--clr-theme-primary);
+  background: #E67E22;
 }
 
 .theme-bg-2 {
@@ -715,7 +769,9 @@ i[class^=flaticon-] {
 .fill-btn i {
   color: var(--clr-common-white);
 }
-.fill-btninner, .fill-btn-hover, .fill-btn-normal {
+.fill-btninner,
+.fill-btn-hover,
+.fill-btn-normal {
   pointer-events: none;
   display: flex;
   gap: 7px;
@@ -737,12 +793,16 @@ i[class^=flaticon-] {
 .fill-btn:hover .fill-btn-normal {
   opacity: 0;
   transform: translateY(-70%);
-  transition: transform 1.4s cubic-bezier(0.19, 1, 0.22, 1), opacity 0.2s linear;
+  transition:
+    transform 1.4s cubic-bezier(0.19, 1, 0.22, 1),
+    opacity 0.2s linear;
 }
 .fill-btn:hover .fill-btn-hover {
   opacity: 1;
   transform: translateY(0);
-  transition: transform 1.4s cubic-bezier(0.19, 1, 0.22, 1), opacity 1.4s cubic-bezier(0.19, 1, 0.22, 1);
+  transition:
+    transform 1.4s cubic-bezier(0.19, 1, 0.22, 1),
+    opacity 1.4s cubic-bezier(0.19, 1, 0.22, 1);
 }
 .fill-btn:hover::before {
   transform: translate(-50%, -80%);
@@ -848,13 +908,15 @@ i[class^=flaticon-] {
   background: var(--clr-theme-primary);
   border-radius: 50%;
 }
-@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .round-cercle .image-text {
     height: 160px;
     width: 160px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .round-cercle .image-text {
     height: 150px;
     width: 150px;
@@ -899,7 +961,7 @@ i[class^=flaticon-] {
   font-size: 16px;
   color: var(--clr-common-white);
   font-weight: var(--bd-fw-sbold);
-  background: #0D0D0D;
+  background: #0d0d0d;
   padding: 0px 25px;
   padding: 0px 25px;
   display: -webkit-inline-flex;
@@ -920,7 +982,7 @@ i[class^=flaticon-] {
   font-size: 16px;
   font-weight: var(--bd-fw-medium);
   color: var(--clr-common-white);
-  background: var(--clr-theme-secondary);
+  background: #3E8E41;
   height: 60px;
   display: flex;
   align-items: center;
@@ -1094,9 +1156,15 @@ i[class^=flaticon-] {
   -ms-transform: translateX(calc(100% + 80px));
   -o-transform: translateX(calc(100% + 80px));
   transform: translateX(calc(100% + 80px));
-  -webkit-transition: transform 0.45s ease-in-out, opacity 0.45s ease-in-out;
-  -moz-transition: transform 0.45s ease-in-out, opacity 0.45s ease-in-out;
-  transition: transform 0.45s ease-in-out, opacity 0.45s ease-in-out;
+  -webkit-transition:
+    transform 0.45s ease-in-out,
+    opacity 0.45s ease-in-out;
+  -moz-transition:
+    transform 0.45s ease-in-out,
+    opacity 0.45s ease-in-out;
+  transition:
+    transform 0.45s ease-in-out,
+    opacity 0.45s ease-in-out;
   z-index: 999;
   overflow-y: scroll;
   overscroll-behavior-y: contain;
@@ -1105,7 +1173,7 @@ i[class^=flaticon-] {
 .offcanvas__info ::-webkit-scrollbar {
   display: none;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .offcanvas__info {
     width: 300px;
   }
@@ -1441,7 +1509,8 @@ i[class^=flaticon-] {
     display: none;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .section-title {
     font-size: 32px;
   }
@@ -1449,7 +1518,7 @@ i[class^=flaticon-] {
     display: none;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .section-title {
     font-size: 28px;
   }
@@ -1466,11 +1535,16 @@ i[class^=flaticon-] {
   left: 50%;
   top: 50%;
 }
-.section__title-wrapper.is-left .section__subtitle, .section__title-wrapper.is-left .section__title {
+.section__title-wrapper.is-left .section__subtitle,
+.section__title-wrapper.is-left .section__title {
   margin-inline-start: 91px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .section__title-wrapper.is-left .section__subtitle, .section__title-wrapper.is-left .section__title {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
+  .section__title-wrapper.is-left .section__subtitle,
+  .section__title-wrapper.is-left .section__title {
     margin-inline-start: 0px;
   }
 }
@@ -1505,7 +1579,7 @@ i[class^=flaticon-] {
   height: 12px;
   top: 50%;
   left: 0;
-  background: linear-gradient(280deg, #02AFE5 0%, rgba(2, 175, 229, 0) 100%);
+  background: linear-gradient(280deg, #02afe5 0%, rgba(2, 175, 229, 0) 100%);
   transform: translateY(-50%);
   border-radius: 30px;
 }
@@ -1518,7 +1592,7 @@ i[class^=flaticon-] {
   color: var(--clr-common-white);
 }
 .section-title-wrapper-2.is-white .section-subtitle-2:after {
-  background: linear-gradient(-45deg, #FFF 0%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(-45deg, #fff 0%, rgba(255, 255, 255, 0) 100%);
 }
 
 .section-subtitle-3 {
@@ -1549,12 +1623,13 @@ i[class^=flaticon-] {
     font-size: 36px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .section-title-3 {
     font-size: 32px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .section-title-3 {
     font-size: 28px;
   }
@@ -1589,7 +1664,8 @@ i[class^=flaticon-] {
     font-size: 45px;
   }
 }
-@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .section-title-4 {
     font-size: 40px;
   }
@@ -1604,7 +1680,7 @@ i[class^=flaticon-] {
     font-size: 36px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .section-title-4 {
     font-size: 32px;
   }
@@ -1673,7 +1749,8 @@ i[class^=flaticon-] {
     padding-bottom: 80px;
   }
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .section-space {
     padding-top: 80px;
     padding-bottom: 80px;
@@ -1693,7 +1770,8 @@ i[class^=flaticon-] {
     padding-top: 80px;
   }
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .section-space-top {
     padding-top: 70px;
   }
@@ -1712,7 +1790,8 @@ i[class^=flaticon-] {
     padding-bottom: 80px;
   }
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .section-space-bottom {
     padding-bottom: 70px;
   }
@@ -1731,7 +1810,8 @@ i[class^=flaticon-] {
     padding: 60px 0;
   }
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .section-space-medium {
     padding: 60px 0;
   }
@@ -1750,7 +1830,8 @@ i[class^=flaticon-] {
     padding-top: 60px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .section-space-medium-top {
     padding-top: 60px;
   }
@@ -1769,7 +1850,8 @@ i[class^=flaticon-] {
     padding-bottom: 60px;
   }
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .section-space-medium-bottom {
     padding-bottom: 60px;
   }
@@ -1788,7 +1870,8 @@ i[class^=flaticon-] {
     padding: 60px 0;
   }
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .section-space-small {
     padding: 60px 0;
   }
@@ -1802,7 +1885,8 @@ i[class^=flaticon-] {
     padding-top: 60px;
   }
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .section-space-small-top {
     padding-top: 60px;
   }
@@ -1811,7 +1895,8 @@ i[class^=flaticon-] {
 .section-title-spacing {
   margin-bottom: 55px;
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .section-title-spacing {
     margin-bottom: 40px;
   }
@@ -1825,7 +1910,8 @@ i[class^=flaticon-] {
     padding-top: 350px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .important-area {
     padding-top: 320px;
   }
@@ -1850,7 +1936,8 @@ i[class^=flaticon-] {
   margin-bottom: 15px;
   color: var(--clr-common-white);
 }
-@media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .breadcrumb__title {
     font-size: 56px;
   }
@@ -1860,12 +1947,13 @@ i[class^=flaticon-] {
     font-size: 50px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .breadcrumb__title {
     font-size: 42px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .breadcrumb__title {
     font-size: 34px;
   }
@@ -2131,7 +2219,11 @@ Animate slide-left
 Animate card-bounce
 ========================================*/
 @keyframes card-bounce {
-  0%, 20%, 50%, 80%, 100% {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
     transform: translateY(0);
   }
   40% {
@@ -2289,7 +2381,8 @@ Animate wobble-vertical
 .bd-loader {
   margin-left: 92px;
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .bd-loader {
     transform: scale(0.8);
     margin-left: 66px;
@@ -2462,7 +2555,9 @@ PAGINATION CSS START
   gap: 12px;
   flex-wrap: wrap;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .bd-basic__pagination ul {
     justify-content: start;
   }
@@ -2569,7 +2664,7 @@ PAGINATION CSS START
 }
 .df-search-close-btn {
   border-radius: 50%;
-  background: #ECECEC;
+  background: #ececec;
   border: 9px solid transparent;
   color: var(--clr-common-black);
   width: 36px;
@@ -2580,7 +2675,8 @@ PAGINATION CSS START
   position: relative;
   cursor: pointer;
 }
-.df-search-close-btn::after, .df-search-close-btn::before {
+.df-search-close-btn::after,
+.df-search-close-btn::before {
   content: "";
   position: absolute;
   height: 1px;
@@ -2740,7 +2836,14 @@ PAGINATION CSS START
 .main-menu ul li .has-homemenu .homemenu-items .homemenu .homemenu-thumb {
   position: relative;
 }
-.main-menu ul li .has-homemenu .homemenu-items .homemenu .homemenu-thumb .demo-button {
+.main-menu
+  ul
+  li
+  .has-homemenu
+  .homemenu-items
+  .homemenu
+  .homemenu-thumb
+  .demo-button {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -2755,7 +2858,15 @@ PAGINATION CSS START
   margin-top: 20px;
   transition: all 0.3s ease-in-out;
 }
-.main-menu ul li .has-homemenu .homemenu-items .homemenu .homemenu-thumb .demo-button .theme-btn {
+.main-menu
+  ul
+  li
+  .has-homemenu
+  .homemenu-items
+  .homemenu
+  .homemenu-thumb
+  .demo-button
+  .theme-btn {
   padding: 14px 20px;
   color: var(--clr-common-white) !important;
   width: initial;
@@ -2765,11 +2876,31 @@ PAGINATION CSS START
   background-color: var(--clr-theme-secondary) !important;
   line-height: initial;
 }
-.main-menu ul li .has-homemenu .homemenu-items .homemenu .homemenu-thumb .demo-button .theme-btn:hover {
+.main-menu
+  ul
+  li
+  .has-homemenu
+  .homemenu-items
+  .homemenu
+  .homemenu-thumb
+  .demo-button
+  .theme-btn:hover {
   background-color: var(--clr-common-heading) !important;
 }
-.main-menu ul li .has-homemenu .homemenu-items .homemenu .homemenu-thumb::before {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(20, 19, 19, 0)), to(#5e5ef6));
+.main-menu
+  ul
+  li
+  .has-homemenu
+  .homemenu-items
+  .homemenu
+  .homemenu-thumb::before {
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(rgba(20, 19, 19, 0)),
+    to(#5e5ef6)
+  );
   background: linear-gradient(to bottom, rgba(99, 92, 92, 0) 0%, #252527 100%);
   background-repeat: no-repeat;
   background-size: cover;
@@ -2785,16 +2916,36 @@ PAGINATION CSS START
   transition: all 0.3s ease-in-out;
   content: "";
 }
-.main-menu ul li .has-homemenu .homemenu-items .homemenu .homemenu-thumb:hover::before {
+.main-menu
+  ul
+  li
+  .has-homemenu
+  .homemenu-items
+  .homemenu
+  .homemenu-thumb:hover::before {
   visibility: visible;
   opacity: 1;
 }
-.main-menu ul li .has-homemenu .homemenu-items .homemenu .homemenu-thumb:hover .demo-button {
+.main-menu
+  ul
+  li
+  .has-homemenu
+  .homemenu-items
+  .homemenu
+  .homemenu-thumb:hover
+  .demo-button {
   opacity: 1;
   visibility: visible;
   margin-top: 0;
 }
-.main-menu ul li .has-homemenu .homemenu-items .homemenu .homemenu-thumb:hover .homemenu-btn {
+.main-menu
+  ul
+  li
+  .has-homemenu
+  .homemenu-items
+  .homemenu
+  .homemenu-thumb:hover
+  .homemenu-btn {
   opacity: 1;
   visibility: visible;
   bottom: 50%;
@@ -2841,7 +2992,7 @@ PAGINATION CSS START
   margin-inline-end: 0;
   text-align: left;
 }
-[dir=rtl] .main-menu ul li .mega-menu li {
+[dir="rtl"] .main-menu ul li .mega-menu li {
   float: right;
   margin-left: 0;
   text-align: right;
@@ -2873,7 +3024,7 @@ PAGINATION CSS START
 .main-menu ul li .mega-menu li ul li a {
   font-weight: 500;
   font-size: 15px;
-  color: #5D636A;
+  color: #5d636a;
   padding: 0;
   position: relative;
 }
@@ -2893,7 +3044,7 @@ PAGINATION CSS START
   height: 1.2px;
   background-color: var(--clr-theme-secondary);
 }
-[dir=rtl] .main-menu ul li .mega-menu li ul li a::before {
+[dir="rtl"] .main-menu ul li .mega-menu li ul li a::before {
   right: 0;
   left: auto;
 }
@@ -2913,7 +3064,7 @@ PAGINATION CSS START
 .main-menu ul li .mega-menu li a:hover {
   padding-inline-start: 18px;
 }
-[dir=rtl] .main-menu ul li .mega-menu li a:hover {
+[dir="rtl"] .main-menu ul li .mega-menu li a:hover {
   padding-inline-start: 18px;
   padding-inline-end: 0px;
 }
@@ -2996,7 +3147,10 @@ PAGINATION CSS START
 .header-top-area .header-lang-item > span::after {
   color: var(--clr-common-white);
 }
-.header-top-area .header-lang-item:not(:last-child) .header-top-area .header-lang-item::after {
+.header-top-area
+  .header-lang-item:not(:last-child)
+  .header-top-area
+  .header-lang-item::after {
   position: absolute;
   content: "";
   right: 0;
@@ -3152,7 +3306,9 @@ PAGINATION CSS START
   padding: 0 65px;
   overflow-x: clip;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .header-area {
     padding: 20px 15px;
   }
@@ -3169,12 +3325,14 @@ PAGINATION CSS START
 .header-logo {
   max-width: 170px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .header-logo {
     max-width: 145px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .header-logo {
     max-width: 130px;
   }
@@ -3195,7 +3353,8 @@ PAGINATION CSS START
   gap: 80px;
   justify-content: space-around;
 }
-@media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .header-left {
     gap: 45px;
   }
@@ -3209,7 +3368,9 @@ PAGINATION CSS START
 .header-2 {
   padding: 0 80px;
 }
-@media only screen and (min-width: 1400px) and (max-width: 1600px), only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 1400px) and (max-width: 1600px),
+  only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .header-2 {
     padding: 0 30px;
   }
@@ -3244,7 +3405,9 @@ PAGINATION CSS START
   right: 60px;
 }
 
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .header-2 {
     padding: 20px 0;
   }
@@ -3299,7 +3462,8 @@ PAGINATION CSS START
     grid-template-columns: auto auto;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .header-main-3 {
     display: flex;
     width: 100%;
@@ -3334,7 +3498,9 @@ PAGINATION CSS START
 .header-4.sticky {
   padding: 0px 15px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .header-4.sticky {
     padding: 18px 15px;
   }
@@ -3358,13 +3524,16 @@ PAGINATION CSS START
     padding: 0 30px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .header-layout-4 {
     padding: 0 15px;
   }
 }
 
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .header-layout-4.header-bottom {
     padding-top: 18px;
     padding-bottom: 18px;
@@ -3376,7 +3545,9 @@ PAGINATION CSS START
   grid-template-columns: auto auto;
   align-items: center;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .header-main-4 {
     grid-template-columns: auto auto;
   }
@@ -3550,14 +3721,18 @@ PAGINATION CSS START
     grid-template-columns: auto 300px auto;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .banner-grid {
     grid-template-columns: auto;
     column-gap: 50px;
   }
 }
 
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .banner-thumb-wrapper {
     grid-row: 12/3;
   }
@@ -3678,7 +3853,7 @@ PAGINATION CSS START
     line-height: 1.2;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .banner-title {
     font-size: 36px;
   }
@@ -3694,7 +3869,8 @@ PAGINATION CSS START
   right: 0;
   z-index: -1;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .banner-shape-inner {
     display: none;
   }
@@ -3714,7 +3890,9 @@ PAGINATION CSS START
 .banner-description {
   margin-top: 75px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .banner-description {
     margin-top: 0;
   }
@@ -3778,7 +3956,9 @@ PAGINATION CSS START
   grid-template-columns: 50% 50%;
   align-items: center;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .banner-inner-grid {
     grid-template-columns: auto;
   }
@@ -3792,7 +3972,8 @@ PAGINATION CSS START
     min-height: 450px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .banner-wrapper-2 {
     min-height: 400px;
   }
@@ -3807,7 +3988,9 @@ PAGINATION CSS START
   background-position: center;
   border-radius: 0 0 0 40px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .banner-thumb-2 {
     border-radius: 0;
   }
@@ -3904,7 +4087,7 @@ PAGINATION CSS START
   height: 12px;
   top: 50%;
   left: 0;
-  background: linear-gradient(-45deg, #FFF 0%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(-45deg, #fff 0%, rgba(255, 255, 255, 0) 100%);
   transform: translateY(-50%);
   border-radius: 30px;
 }
@@ -3964,7 +4147,7 @@ PAGINATION CSS START
 }
 
 .banner-3 {
-  background: #E6F7FC;
+  background: #e6f7fc;
   padding: 200px 160px 200px;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1600px) {
@@ -4001,7 +4184,11 @@ PAGINATION CSS START
   width: 863px;
   height: 863px;
   border-radius: 863px;
-  background: linear-gradient(225deg, rgba(3, 175, 229, 0.07) 0%, rgba(3, 175, 229, 0) 100%);
+  background: linear-gradient(
+    225deg,
+    rgba(3, 175, 229, 0.07) 0%,
+    rgba(3, 175, 229, 0) 100%
+  );
   position: absolute;
   left: -200px;
   z-index: -1;
@@ -4011,7 +4198,11 @@ PAGINATION CSS START
   border-radius: 50%;
   width: 255px;
   height: 255px;
-  background: linear-gradient(224.59deg, rgba(3, 175, 229, 0.1) 0%, rgba(3, 175, 229, 0) 100%);
+  background: linear-gradient(
+    224.59deg,
+    rgba(3, 175, 229, 0.1) 0%,
+    rgba(3, 175, 229, 0) 100%
+  );
   position: absolute;
   right: -55px;
   bottom: calc(100% - 150px);
@@ -4030,13 +4221,15 @@ PAGINATION CSS START
   right: 0;
   z-index: -1;
 }
-@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .banner-thumb-3 {
     background-position: 0%;
     width: 90%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .banner-thumb-3 {
     height: 450px;
     width: 100%;
@@ -4091,7 +4284,7 @@ PAGINATION CSS START
     font-size: 36px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .banner-content-3 h2 {
     font-size: 32px;
   }
@@ -4153,7 +4346,7 @@ PAGINATION CSS START
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  color: #585B5C;
+  color: #585b5c;
 }
 .banner-social ul li a:hover {
   background-color: var(--clr-theme-secondary);
@@ -4162,19 +4355,27 @@ PAGINATION CSS START
 }
 
 .banner-4 {
-  background: linear-gradient(90.19deg, rgb(230, 247, 252) 0%, rgb(245, 254, 255) 100%);
+  background-image:   linear-gradient(
+            rgba(0, 0, 0, 0.6),
+            rgba(0, 0, 0, 0.6)
+        ), url(../imgs/New/background.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .banner-item-4 {
-  min-height: 700px;
+  min-height: 600px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .banner-item-4 {
     min-height: auto;
     padding-top: 80px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .banner-item-4 {
     padding-top: 60px;
   }
@@ -4186,7 +4387,8 @@ PAGINATION CSS START
     margin: auto;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .banner-thumb-4 {
     max-width: 350px;
     margin: auto;
@@ -4203,7 +4405,9 @@ PAGINATION CSS START
   transform: translateY(-50%);
   z-index: 55;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .banner-dot-inner {
     top: auto;
     right: auto;
@@ -4222,7 +4426,9 @@ PAGINATION CSS START
   flex-direction: column;
   gap: 10px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .banner-dot {
     display: block;
   }
@@ -4244,7 +4450,8 @@ PAGINATION CSS START
 .banner-content-4 > span {
   font-weight: 600;
   text-transform: uppercase;
-  background: rgba(3, 175, 229, 0.15);
+  background: #3E8E41;
+  color: white;
   padding: 4px 15px;
   font-size: 14px;
   display: inline-block;
@@ -4252,6 +4459,7 @@ PAGINATION CSS START
 }
 .banner-content-4 > p {
   margin-bottom: 30px;
+  color: white;
 }
 
 .banner-title-4 {
@@ -4260,6 +4468,7 @@ PAGINATION CSS START
   font-weight: 600;
   line-height: 1.1;
   margin-bottom: 20px;
+  color: white;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .banner-title-4 {
@@ -4286,7 +4495,7 @@ PAGINATION CSS START
     font-size: 36px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .banner-title-4 {
     font-size: 32px;
   }
@@ -4436,10 +4645,19 @@ PAGINATION CSS START
   background-position: center center;
   -webkit-transform: scale(1);
   transform: scale(1);
-  -webkit-transition: opacity 1500ms ease-in, -webkit-transform 7000ms ease;
-  transition: opacity 1500ms ease-in, -webkit-transform 7000ms ease;
-  transition: transform 9000ms ease, opacity 1500ms ease-in;
-  transition: transform 9000ms ease, opacity 1500ms ease-in, -webkit-transform 9000ms ease;
+  -webkit-transition:
+    opacity 1500ms ease-in,
+    -webkit-transform 7000ms ease;
+  transition:
+    opacity 1500ms ease-in,
+    -webkit-transform 7000ms ease;
+  transition:
+    transform 9000ms ease,
+    opacity 1500ms ease-in;
+  transition:
+    transform 9000ms ease,
+    opacity 1500ms ease-in,
+    -webkit-transform 9000ms ease;
 }
 .hero-1 .hero-bg::before {
   position: absolute;
@@ -4671,7 +4889,8 @@ PAGINATION CSS START
   background-color: var(--clr-theme-primary);
   color: var(--clr-common-white);
 }
-.hero-section .array-button .array-prev, .hero-section .array-button .array-next {
+.hero-section .array-button .array-prev,
+.hero-section .array-button .array-next {
   width: 70px;
   height: 70px;
   line-height: 70px;
@@ -4699,7 +4918,8 @@ PAGINATION CSS START
     height: 680px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .slider-height {
     padding-top: 100px;
     padding-bottom: 120px;
@@ -4719,17 +4939,19 @@ PAGINATION CSS START
     padding: 0px 50px 0px;
   }
 }
-@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .slider-content {
     padding: 0px 30px 0px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .slider-content {
     padding: 0px 30px 0px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .slider-content {
     padding: 0px 15px 0px;
   }
@@ -4789,7 +5011,7 @@ PAGINATION CSS START
     font-size: 40px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .slider-title {
     font-size: 30px;
   }
@@ -4830,12 +5052,14 @@ PAGINATION CSS START
     height: 650px;
   }
 }
-@media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .slider-thumb-wrapper {
     font-size: 700px;
   }
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .slider-thumb-wrapper {
     height: 450px;
   }
@@ -4946,7 +5170,8 @@ PAGINATION CSS START
   background: rgba(3, 175, 229, 0.6);
   backdrop-filter: blur(15px);
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .slider__navigation .slider-nav-prev {
     max-width: 270px;
   }
@@ -4959,7 +5184,8 @@ PAGINATION CSS START
   text-transform: capitalize;
   line-height: 1.5;
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .slider__navigation .slider-nav-prev p {
     font-size: 20px;
   }
@@ -4981,7 +5207,8 @@ PAGINATION CSS START
   background: rgba(255, 255, 255, 0.6);
   backdrop-filter: blur(15px);
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .slider__navigation .slider-nav-next {
     max-width: 270px;
   }
@@ -4993,7 +5220,8 @@ PAGINATION CSS START
   text-transform: capitalize;
   line-height: 1.5;
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .slider__navigation .slider-nav-next p {
     font-size: 20px;
   }
@@ -5034,7 +5262,8 @@ PAGINATION CSS START
   bottom: 50px;
   z-index: 55;
 }
-@media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 1400px) and (max-width: 1600px) {
+@media only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 1400px) and (max-width: 1600px) {
   .slider-pagination {
     left: 80px;
   }
@@ -5051,12 +5280,14 @@ PAGINATION CSS START
   align-items: end;
   padding-top: 100px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .slider-area-2 {
     padding-top: 160px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .slider-area-2 {
     padding-top: 145px;
   }
@@ -5095,7 +5326,7 @@ PAGINATION CSS START
 }
 
 .slider-subtitle-2 {
-  color: #FFF;
+  color: #fff;
   font-size: 16px;
   font-weight: 500;
   padding: 4px 10px;
@@ -5141,7 +5372,7 @@ PAGINATION CSS START
     font-size: 34px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .slider-title-2 {
     font-size: 28px;
   }
@@ -5165,7 +5396,7 @@ PAGINATION CSS START
 }
 
 .slider-meta-rating span {
-  color: #FFBE11;
+  color: #ffbe11;
   font-size: 14px;
 }
 
@@ -5229,7 +5460,7 @@ PAGINATION CSS START
     height: 420px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .slider-round {
     width: 320px;
     height: 320px;
@@ -5252,7 +5483,8 @@ PAGINATION CSS START
     margin: auto;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .slider-thumb-wrapper-2 .slider-thumb-2 {
     max-width: 380px;
     margin: auto;
@@ -5302,7 +5534,7 @@ PAGINATION CSS START
     height: 500px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .slider-thumb-wrapper-2 .glow {
     width: 500px;
     height: 500px;
@@ -5363,13 +5595,17 @@ PAGINATION CSS START
 .features-icon span {
   width: 90px;
   line-height: 90px;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.3) 100%);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.3) 100%
+  );
   border-radius: 68px;
   display: inline-block;
   text-align: center;
   padding: 30px 0;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .features-icon span {
     width: 80px;
     line-height: 60px;
@@ -5384,7 +5620,8 @@ PAGINATION CSS START
   margin-bottom: 15px;
   color: var(--clr-common-white);
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .features-content h4 {
     font-size: 20px;
   }
@@ -5419,7 +5656,8 @@ PAGINATION CSS START
     height: 100.21px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .round-box-2 .banner-round-1 {
     display: none;
   }
@@ -5440,7 +5678,8 @@ PAGINATION CSS START
     height: 121.89px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .round-box-2 .banner-round-2 {
     display: none;
   }
@@ -5461,7 +5700,8 @@ PAGINATION CSS START
     height: 153.35px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .round-box-2 .banner-round-3 {
     display: none;
   }
@@ -5483,7 +5723,9 @@ PAGINATION CSS START
 .about-thumb {
   max-width: 510px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .about-thumb {
     max-width: 100%;
   }
@@ -5537,7 +5779,10 @@ PAGINATION CSS START
   padding-left: 60px;
   padding-right: 50px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .about-content-box {
     padding-left: 0;
     padding-right: 0;
@@ -5569,7 +5814,8 @@ PAGINATION CSS START
 .about-info-content h4 {
   margin-bottom: 10px;
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .about-info-content h4 {
     font-size: 20px;
   }
@@ -5582,7 +5828,10 @@ PAGINATION CSS START
   padding-left: 64px;
   padding-right: 20px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .about-thumb-wrapper-2 {
     padding-left: 0;
     padding-right: 0;
@@ -5612,7 +5861,10 @@ PAGINATION CSS START
     padding-right: 30px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .about-content-box-2 {
     padding-left: 0;
     padding-right: 0;
@@ -5632,7 +5884,7 @@ PAGINATION CSS START
     top: 50px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .about-cercle {
     display: none;
   }
@@ -5644,12 +5896,15 @@ PAGINATION CSS START
   bottom: 0;
   mix-blend-mode: luminosity;
 }
-@media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .about__shape {
     max-width: 280px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .about__shape {
     display: none;
   }
@@ -5666,7 +5921,8 @@ PAGINATION CSS START
     grid-template-columns: repeat(2, 1fr);
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .about-thumb-grid {
     grid-template-columns: 1fr;
   }
@@ -5681,7 +5937,9 @@ PAGINATION CSS START
 .about-thumb-3:nth-child(1) {
   height: calc(100% - 40px);
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .about-thumb-3:nth-child(1) {
     height: 100%;
   }
@@ -5689,7 +5947,9 @@ PAGINATION CSS START
 .about-thumb-3:nth-child(3) {
   height: calc(100% - 80px);
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .about-thumb-3:nth-child(3) {
     height: 100%;
   }
@@ -5702,7 +5962,9 @@ PAGINATION CSS START
 .about-thumb-wrapper-4 .about-thumb {
   max-width: 565px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .about-thumb-wrapper-4 .about-thumb {
     width: 100%;
   }
@@ -5726,7 +5988,7 @@ PAGINATION CSS START
   bottom: 0;
   left: 0;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .about-thumb-logo {
     padding: 20px 50px;
   }
@@ -5736,7 +5998,11 @@ PAGINATION CSS START
   padding-left: 80px;
   padding-right: 40px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 1200px) and (max-width: 1399px) {
   .about-content-4 {
     padding: 0;
   }
@@ -5747,7 +6013,11 @@ PAGINATION CSS START
 }
 
 .about-round {
-  background: linear-gradient(180deg, rgb(3, 175, 229) 0%, rgba(3, 175, 229, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    rgb(3, 175, 229) 0%,
+    rgba(3, 175, 229, 0) 100%
+  );
   border-radius: 50%;
   opacity: 0.2;
   width: 190px;
@@ -5851,7 +6121,9 @@ PAGINATION CSS START
   left: 0;
   width: 50%;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .about-thumb-5 {
     width: 100%;
     position: static;
@@ -5894,7 +6166,10 @@ PAGINATION CSS START
     padding-left: 30px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .about-content-5 {
     padding: 60px;
     padding-right: 0;
@@ -5912,7 +6187,10 @@ PAGINATION CSS START
 .about-content-6 {
   padding-right: 60px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 1200px) and (max-width: 1399px) {
   .about-content-6 {
     padding-right: 0;
   }
@@ -6032,13 +6310,15 @@ PAGINATION CSS START
   border-radius: 100px;
   border: 5px solid var(--clr-common-white);
 }
-@media (max-width: 575px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .service-icon span {
     height: 80px;
     width: 80px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .service-icon span img {
     max-width: 40px;
   }
@@ -6068,12 +6348,14 @@ PAGINATION CSS START
   margin-bottom: 15px;
   text-transform: capitalize;
 }
-@media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .service-content h4 {
     font-size: 24px;
   }
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .service-content h4 {
     font-size: 20px;
   }
@@ -6132,7 +6414,9 @@ PAGINATION CSS START
   padding-top: 115px;
   padding-bottom: 60px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .service-title-wrapper {
     padding-top: 60px;
     padding-bottom: 60px;
@@ -6175,7 +6459,7 @@ PAGINATION CSS START
     font-size: 50px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .service-title {
     font-size: 36px;
   }
@@ -6189,7 +6473,9 @@ PAGINATION CSS START
   margin-bottom: 40px;
   grid-gap: 10px 30px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .title-wrapper {
     grid-template-columns: auto;
   }
@@ -6231,7 +6517,8 @@ PAGINATION CSS START
     grid-template-columns: repeat(3, 1fr);
   }
 }
-@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .service-grid {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -6250,7 +6537,12 @@ PAGINATION CSS START
   z-index: 5;
   transition: 0.5s;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 1400px) and (max-width: 1600px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 1400px) and (max-width: 1600px) {
   .service-item-2 {
     padding: 50px 30px;
   }
@@ -6300,7 +6592,7 @@ PAGINATION CSS START
     font-size: 22px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .service-title-2 {
     font-size: 20px;
   }
@@ -6310,7 +6602,9 @@ PAGINATION CSS START
   opacity: 0;
   visibility: hidden;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .service-bottom-content {
     opacity: 1;
     visibility: visible;
@@ -6374,7 +6668,8 @@ PAGINATION CSS START
   color: var(--clr-common-white);
   margin-bottom: 20px;
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .service-content-3 h4 {
     font-size: 20px;
   }
@@ -6443,7 +6738,9 @@ PAGINATION CSS START
   left: 0;
   width: 100%;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .service-item-grid {
     display: flex;
     flex-direction: column;
@@ -6455,12 +6752,15 @@ PAGINATION CSS START
   transform: translateY(130px);
   padding: 40px;
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .service-item-3 {
     padding: 30px 20px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .service-item-3 {
     transform: translateY(0px);
   }
@@ -6481,7 +6781,9 @@ PAGINATION CSS START
   top: 0;
   left: 33.33%;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .service-line-1 {
     display: none;
   }
@@ -6496,7 +6798,9 @@ PAGINATION CSS START
   top: 0;
   right: 33.33%;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .service-line-2 {
     display: none;
   }
@@ -6506,7 +6810,8 @@ PAGINATION CSS START
   background: rgb(255, 255, 255);
   padding: 30px 30px;
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .service-item-4 {
     padding: 20px 20px;
   }
@@ -6543,7 +6848,8 @@ PAGINATION CSS START
   font-size: 24px;
   margin-bottom: 10px;
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .service-content-4 h3 {
     font-size: 20px;
   }
@@ -6628,7 +6934,9 @@ PAGINATION CSS START
   width: 50%;
   left: 0;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .appointment-thumb-box {
     position: relative;
     width: 100%;
@@ -6642,7 +6950,9 @@ PAGINATION CSS START
   width: 100%;
   left: 0;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .appointment-thumb {
     position: inherit;
   }
@@ -6664,7 +6974,9 @@ PAGINATION CSS START
   width: 50%;
   left: 0;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .appointment-thumb-2 {
     position: inherit;
     width: 100%;
@@ -6688,7 +7000,10 @@ PAGINATION CSS START
 .appointment-input-wrapper {
   padding-left: 30px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .appointment-input-wrapper {
     padding-left: 0;
   }
@@ -6699,7 +7014,7 @@ PAGINATION CSS START
 }
 
 .appointment-input-wrapper-3 {
-  background: #EDF9FD;
+  background: #edf9fd;
   padding: 40px 30px;
   margin-right: 60px;
 }
@@ -6708,12 +7023,15 @@ PAGINATION CSS START
     margin-right: 30px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .appointment-input-wrapper-3 {
     margin-right: 0px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .appointment-input-wrapper-3 {
     padding: 30px 20px;
   }
@@ -6734,7 +7052,8 @@ PAGINATION CSS START
   gap: 30px 30px;
   margin-bottom: 30px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .appointment-contact {
     grid-template-columns: auto;
   }
@@ -6794,7 +7113,9 @@ PAGINATION CSS START
 .appointment-thumb-3 {
   padding-left: 30px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .appointment-thumb-3 {
     padding-left: 0;
   }
@@ -6830,7 +7151,8 @@ PAGINATION CSS START
   padding: 115px 30px 50px;
   margin-top: -90px;
 }
-@media (max-width:450px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 450px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .team-content {
     padding: 115px 30px 30px;
   }
@@ -6877,7 +7199,7 @@ PAGINATION CSS START
 }
 
 .intro-bg {
-  background: var(--clr-theme-primary);
+  background: #E67E22;
   position: absolute;
   top: 0;
   left: 0;
@@ -6894,7 +7216,10 @@ PAGINATION CSS START
     padding-right: 50px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .team-thumb-box {
     padding-right: 0;
   }
@@ -6923,7 +7248,10 @@ PAGINATION CSS START
     padding-right: 50px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .team-content-2 {
     padding-right: 0;
   }
@@ -6934,7 +7262,7 @@ PAGINATION CSS START
   color: var(--clr-common-white);
   font-size: 20px;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .team-card-content h4 {
     font-size: 18px;
   }
@@ -6969,7 +7297,7 @@ PAGINATION CSS START
   background: var(--clr-common-white);
   border-radius: 50%;
   color: rgb(22, 22, 22);
-  border: 1px solid #DCE4E7;
+  border: 1px solid #dce4e7;
 }
 .team-social a:hover {
   color: var(--clr-common-white);
@@ -7052,12 +7380,13 @@ PAGINATION CSS START
 .blog-title {
   margin-bottom: 25px;
 }
-@media (max-width: 575px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .blog-title {
     font-size: 24px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .blog-title {
     font-size: 22px;
   }
@@ -7076,7 +7405,7 @@ PAGINATION CSS START
   padding: 40px 35px;
   border: 1px solid var(--clr-border-2);
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .blog-content-box {
     padding: 30px 20px;
   }
@@ -7098,7 +7427,9 @@ PAGINATION CSS START
   column-gap: 30px;
   align-items: center;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .blog-content-item {
     grid-template-columns: auto;
   }
@@ -7118,7 +7449,9 @@ PAGINATION CSS START
   -o-transition: all 0.3s 0s ease-out;
   transition: all 0.3s 0s ease-out;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .blog-content-thumb {
     position: inherit;
     width: 100%;
@@ -7137,7 +7470,7 @@ PAGINATION CSS START
   font-size: 22px;
   line-height: 1.5;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .blog-content-title {
     font-size: 20px;
   }
@@ -7163,7 +7496,8 @@ PAGINATION CSS START
   position: relative;
   z-index: 5;
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .blog-item-3 {
     padding: 30px 20px;
   }
@@ -7215,12 +7549,14 @@ PAGINATION CSS START
 .blog-content-3 h4 {
   margin-bottom: 60px;
 }
-@media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .blog-content-3 h4 {
     font-size: 24px;
   }
 }
-@media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .blog-content-3 h4 {
     font-size: 24px;
     margin-bottom: 30px;
@@ -7229,13 +7565,19 @@ PAGINATION CSS START
 .blog-content-3 h4 a {
   background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff);
   display: inline;
-  background-size: 0% 1px, 0 1px;
-  background-position: 100% 100%, 0 80%;
+  background-size:
+    0% 1px,
+    0 1px;
+  background-position:
+    100% 100%,
+    0 80%;
   background-repeat: no-repeat;
   transition: background-size 0.4s linear;
 }
 .blog-content-3 h4 a:hover {
-  background-size: 0 1px, 100% 1px;
+  background-size:
+    0 1px,
+    100% 1px;
   color: var(--clr-common-white);
 }
 
@@ -7259,7 +7601,9 @@ PAGINATION CSS START
 .blog-title-5 {
   font-size: 22px;
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 1200px) and (max-width: 1399px) {
   .blog-title-5 {
     font-size: 20px;
   }
@@ -7270,9 +7614,9 @@ PAGINATION CSS START
 
 .postbox__wrapper {
   padding: 30px 30px;
-  background: #F6f6f6;
+  background: #f6f6f6;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .postbox__wrapper {
     padding: 20px 20px;
   }
@@ -7282,7 +7626,8 @@ PAGINATION CSS START
   font-size: 36px;
   margin-bottom: 20px;
 }
-@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .postbox__title {
     font-size: 32px;
   }
@@ -7317,7 +7662,8 @@ PAGINATION CSS START
   margin-bottom: 20px;
 }
 
-.postbox__meta span svg, .postbox__meta span i {
+.postbox__meta span svg,
+.postbox__meta span i {
   margin-right: 5px;
 }
 
@@ -7345,7 +7691,7 @@ PAGINATION CSS START
   height: 60px;
   text-align: center;
   line-height: 56px;
-  border: 2px solid #EFF0F6;
+  border: 2px solid #eff0f6;
   border-radius: 50%;
 }
 
@@ -7407,7 +7753,10 @@ PAGINATION CSS START
   left: auto;
 }
 
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .sidebar__wrapper {
     padding: 0;
   }
@@ -7443,19 +7792,24 @@ PAGINATION CSS START
   padding-right: 50px;
   font-size: 15px;
 }
-.sidebar__search-input input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+.sidebar__search-input input::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
   font-size: 15px;
 }
-.sidebar__search-input input::-moz-placeholder { /* Firefox 19+ */
+.sidebar__search-input input::-moz-placeholder {
+  /* Firefox 19+ */
   font-size: 15px;
 }
-.sidebar__search-input input:-moz-placeholder { /* Firefox 4-18 */
+.sidebar__search-input input:-moz-placeholder {
+  /* Firefox 4-18 */
   font-size: 15px;
 }
-.sidebar__search-input input:-ms-input-placeholder { /* IE 10+  Edge*/
+.sidebar__search-input input:-ms-input-placeholder {
+  /* IE 10+  Edge*/
   font-size: 15px;
 }
-.sidebar__search-input input::placeholder { /* MODERN BROWSER */
+.sidebar__search-input input::placeholder {
+  /* MODERN BROWSER */
   font-size: 15px;
 }
 
@@ -7471,7 +7825,7 @@ PAGINATION CSS START
   height: 164px;
   border-radius: 50%;
   padding: 12px;
-  border: 1px solid #E0E0E0;
+  border: 1px solid #e0e0e0;
 }
 
 .sidebar__author-title {
@@ -7504,7 +7858,7 @@ PAGINATION CSS START
   background: rgb(246, 246, 246);
   padding: 30px 30px;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .sidebar__widget {
     padding: 20px 20px;
   }
@@ -7544,7 +7898,7 @@ PAGINATION CSS START
   font-size: 14px;
   line-height: 1;
   padding: 4px 11px 5px;
-  border: 1px solid #EAEAEF;
+  border: 1px solid #eaeaef;
   border-radius: 20px;
   margin-top: 2px;
 }
@@ -7555,7 +7909,8 @@ PAGINATION CSS START
   box-shadow: 0px 1px 3px rgba(3, 4, 28, 0.06);
   margin-bottom: 20px;
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .rc__post {
     flex-wrap: wrap;
     gap: 15px;
@@ -7602,7 +7957,8 @@ PAGINATION CSS START
   transform: translateY(-2px);
 }
 
-.rc__meta span svg, .rc__meta span i {
+.rc__meta span svg,
+.rc__meta span i {
   margin-right: 6px;
 }
 
@@ -7733,7 +8089,8 @@ PAGINATION CSS START
   margin-bottom: 12px;
   display: block;
 }
-.postbox__comment-input input, .postbox__comment-input textarea {
+.postbox__comment-input input,
+.postbox__comment-input textarea {
   height: 60px;
   padding: 0 25px;
   width: 100%;
@@ -7744,7 +8101,8 @@ PAGINATION CSS START
   box-shadow: 0px 1px 3px rgba(3, 4, 28, 0.06);
   border-width: 1px;
 }
-.postbox__comment-input input:focus, .postbox__comment-input textarea:focus {
+.postbox__comment-input input:focus,
+.postbox__comment-input textarea:focus {
   border-color: var(--clr-theme-secondary);
 }
 .postbox__comment-input textarea {
@@ -7765,7 +8123,8 @@ PAGINATION CSS START
   background: var(--clr-common-white);
   box-shadow: 0px 1px 3px rgba(3, 4, 28, 0.06);
 }
-@media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .postbox__comment-box {
     padding-right: 35px;
   }
@@ -7819,7 +8178,7 @@ PAGINATION CSS START
   font-size: 14px;
   line-height: 1;
   letter-spacing: -0.02em;
-  border: 1px solid #EAEAEF;
+  border: 1px solid #eaeaef;
   padding: 7px 18px;
 }
 .postbox__comment-reply a:hover {
@@ -7837,8 +8196,8 @@ PAGINATION CSS START
   display: block;
   width: 18px;
   height: 18px;
-  background: #F0F0F5;
-  border: 1px solid #C5C5CE;
+  background: #f0f0f5;
+  border: 1px solid #c5c5ce;
   outline: none;
   flex: 0 0 auto;
   -webkit-transform: translateY(-2.5px);
@@ -7900,7 +8259,7 @@ PAGINATION CSS START
   content: "";
   height: 100%;
   width: 100%;
-  background: linear-gradient(180deg, #1C58EF 0%, rgba(28, 88, 239, 0) 100%);
+  background: linear-gradient(180deg, #1c58ef 0%, rgba(28, 88, 239, 0) 100%);
   top: 0;
   left: 0;
   opacity: 0;
@@ -7928,7 +8287,8 @@ PAGINATION CSS START
   opacity: 0;
   visibility: hidden;
 }
-@media (max-width:450px), only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media (max-width: 450px),
+  only screen and (min-width: 1200px) and (max-width: 1399px) {
   .project-content-inner {
     padding: 25px 25px;
   }
@@ -7943,7 +8303,8 @@ PAGINATION CSS START
   font-size: 22px;
   color: var(--clr-common-white);
 }
-@media (max-width:450px), only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media (max-width: 450px),
+  only screen and (min-width: 1200px) and (max-width: 1399px) {
   .project-content h4 {
     font-size: 20px;
   }
@@ -7967,7 +8328,8 @@ PAGINATION CSS START
   left: 0;
   z-index: -1;
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .project-details-bg {
     height: 350px;
   }
@@ -7984,7 +8346,9 @@ PAGINATION CSS START
   gap: 10px;
   justify-content: center;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .portfolio-meta-item {
     justify-content: start;
   }
@@ -8014,7 +8378,11 @@ PAGINATION CSS START
 .why-choose-inner {
   padding-right: 20px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .why-choose-inner {
     padding-right: 0;
   }
@@ -8023,7 +8391,11 @@ PAGINATION CSS START
 .why-choose-inner-2 {
   padding-left: 20px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .why-choose-inner-2 {
     padding-left: 0;
   }
@@ -8039,7 +8411,9 @@ PAGINATION CSS START
 .why-choose-item.active .why-choose-serial span {
   opacity: 1;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .why-choose-item {
     background: rgba(3, 175, 229, 0.1);
   }
@@ -8068,7 +8442,8 @@ PAGINATION CSS START
 .why-choose-content h4 {
   margin-bottom: 25px;
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .why-choose-content h4 {
     font-size: 20px;
   }
@@ -8099,7 +8474,7 @@ PAGINATION CSS START
   width: 100px;
   height: 100px;
   display: inline-block;
-  background: #D9F3FB;
+  background: #d9f3fb;
   line-height: 100px;
   border-radius: 50%;
   margin-bottom: 25px;
@@ -8137,7 +8512,10 @@ PAGINATION CSS START
   background-color: var(--clr-common-white);
   padding: 40px 40px 35px;
 }
-@media (max-width:450px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .why-choose-item {
     padding: 30px 30px;
   }
@@ -8162,7 +8540,10 @@ PAGINATION CSS START
 .why-choose-content h4 {
   margin-bottom: 15px;
 }
-@media (max-width:450px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 1200px) and (max-width: 1399px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .why-choose-content h4 {
     font-size: 20px;
   }
@@ -8241,7 +8622,10 @@ PAGINATION CSS START
     padding: 0 30px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .skill-content {
     padding: 0;
   }
@@ -8283,7 +8667,7 @@ PAGINATION CSS START
   transform: translateY(-50%);
   height: 10px;
   width: 100%;
-  background-color: #C9EDFF;
+  background-color: #c9edff;
   z-index: -1;
   border-radius: 4px;
 }
@@ -8296,7 +8680,9 @@ PAGINATION CSS START
 .skill-content-2 {
   padding-right: 100px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .skill-content-2 {
     padding-right: 0;
   }
@@ -8319,12 +8705,14 @@ PAGINATION CSS START
   padding: 40px 40px;
   background: var(--clr-common-white);
 }
-@media (max-width: 575px), only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media (max-width: 575px),
+  only screen and (min-width: 1200px) and (max-width: 1399px) {
   .testimonial-item {
     padding: 30px 30px;
   }
 }
-@media (max-width:450px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 450px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .testimonial-item {
     padding: 30px 25px;
   }
@@ -8340,7 +8728,7 @@ PAGINATION CSS START
   margin-bottom: 5px;
   font-size: 20px;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .avatar-name {
     font-size: 18px;
   }
@@ -8378,18 +8766,20 @@ PAGINATION CSS START
     font-size: 28px;
   }
 }
-@media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .testimonial-content-2 p {
     font-size: 26px;
     margin-bottom: 45px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .testimonial-content-2 p {
     font-size: 24px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .testimonial-content-2 p {
     font-size: 20px;
     margin-bottom: 30px;
@@ -8552,7 +8942,10 @@ PAGINATION CSS START
   padding-right: 90px;
   padding-left: 30px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .review-intro {
     padding-right: 0;
     padding-left: 0;
@@ -8589,7 +8982,9 @@ PAGINATION CSS START
   background: rgb(230, 247, 252);
   padding: 40px 40px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .review-main {
     padding: 25px 25px;
   }
@@ -8619,7 +9014,9 @@ PAGINATION CSS START
     padding: 30px 30px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .review-inner {
     grid-template-columns: 100%;
     padding: 35px 30px;
@@ -8652,7 +9049,8 @@ PAGINATION CSS START
   top: 50%;
   transform: translateY(-50%);
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .review-inner .round-2 {
     display: none;
   }
@@ -8670,7 +9068,9 @@ PAGINATION CSS START
     right: 0;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .review-thumb-wrapper {
     position: inherit;
     width: 100%;
@@ -8684,12 +9084,15 @@ PAGINATION CSS START
   line-height: 1.5;
   margin-bottom: 35px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 1200px) and (max-width: 1399px) {
   .review-content-2 > p {
     font-size: 20px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .review-content-2 > p {
     font-size: 18px;
   }
@@ -8769,7 +9172,8 @@ PAGINATION CSS START
     padding: 50px 40px;
   }
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .brand-item:nth-child(1) {
     border-bottom: 0;
   }
@@ -8820,7 +9224,8 @@ PAGINATION CSS START
 .benefit-item {
   padding: 0 25px;
 }
-@media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 1200px) and (max-width: 1399px) {
   .benefit-item {
     padding: 0;
   }
@@ -8829,7 +9234,11 @@ PAGINATION CSS START
 .benefit-content-wrap {
   padding-right: 85px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 1200px) and (max-width: 1399px) {
   .benefit-content-wrap {
     padding-right: 0;
   }
@@ -8892,7 +9301,9 @@ PAGINATION CSS START
 .bd-faq.bd-faq-2column .accordion > div {
   width: calc((100% - 50px) / 2);
 }
-@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .bd-faq.bd-faq-2column .accordion > div {
     width: calc((100% - 0px) / 1);
   }
@@ -8911,7 +9322,8 @@ PAGINATION CSS START
   gap: 15px;
   color: var(--clr-common-heading);
 }
-@media only screen and (min-width: 992px) and (max-width: 1199px), (max-width:450px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px),
+  (max-width: 450px) {
   .bd-faq .accordion-button {
     padding: 0 18px;
   }
@@ -8955,7 +9367,8 @@ PAGINATION CSS START
   padding: 20px 0px 5px 0px;
   color: var(--clr-text-body);
 }
-@media only screen and (min-width: 992px) and (max-width: 1199px), (max-width:450px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px),
+  (max-width: 450px) {
   .bd-faq .accordion-body {
     font-size: 16px;
     padding: 24px 0px 5px 0px;
@@ -8968,7 +9381,7 @@ PAGINATION CSS START
 .bd-faq .accordion-item {
   border: none;
 }
-[dir=rtl] .bd-faq .accordion-item {
+[dir="rtl"] .bd-faq .accordion-item {
   background: none;
 }
 .bd-faq .accordion-item:first-of-type .accordion-button {
@@ -9001,7 +9414,7 @@ PAGINATION CSS START
   line-height: 160px;
   border-radius: 550%;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .faq-thumb {
     transform: translate(-50%, -50%) scale(0.7);
   }
@@ -9060,12 +9473,14 @@ PAGINATION CSS START
     padding: 50px 50px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .newsletter-grid {
     padding: 50px 30px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .newsletter-grid {
     padding: 35px 30px;
   }
@@ -9078,25 +9493,30 @@ PAGINATION CSS START
   padding-right: 220px;
   border: 0;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .newsletter-input input {
     padding-right: 30px;
     height: 60px;
   }
 }
-.newsletter-input input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+.newsletter-input input::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
   color: var(--clr-text-4);
 }
-.newsletter-input input::-moz-placeholder { /* Firefox 19+ */
+.newsletter-input input::-moz-placeholder {
+  /* Firefox 19+ */
   color: var(--clr-text-4);
 }
-.newsletter-input input:-moz-placeholder { /* Firefox 4-18 */
+.newsletter-input input:-moz-placeholder {
+  /* Firefox 4-18 */
   color: var(--clr-text-4);
 }
-.newsletter-input input:-ms-input-placeholder { /* IE 10+  Edge*/
+.newsletter-input input:-ms-input-placeholder {
+  /* IE 10+  Edge*/
   color: var(--clr-text-4);
 }
-.newsletter-input input::placeholder { /* MODERN BROWSER */
+.newsletter-input input::placeholder {
+  /* MODERN BROWSER */
   color: var(--clr-text-4);
 }
 .newsletter-input .fill-btn {
@@ -9106,7 +9526,7 @@ PAGINATION CSS START
   right: 5px;
   height: 55px;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .newsletter-input .fill-btn {
     position: inherit;
     top: inherit;
@@ -9120,7 +9540,10 @@ PAGINATION CSS START
 .newsletter-content {
   padding-right: 60px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .newsletter-content {
     padding-right: 0;
   }
@@ -9160,13 +9583,14 @@ PAGINATION CSS START
   right: 0;
   transform: translateY(-50%);
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .counter-item:after {
     display: none;
   }
 }
 
-div[class*=col]:last-child .counter-item::after {
+div[class*="col"]:last-child .counter-item::after {
   display: none;
 }
 
@@ -9175,7 +9599,7 @@ div[class*=col]:last-child .counter-item::after {
   margin-bottom: 10px;
   line-height: 1;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .counter-content h2 {
     font-size: 40px;
   }
@@ -9188,7 +9612,8 @@ div[class*=col]:last-child .counter-item::after {
   margin-bottom: 0;
   color: var(--clr-common-white);
 }
-.counter-content-2 h2, .counter-content-2 span {
+.counter-content-2 h2,
+.counter-content-2 span {
   font-size: 64px;
   font-weight: 500;
   color: var(--clr-common-white);
@@ -9197,12 +9622,16 @@ div[class*=col]:last-child .counter-item::after {
   margin-bottom: 10px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-  .counter-content-2 h2, .counter-content-2 span {
+  .counter-content-2 h2,
+  .counter-content-2 span {
     font-size: 50px;
   }
 }
-@media (max-width:450px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 992px) and (max-width: 1199px) {
-  .counter-content-2 h2, .counter-content-2 span {
+@media (max-width: 450px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
+  .counter-content-2 h2,
+  .counter-content-2 span {
     font-size: 40px;
   }
 }
@@ -9221,13 +9650,14 @@ div[class*=col]:last-child .counter-item::after {
   right: 0;
   transform: translateY(-50%);
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .counter-item-2:after {
     display: none;
   }
 }
 
-div[class*=col]:last-child .counter-item-2::after {
+div[class*="col"]:last-child .counter-item-2::after {
   display: none;
 }
 
@@ -9237,7 +9667,10 @@ div[class*=col]:last-child .counter-item-2::after {
 .work-content {
   padding-right: 60px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .work-content {
     padding-right: 0;
   }
@@ -9270,7 +9703,7 @@ div[class*=col]:last-child .counter-item-2::after {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: #D9F3FB;
+  background: #d9f3fb;
   border-radius: 50%;
   margin-bottom: 25px;
 }
@@ -9278,7 +9711,8 @@ div[class*=col]:last-child .counter-item-2::after {
 .working-contentt h4 {
   margin-bottom: 15px;
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .working-contentt h4 {
     font-size: 20px;
   }
@@ -9300,7 +9734,7 @@ div[class*=col]:last-child .counter-item-2::after {
   height: 80px !important;
   width: 80px !important;
   line-height: 74px !important;
-  border: 2px solid #FFFFFF !important;
+  border: 2px solid #ffffff !important;
   z-index: -1 !important;
 }
 .beforeAfter div div div i {
@@ -9319,7 +9753,10 @@ div[class*=col]:last-child .counter-item-2::after {
   position: relative;
   padding: 35px 25px;
 }
-@media (max-width:450px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .discount-item {
     min-height: 300px;
     padding: 30px 25px;
@@ -9405,7 +9842,9 @@ div[class*=col]:last-child .counter-item-2::after {
 .modal-dialog.modal-dialog-centered {
   max-width: 1040px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .modal-dialog.modal-dialog-centered {
     margin: 15px;
   }
@@ -9414,7 +9853,7 @@ div[class*=col]:last-child .counter-item-2::after {
 .product-modal-wrapper {
   padding: 40px 40px;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .product-modal-wrapper {
     padding: 30px 30px;
   }
@@ -9475,7 +9914,10 @@ div[class*=col]:last-child .counter-item-2::after {
   max-width: 370px;
   margin: auto;
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 1200px) and (max-width: 1399px) {
   .product-thumb {
     padding: 80px 30px 40px;
   }
@@ -9495,7 +9937,8 @@ div[class*=col]:last-child .counter-item-2::after {
   font-size: 20px;
   margin-bottom: 5px;
 }
-@media (max-width:450px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 450px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .product-title {
     font-size: 18px;
   }
@@ -9588,7 +10031,8 @@ div[class*=col]:last-child .counter-item-2::after {
   gap: 30px 24px;
   justify-content: space-between;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .blog-item-4 {
     grid-template-columns: auto;
   }
@@ -9612,7 +10056,8 @@ div[class*=col]:last-child .counter-item-2::after {
     min-height: 550px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .product-banner {
     min-height: 500px;
   }
@@ -9639,7 +10084,9 @@ div[class*=col]:last-child .counter-item-2::after {
   width: 100%;
   padding: 100px 60px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .product-banner-content {
     padding: 50px 50px;
   }
@@ -9668,7 +10115,8 @@ div[class*=col]:last-child .counter-item-2::after {
   transform: translate(3px);
 }
 
-.shop-link-btn i, .shop-link-btn svg {
+.shop-link-btn i,
+.shop-link-btn svg {
   -webkit-transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
   -moz-transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
   -ms-transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
@@ -9683,7 +10131,10 @@ div[class*=col]:last-child .counter-item-2::after {
 .vaccine-content {
   padding-right: 150px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .vaccine-content {
     padding-right: 0;
   }
@@ -9711,7 +10162,6 @@ div[class*=col]:last-child .counter-item-2::after {
   content: "";
   height: 100%;
   width: 65%;
-  background: linear-gradient(90deg, #03AFE5 0%, rgba(3, 175, 229, 0) 100%);
   left: 0;
   top: 0;
 }
@@ -9726,7 +10176,7 @@ div[class*=col]:last-child .counter-item-2::after {
   font-size: 14px;
   list-style-type: none;
   text-transform: uppercase;
-  background: #4FC7ED;
+  background: #4fc7ed;
   padding: 20px 10px 5px;
   text-align: center;
   color: var(--clr-common-white);
@@ -9758,7 +10208,8 @@ div[class*=col]:last-child .counter-item-2::after {
   padding: 40px 40px;
   background: rgb(217, 243, 251);
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .support-item {
     padding: 30px 30px;
   }
@@ -9807,7 +10258,10 @@ div[class*=col]:last-child .counter-item-2::after {
     padding-right: 30px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .process-content {
     padding-right: 0px;
   }
@@ -9867,7 +10321,7 @@ div[class*=col]:last-child .counter-item-2::after {
   font-size: 20px;
   margin-bottom: 5px;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .process-info-content h3 {
     font-size: 18px;
   }
@@ -9901,7 +10355,9 @@ div[class*=col]:last-child .counter-item-2::after {
   padding: 40px 40px;
   background: rgb(237, 249, 253);
 }
-@media (max-width:450px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .doctor-item {
     padding: 30px 30px;
   }
@@ -9925,7 +10381,7 @@ div[class*=col]:last-child .counter-item-2::after {
 .doctor-content h4 {
   margin-bottom: 10px;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .doctor-content h4 {
     font-size: 22px;
   }
@@ -10084,7 +10540,9 @@ div[class*=col]:last-child .counter-item-2::after {
 .doctor-skill {
   padding-right: 80px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .doctor-skill {
     padding-right: 0;
   }
@@ -10093,7 +10551,9 @@ div[class*=col]:last-child .counter-item-2::after {
 .doctor-author-content {
   padding-left: 40px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .doctor-author-content {
     padding-left: 0;
   }
@@ -10159,7 +10619,8 @@ div[class*=col]:last-child .counter-item-2::after {
   border: 1px solid var(--clr-border-2);
   padding: 40px 40px;
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .what-we-do-item {
     padding: 30px 25px;
   }
@@ -10180,7 +10641,7 @@ div[class*=col]:last-child .counter-item-2::after {
 .what-we-do-content h4 {
   margin-bottom: 20px;
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .what-we-do-content h4 {
     margin-bottom: 15px;
     font-size: 20px;
@@ -10201,7 +10662,10 @@ div[class*=col]:last-child .counter-item-2::after {
     padding: 0 30px;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .advantage-item {
     padding: 0;
   }
@@ -10241,7 +10705,8 @@ div[class*=col]:last-child .counter-item-2::after {
 .advantage-content h4 {
   margin-bottom: 10px;
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .advantage-content h4 {
     font-size: 20px;
   }
@@ -10256,7 +10721,11 @@ div[class*=col]:last-child .counter-item-2::after {
 .faq__content {
   padding-right: 50px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 1200px) and (max-width: 1399px) {
   .faq__content {
     padding-right: 0;
   }
@@ -10267,7 +10736,8 @@ div[class*=col]:last-child .counter-item-2::after {
   padding: 30px 30px 30px 30px;
   font-weight: 500;
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .bd__faq .accordion-button {
     font-size: 20px;
   }
@@ -10300,7 +10770,8 @@ div[class*=col]:last-child .counter-item-2::after {
   text-align: center;
   color: var(--clr-text-primary);
 }
-@media (max-width:450px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 450px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .bd__faq .accordion-button::after {
     left: 20px;
   }
@@ -10335,7 +10806,8 @@ div[class*=col]:last-child .counter-item-2::after {
   width: 29%;
   top: 0;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .bd-product {
     width: 0;
   }
@@ -10356,7 +10828,8 @@ div[class*=col]:last-child .counter-item-2::after {
     width: 30%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .bd-product__bg {
     width: 0%;
   }
@@ -10447,7 +10920,8 @@ div[class*=col]:last-child .counter-item-2::after {
     padding: 50px 70px 10px;
   }
 }
-@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .bd-product__img img {
     padding: 0px 35px 0px;
   }
@@ -10587,7 +11061,10 @@ div[class*=col]:last-child .counter-item-2::after {
   flex-wrap: wrap;
   gap: 20px 15px;
 }
-@media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .product__details-content {
     padding-right: 0;
   }
@@ -10598,7 +11075,9 @@ div[class*=col]:last-child .counter-item-2::after {
   margin-bottom: 30px;
   color: var(--clr-text-2);
 }
-@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .product__details-thumb-wrapper {
     margin-right: 0;
     margin-bottom: 40px;
@@ -10626,7 +11105,8 @@ div[class*=col]:last-child .counter-item-2::after {
     margin-right: 20px;
   }
 }
-.product__details-thumb-tab .nav-tabs .nav-link.active, .product__details-thumb-tab .nav-tabs .nav-link:hover {
+.product__details-thumb-tab .nav-tabs .nav-link.active,
+.product__details-thumb-tab .nav-tabs .nav-link:hover {
   border: 1px solid var(--clr-theme-primary);
 }
 .product__details-thumb-tab .nav-tabs .nav-link img {
@@ -10743,7 +11223,7 @@ div[class*=col]:last-child .counter-item-2::after {
     padding: 30px 20px;
   }
 }
-.product__details-info ul li:nth-child(2n+1) {
+.product__details-info ul li:nth-child(2n + 1) {
   background: var(--clr-bg-5);
 }
 .product__details-info ul li h4 {
@@ -10844,7 +11324,8 @@ div[class*=col]:last-child .counter-item-2::after {
 .product__details-review-count a {
   color: var(--clr-text-2);
 }
-.product__details-comment .comment-input input, .product__details-comment .comment-input textarea {
+.product__details-comment .comment-input input,
+.product__details-comment .comment-input textarea {
   width: 100%;
   height: 60px;
   border: none;
@@ -10856,11 +11337,13 @@ div[class*=col]:last-child .counter-item-2::after {
   margin-bottom: 15px;
   padding: 15px;
 }
-.product__details-comment .comment-input input::placeholder, .product__details-comment .comment-input textarea::placeholder {
+.product__details-comment .comment-input input::placeholder,
+.product__details-comment .comment-input textarea::placeholder {
   color: var(--clr-common-black);
   opacity: 0.4;
 }
-.product__details-comment .comment-input input:focus, .product__details-comment .comment-input textarea:focus {
+.product__details-comment .comment-input input:focus,
+.product__details-comment .comment-input textarea:focus {
   outline: none;
   border-color: var(--clr-theme-primary);
 }
@@ -10937,7 +11420,9 @@ div[class*=col]:last-child .counter-item-2::after {
   font-size: 14px;
   color: var(--clr-theme-secondary);
 }
-@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .product__details-more-tab-content {
     margin-top: 50px;
   }
@@ -10962,7 +11447,8 @@ div[class*=col]:last-child .counter-item-2::after {
   -ms-border-radius: 6px;
   border-radius: 6px;
 }
-.product__details-more-tab .nav-link.active, .product__details-more-tab .nav-link:hover {
+.product__details-more-tab .nav-link.active,
+.product__details-more-tab .nav-link:hover {
   border-color: var(--clr-theme-primary);
   color: var(--clr-common-white);
   background-color: var(--clr-theme-primary);
@@ -10979,7 +11465,8 @@ div[class*=col]:last-child .counter-item-2::after {
   -ms-border-radius: 30px;
   border-radius: 30px;
 }
-.product__quantity .product-quantity-wrapper .cart-plus, .product__quantity .product-quantity-wrapper .cart-minus {
+.product__quantity .product-quantity-wrapper .cart-plus,
+.product__quantity .product-quantity-wrapper .cart-minus {
   position: absolute;
   top: 50%;
   left: 10px;
@@ -10999,7 +11486,8 @@ div[class*=col]:last-child .counter-item-2::after {
   color: #9e9e9e;
   border: 0;
 }
-.product__quantity .product-quantity-wrapper .cart-plus:hover, .product__quantity .product-quantity-wrapper .cart-minus:hover {
+.product__quantity .product-quantity-wrapper .cart-plus:hover,
+.product__quantity .product-quantity-wrapper .cart-minus:hover {
   cursor: pointer;
   color: var(--clr-theme-primary);
   background: transparent;
@@ -11097,7 +11585,10 @@ div[class*=col]:last-child .counter-item-2::after {
 .product-modal-content {
   padding-left: 20px;
 }
-@media only screen and (min-width: 992px) and (max-width: 1199px), (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px),
+  (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .product-modal-content {
     padding-left: 0;
   }
@@ -11121,7 +11612,8 @@ div[class*=col]:last-child .counter-item-2::after {
   background: var(--clr-bg-5);
 }
 
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .product-modal-box {
     margin-bottom: 15px;
   }
@@ -11150,7 +11642,8 @@ div[class*=col]:last-child .counter-item-2::after {
   font-size: 18px;
   text-transform: capitalize;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .cart-area .table-content table td.product-name {
     font-size: 14px;
   }
@@ -11245,7 +11738,8 @@ div[class*=col]:last-child .counter-item-2::after {
 .cart-area .product-quantity-form:hover {
   border-color: var(--clr-theme-primary);
 }
-.cart-area .cart-plus, .cart-area .cart-minus {
+.cart-area .cart-plus,
+.cart-area .cart-minus {
   position: absolute;
   top: 50%;
   left: 0;
@@ -11264,7 +11758,8 @@ div[class*=col]:last-child .counter-item-2::after {
   border: none;
   outline: none;
 }
-.cart-area .cart-plus:hover, .cart-area .cart-minus:hover {
+.cart-area .cart-plus:hover,
+.cart-area .cart-minus:hover {
   cursor: pointer;
   color: var(--clr-theme-primary);
   background: transparent;
@@ -11366,12 +11861,12 @@ p.lost-password a:hover {
   border-color: var(--clr-common-heading);
 }
 
-.coupon-info p.form-row input[type=submit]:hover,
-p.checkout-coupon input[type=submit]:hover {
+.coupon-info p.form-row input[type="submit"]:hover,
+p.checkout-coupon input[type="submit"]:hover {
   background: #3e976c none repeat scroll 0 0;
 }
 
-.coupon-info p.form-row input[type=checkbox] {
+.coupon-info p.form-row input[type="checkbox"] {
   position: relative;
   top: 2px;
 }
@@ -11385,9 +11880,9 @@ p.checkout-coupon input[type=submit]:hover {
 }
 
 .buttons-cart input,
-.coupon input[type=submit],
+.coupon input[type="submit"],
 .buttons-cart a,
-.coupon-info p.form-row input[type=submit] {
+.coupon-info p.form-row input[type="submit"] {
   background: #252525 none repeat scroll 0 0;
   border: medium none;
   color: var(--clr-common-white);
@@ -11410,7 +11905,7 @@ p.lost-password a {
   color: #6f6f6f;
 }
 
-p.checkout-coupon input[type=text] {
+p.checkout-coupon input[type="text"] {
   height: 60px;
   line-height: 60px;
   padding: 0 20px;
@@ -11422,7 +11917,7 @@ p.checkout-coupon input[type=text] {
   -moz-box-shadow: none;
   box-shadow: none;
 }
-p.checkout-coupon input[type=text]:focus {
+p.checkout-coupon input[type="text"]:focus {
   border-color: var(--clr-border-2);
 }
 
@@ -11502,16 +11997,16 @@ p.checkout-coupon input[type=text]:focus {
 .checkout-form-list label {
   color: var(--clr-common-heading);
 }
-.checkout-form-list input[type=checkbox] {
+.checkout-form-list input[type="checkbox"] {
   display: inline-block;
   margin-right: 10px;
   position: relative;
   top: 1px;
 }
 
-.checkout-form-list input[type=text],
-.checkout-form-list input[type=password],
-.checkout-form-list input[type=email] {
+.checkout-form-list input[type="text"],
+.checkout-form-list input[type="password"],
+.checkout-form-list input[type="email"] {
   background: var(--clr-common-white);
   border: 1px solid var(--clr-border-2);
   border-radius: 0;
@@ -11522,16 +12017,16 @@ p.checkout-coupon input[type=text]:focus {
   outline: none;
 }
 
-.checkout-form-list input[type=text]::-moz-placeholder,
-.checkout-form-list input[type=password]::-moz-placeholder,
-.checkout-form-list input[type=email]::-moz-placeholder {
+.checkout-form-list input[type="text"]::-moz-placeholder,
+.checkout-form-list input[type="password"]::-moz-placeholder,
+.checkout-form-list input[type="email"]::-moz-placeholder {
   color: #575757;
   opacity: 1;
 }
 
-.checkout-form-list input[type=text]::placeholder,
-.checkout-form-list input[type=password]::placeholder,
-.checkout-form-list input[type=email]::placeholder {
+.checkout-form-list input[type="text"]::placeholder,
+.checkout-form-list input[type="password"]::placeholder,
+.checkout-form-list input[type="email"]::placeholder {
   color: #575757;
   opacity: 1;
 }
@@ -11798,7 +12293,8 @@ p.checkout-coupon input[type=text]:focus {
 .product-side-info .product-name {
   font-size: 38px;
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .product-side-info .product-name {
     font-size: 28px;
   }
@@ -11809,7 +12305,8 @@ p.checkout-coupon input[type=text]:focus {
   font-weight: 600;
   color: var(--clr-theme-primary);
 }
-@media only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .product-side-info .product-price {
     font-size: 18px;
   }
@@ -11869,7 +12366,7 @@ p.checkout-coupon input[type=text]:focus {
   padding: 40px 40px;
   background: rgba(3, 175, 229, 0.07);
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .contact-info-item {
     padding: 30px 30px;
   }
@@ -11917,7 +12414,10 @@ p.checkout-coupon input[type=text]:focus {
   background: var(--clr-theme-primary);
   padding: 60px 60px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 1200px) and (max-width: 1399px) {
   .contact-from {
     padding: 40px 40px;
   }
@@ -11927,7 +12427,7 @@ p.checkout-coupon input[type=text]:focus {
     padding: 50px 50px;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .contact-from {
     padding: 25px 20px;
   }
@@ -12039,7 +12539,8 @@ p.checkout-coupon input[type=text]:focus {
   max-width: 860px;
   margin: 0 auto;
 }
-@media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .contact__info-main {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -12065,7 +12566,8 @@ p.checkout-coupon input[type=text]:focus {
     grid-template-columns: auto auto;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-grid {
     grid-template-columns: auto;
   }
@@ -12083,7 +12585,7 @@ p.checkout-coupon input[type=text]:focus {
   outline: none;
 }
 .input-wrapper input::placeholder {
-  color: #9F9F9F;
+  color: #9f9f9f;
 }
 
 .footer-link-2 ul li {
@@ -12155,7 +12657,8 @@ p.checkout-coupon input[type=text]:focus {
   flex-wrap: wrap;
   gap: 15px 30px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-copyright-wrapper {
     justify-content: center;
   }
@@ -12216,7 +12719,9 @@ p.checkout-coupon input[type=text]:focus {
 .footer-col-1 {
   padding-right: 15px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .footer-col-1 {
     padding-right: 0;
   }
@@ -12225,7 +12730,10 @@ p.checkout-coupon input[type=text]:focus {
 .footer-col-2 {
   padding-left: 50px;
 }
-@media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .footer-col-2 {
     padding-left: 0;
   }
@@ -12234,7 +12742,10 @@ p.checkout-coupon input[type=text]:focus {
 .footer-col-3 {
   padding-left: 80px;
 }
-@media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .footer-col-3 {
     padding-left: 0;
   }
@@ -12243,7 +12754,10 @@ p.checkout-coupon input[type=text]:focus {
 .footer-col-4 {
   padding-left: 50px;
 }
-@media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  (max-width: 575px) {
   .footer-col-4 {
     padding-left: 0;
   }
@@ -12336,7 +12850,9 @@ p.checkout-coupon input[type=text]:focus {
   gap: 50px 30px;
   justify-content: space-between;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .footer-grid-3 {
     flex-wrap: wrap;
   }
@@ -12355,12 +12871,13 @@ p.checkout-coupon input[type=text]:focus {
     width: 45%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-widget-3:nth-child(1) {
     width: 100%;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .footer-widget-3:nth-child(1) {
     width: 100%;
   }
@@ -12378,12 +12895,13 @@ p.checkout-coupon input[type=text]:focus {
     width: 45%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-widget-3:nth-child(2) {
     width: 45%;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .footer-widget-3:nth-child(2) {
     width: 100%;
   }
@@ -12401,12 +12919,13 @@ p.checkout-coupon input[type=text]:focus {
     width: 45%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-widget-3:nth-child(3) {
     width: 45%;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .footer-widget-3:nth-child(3) {
     width: 100%;
   }
@@ -12424,12 +12943,13 @@ p.checkout-coupon input[type=text]:focus {
     width: 45%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-widget-3:nth-child(4) {
     width: 100%;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .footer-widget-3:nth-child(4) {
     width: 100%;
   }
@@ -12488,12 +13008,13 @@ p.checkout-coupon input[type=text]:focus {
     width: 45%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-widget-4:nth-child(1) {
     width: 100%;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .footer-widget-4:nth-child(1) {
     width: 100%;
   }
@@ -12511,12 +13032,13 @@ p.checkout-coupon input[type=text]:focus {
     width: 45%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-widget-4:nth-child(2) {
     width: 45%;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .footer-widget-4:nth-child(2) {
     width: 100%;
   }
@@ -12534,12 +13056,13 @@ p.checkout-coupon input[type=text]:focus {
     width: 45%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-widget-4:nth-child(3) {
     width: 45%;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .footer-widget-4:nth-child(3) {
     width: 100%;
   }
@@ -12557,12 +13080,13 @@ p.checkout-coupon input[type=text]:focus {
     width: 45%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-widget-4:nth-child(4) {
     width: 100%;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .footer-widget-4:nth-child(4) {
     width: 100%;
   }
@@ -12638,7 +13162,9 @@ p.checkout-coupon input[type=text]:focus {
   align-items: start;
   padding-bottom: 80px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px) {
   .footer-grid-5 {
     flex-wrap: wrap;
   }
@@ -12648,7 +13174,10 @@ p.checkout-coupon input[type=text]:focus {
   width: 40%;
   padding-right: 100px;
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px),
+  only screen and (min-width: 768px) and (max-width: 991px),
+  only screen and (min-width: 992px) and (max-width: 1199px) {
   .footer-widget-5-1 {
     padding-right: 0;
   }
@@ -12658,12 +13187,13 @@ p.checkout-coupon input[type=text]:focus {
     width: 45%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-widget-5-1 {
     width: 100%;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .footer-widget-5-1 {
     width: 100%;
   }
@@ -12682,12 +13212,13 @@ p.checkout-coupon input[type=text]:focus {
     width: 45%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-widget-5-2 {
     width: 45%;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .footer-widget-5-2 {
     width: 100%;
   }
@@ -12706,12 +13237,13 @@ p.checkout-coupon input[type=text]:focus {
     width: 45%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-widget-5-3 {
     width: 45%;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .footer-widget-5-3 {
     width: 100%;
   }
@@ -12730,13 +13262,14 @@ p.checkout-coupon input[type=text]:focus {
     width: 45%;
   }
 }
-@media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 575px),
+  only screen and (min-width: 576px) and (max-width: 767px) {
   .footer-widget-5-4 {
     width: 100%;
   }
 }
-@media (max-width:450px) {
+@media (max-width: 450px) {
   .footer-widget-5-4 {
     width: 100%;
   }
-}/*# sourceMappingURL=main.css.map */
+} /*# sourceMappingURL=main.css.map */
