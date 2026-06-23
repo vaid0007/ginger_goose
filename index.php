@@ -1,131 +1,202 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
-
-
-<!-- Mirrored from meditek.baseecom.com/index-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Jun 2026 07:00:02 GMT -->
+  <!-- Mirrored from meditek.baseecom.com/index-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Jun 2026 07:00:02 GMT -->
 <head>
-   <meta charset="utf-8">
-   <meta http-equiv="x-ua-compatible" content="ie=edge">
-   <title>Meditek - Health & Medical HTML Template</title>
-   <meta name="description" content="">
-   <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-   <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/imgs/favicon.svg">
+<title>Ginger Goose Wellness | Natural Herbal & Organic Wellness Products India</title>
 
-   <!-- CSS here -->
-   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-   <link rel="stylesheet" href="assets/css/meanmenu.min.css">
-   <link rel="stylesheet" href="assets/css/animate.css">
-   <link rel="stylesheet" href="assets/css/swiper.min.css">
-   <link rel="stylesheet" href="assets/css/slick.css">
-   <link rel="stylesheet" href="assets/css/magnific-popup.css">
-   <link rel="stylesheet" href="assets/css/fontawesome-pro.css">
-   <link rel="stylesheet" href="assets/css/spacing.css">
-   <link rel="stylesheet" href="assets/css/main.css">
+<meta name="description" content="Ginger Goose Wellness offers premium herbal and organic wellness products inspired by the natural power of ginger. Discover natural solutions for everyday health, vitality, and holistic well-being." />
+
+<meta name="keywords" content="Ginger Goose, Ginger Goose Wellness, herbal wellness products, organic wellness products, ginger health products, natural wellness India, herbal foods, wellness beverages, ginger supplements, holistic wellness, natural health solutions, herbal ingredients, wellness brand India, organic products India" />
+
+<meta name="author" content="Ginger Goose Wellness" />
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+<meta name="revisit-after" content="7 days" />
+<meta name="language" content="English" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="general" />
+
+<!-- Canonical -->
+<link rel="canonical" href="https://www.gingergoosewellness.com/" />
+
+<!-- Favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="assets/imgs/logo/favicon_io/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/imgs/logo/favicon_io/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/imgs/logo/favicon_io/favicon-16x16.png">
+<link rel="manifest" href="assets/imgs/logo/favicon_io/site.webmanifest">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Ginger Goose Wellness | Natural Herbal & Organic Wellness Products">
+<meta property="og:description" content="Premium herbal and organic wellness products inspired by the natural power of ginger for healthier and balanced living.">
+<meta property="og:url" content="https://www.gingergoosewellness.com/">
+<meta property="og:site_name" content="Ginger Goose Wellness">
+<meta property="og:image" content="https://www.gingergoosewellness.com/assets/imgs/logo/logo.png">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Ginger Goose Wellness">
+<meta name="twitter:description" content="Natural herbal and organic wellness products inspired by the power of ginger.">
+<meta name="twitter:image" content="https://www.gingergoosewellness.com/assets/imgs/logo/logo.png">
+
+<!-- Theme -->
+<meta name="theme-color" content="#1d5c2f">
+<meta name="msapplication-TileColor" content="#1d5c2f">
+
+<!-- Local Business Schema -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Organization",
+  "name":"Ginger Goose Wellness Private Limited",
+  "url":"https://www.gingergoosewellness.com",
+  "logo":"https://www.gingergoosewellness.com/assets/imgs/logo/logo.png",
+  "description":"Premium herbal and organic wellness products inspired by the natural power of ginger.",
+  "email":"gingergoosewellness@gmail.com",
+  "telephone":"+91-9717702060",
+  "address":{
+    "@type":"PostalAddress",
+    "streetAddress":"G-30B 1st Floor Kalkaji",
+    "addressLocality":"New Delhi",
+    "postalCode":"110019",
+    "addressCountry":"IN"
+  }
+}
+</script>
+
+<!-- CSS -->
+<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+<link rel="stylesheet" href="assets/css/meanmenu.min.css" />
+<link rel="stylesheet" href="assets/css/animate.css" />
+<link rel="stylesheet" href="assets/css/swiper.min.css" />
+<link rel="stylesheet" href="assets/css/slick.css" />
+<link rel="stylesheet" href="assets/css/magnific-popup.css" />
+<link rel="stylesheet" href="assets/css/fontawesome-pro.css" />
+<link rel="stylesheet" href="assets/css/spacing.css" />
+<link rel="stylesheet" href="assets/css/main.css" />
 </head>
 
-<body>
+  <body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
 
-   <!--[if lte IE 9]>
-      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-      <![endif]-->
-
-   <!-- preloader start -->
-   <div id="preloader">
+    <!-- preloader start -->
+    <div id="preloader">
       <div class="bd-loader-inner">
-         <div class="bd-loader">
-            <span class="bd-loader-item"></span>
-            <span class="bd-loader-item"></span>
-            <span class="bd-loader-item"></span>
-            <span class="bd-loader-item"></span>
-            <span class="bd-loader-item"></span>
-            <span class="bd-loader-item"></span>
-            <span class="bd-loader-item"></span>
-            <span class="bd-loader-item"></span>
-         </div>
+        <div class="bd-loader">
+          <span class="bd-loader-item"></span>
+          <span class="bd-loader-item"></span>
+          <span class="bd-loader-item"></span>
+          <span class="bd-loader-item"></span>
+          <span class="bd-loader-item"></span>
+          <span class="bd-loader-item"></span>
+          <span class="bd-loader-item"></span>
+          <span class="bd-loader-item"></span>
+        </div>
       </div>
-   </div>
-   <!-- preloader start -->
+    </div>
+    <!-- preloader start -->
 
-   <!-- Back to top start -->
-   <div class="backtotop-wrap cursor-pointer">
-      <svg class="backtotop-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-         <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+    <!-- Back to top start -->
+    <div class="backtotop-wrap cursor-pointer">
+      <svg
+        class="backtotop-circle svg-content"
+        width="100%"
+        height="100%"
+        viewBox="-1 -1 102 102"
+      >
+        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
       </svg>
-   </div>
-   <!-- Back to top end -->
+    </div>
+    <!-- Back to top end -->
 
-   <!-- search area start -->
-   <div class="df-search-area">
+    <!-- search area start -->
+    <div class="df-search-area">
       <div class="container">
-         <div class="row">
-            <div class="col-xl-12">
-               <div class="df-search-form">
-                  <div class="df-search-close text-center mb-20">
-                     <button class="df-search-close-btn df-search-close-btn"></button>
-                  </div>
-                  <form action="#">
-                     <div class="df-search-input mb-10">
-                        <input type="text" placeholder="Search for product...">
-                        <button type="submit"><i class="flaticon-search-1"></i></button>
-                     </div>
-                     <div class="df-search-category">
-                        <span>Search by : </span>
-                        <a href="#">Healthline, </a>
-                        <a href="#">COVID-19, </a>
-                        <a href="#">Surgery, </a>
-                        <a href="#">Surgeon, </a>
-                        <a href="#">Medical research</a>
-                     </div>
-                  </form>
-               </div>
+        <div class="row">
+          <div class="col-xl-12">
+            <div class="df-search-form">
+              <div class="df-search-close text-center mb-20">
+                <button
+                  class="df-search-close-btn df-search-close-btn"
+                ></button>
+              </div>
+              <form action="#">
+                <div class="df-search-input mb-10">
+                  <input type="text" placeholder="Search for product..." />
+                  <button type="submit">
+                    <i class="flaticon-search-1"></i>
+                  </button>
+                </div>
+                <div class="df-search-category">
+                  <span>Search by : </span>
+                  <a href="#">Healthline, </a>
+                  <a href="#">COVID-19, </a>
+                  <a href="#">Surgery, </a>
+                  <a href="#">Surgeon, </a>
+                  <a href="#">Medical research</a>
+                </div>
+              </form>
             </div>
-         </div>
+          </div>
+        </div>
       </div>
-   </div>
-   <div class="body-overlay"></div>
-   <!-- search area end -->
+    </div>
+    <div class="body-overlay"></div>
+    <!-- search area end -->
 
+    <!-- Header area start -->
+    <?php include 'header.php'; ?>
+    <!-- Header area end -->
 
-
-   <!-- Header area start -->
-   <?php include 'header.php'; ?>
-   <!-- Header area end -->
-
-   <!-- Body main wrapper start -->
-   <main>
-
+    <!-- Body main wrapper start -->
+    <main>
       <!-- Banner area start -->
       <section class="banner-4 p-relative fix">
-         <div class="swiper banner-active">
-            <div class="swiper-wrapper">
-               <div class="swiper-slide">
-                  <div class="banner-item-4 d-flex align-items-end">
-                     <div class="container p-5">
-                        <div class="row g-5 align-self-end">
-                           <div class="col-xxl-8 col-lg-8">
-                              <div class="banner-content-4">
-   <span style="color:#E67E22;">Natural Wellness Solution</span>
-   <h2 class="banner-title-4">Breathe Fresh with Ginger Goose Herbal Inhaler</h2>
-   <p>
-      Experience instant freshness and natural relief with our Ayurvedic Herbal Inhaler.
-      Crafted with carefully selected herbal ingredients to help you feel refreshed,
-      energized, and comfortable anytime, anywhere.
-   </p>
-   <div class="banner-btn-wrapper">
-      <a class="solid-btn" href="product-details.html">
-         Explore Product
-         <span><i class="fa-regular fa-angle-right"></i></span>
-      </a>
-   </div>
-</div>
-                           </div>
+        <div class="swiper banner-active">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="banner-item-4 d-flex align-items-end">
+                <div class="container p-5">
+                  <div class="row g-5 align-self-end">
+                    <div class="col-xxl-8 col-lg-8">
+                      <div class="banner-content-4">
+                        <span style="color: #e67e22"
+                          >Natural Wellness Solution</span
+                        >
+                        <h2 class="banner-title-4">
+                          Breathe Fresh with Ginger Goose Herbal Inhaler
+                        </h2>
+                        <p>
+                          Experience instant freshness and natural relief with
+                          our Ayurvedic Herbal Inhaler. Crafted with carefully
+                          selected herbal ingredients to help you feel
+                          refreshed, energized, and comfortable anytime,
+                          anywhere.
+                        </p>
+                        <div class="banner-btn-wrapper">
+                          <a class="solid-btn" href="product-details.html">
+                            Explore Product
+                            <span
+                              ><i class="fa-regular fa-angle-right"></i
+                            ></span>
+                          </a>
                         </div>
-                     </div>
+                      </div>
+                    </div>
                   </div>
-               </div>
-               <!-- <div class="swiper-slide">
+                </div>
+              </div>
+            </div>
+            <!-- <div class="swiper-slide">
                   <div class="banner-item-4 d-flex align-items-end">
                      <div class="container">
                         <div class="row align-self-end">
@@ -167,234 +238,74 @@
                      </div>
                   </div>
                </div> -->
-            </div>
-            <!-- If we need pagination -->
-            <div class="banner-dot-inner">
-               <div class="banner-dot"></div>
-            </div>
-         </div>
+          </div>
+          <!-- If we need pagination -->
+          <div class="banner-dot-inner">
+            <div class="banner-dot"></div>
+          </div>
+        </div>
       </section>
       <!-- Banner area end -->
 
-      <!-- discount area start -->
-      <section class="discount-area p-relative section-space">
-         <div class="container">
-            <div class="discount-main p-relative">
-               <div class="discount-slider-navigation">
-                  <button type="button" class="discount-slider-button-prev"><i class="fa-regular fa-angle-left"></i>
-                  </button>
-                  <button type="button" class="discount-slider-button-next"><i
-                        class="fa-regular fa-angle-right"></i></button>
-               </div>
-               <div class="row align-items-center">
-                  <div class="col-xxl-12">
-                     <div class="swiper discount-active">
-                        <div class="swiper-wrapper">
-                           <div class="swiper-slide">
-    <div style="
-        border-radius: 25px;
-        padding: 25px;
-        text-align: center;
-        
-        transition: all .3s ease;
-        min-height: 380px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    ">
-        <img src="assets/imgs/New/ginger-goose-1.jpeg"
-             alt="Ginger Goose"
-             style="
-                width:100%;
-                max-width:350px;
-                height:350px;
-                object-fit:contain;
-             ">
-    </div>
-</div>
-<div class="swiper-slide">
-    <div style="
-        
-        
-        border-radius: 25px;
-        padding: 25px;
-        text-align: center;
-        
-        transition: all .3s ease;
-        min-height: 380px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    ">
-        <img src="assets/imgs/New/ginger-goose-2.jpeg"
-             alt="Ginger Goose"
-             style="
-                width:100%;
-                max-width:350px;
-                height:350px;
-                object-fit:contain;
-        
-             ">
-    </div>
-</div>
-<div class="swiper-slide">
-    <div style="
-        
-        
-        border-radius: 25px;
-        padding: 25px;
-        text-align: center;
-        
-        transition: all .3s ease;
-        min-height: 380px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    ">
-        <img src="assets/imgs/New/ginger-goose-3.jpeg"
-             alt="Ginger Goose"
-             style="
-                width:100%;
-                max-width:350px;
-                height:350px;
-                object-fit:contain;
-        
-             ">
-    </div>
-</div>
-<div class="swiper-slide">
-    <div style="
-        
-        
-        border-radius: 25px;
-        padding: 25px;
-        text-align: center;
-        
-        transition: all .3s ease;
-        min-height: 380px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    ">
-        <img src="assets/imgs/New/ginger-goose-4.jpeg"
-             alt="Ginger Goose"
-             style="
-                width:100%;
-                max-width:350px;
-                height:350px;
-                object-fit:contain;
-        
-             ">
-    </div>
-</div>
-<div class="swiper-slide">
-    <div style="
-        
-        
-        border-radius: 25px;
-        padding: 25px;
-        text-align: center;
-        
-        transition: all .3s ease;
-        min-height: 380px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    ">
-        <img src="assets/imgs/New/ginger-goose-5.jpeg"
-             alt="Ginger Goose"
-             style="
-                width:100%;
-                max-width:350px;
-                height:350px;
-                object-fit:contain;
-        
-             ">
-    </div>
-</div>
-<div class="swiper-slide">
-    <div style="
-        
-        
-        border-radius: 25px;
-        padding: 25px;
-        text-align: center;
-        
-        transition: all .3s ease;
-        min-height: 380px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    ">
-        <img src="assets/imgs/New/ginger-goose-6.jpeg"
-             alt="Ginger Goose"
-             style="
-                width:100%;
-                max-width:350px;
-                height:350px;
-                object-fit:contain;
-        
-             ">
-    </div>
-</div>
-                           <!-- <div class="swiper-slide">
-                              <div class="discount-item text-center">
-                                 <div class="discount-content">
-                                    <span>FLAT 20% OFF</span>
-                                    <h3><a href="product.html">Healthcare</a></h3>
-                                 </div>
-                                 <div class="discount-thumb"
-                                    data-background="assets/imgs/New/ginger-goose-2.jpeg"></div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="discount-item text-center">
-                                 <div class="discount-content">
-                                    <span>FLAT 35% OFF</span>
-                                    <h3><a href="product.html">Value Store</a></h3>
-                                 </div>
-                                 <div class="discount-thumb"
-                                    data-background="assets/imgs/New/ginger-goose-3.jpeg"></div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="discount-item text-center">
-                                 <div class="discount-content">
-                                    <span>FLAT 25% OFF</span>
-                                    <h3><a href="product.html">Lab test</a></h3>
-                                 </div>
-                                 <div class="discount-thumb"
-                                    data-background="assets/imgs/New/ginger-goose-4.jpeg"></div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="discount-item text-center">
-                                 <div class="discount-content">
-                                    <span>FLAT 15% OFF</span>
-                                    <h3><a href="product.html">Medicine</a></h3>
-                                 </div>
-                                 <div class="discount-thumb"
-                                    data-background="assets/imgs/New/ginger-goose-5.jpeg"></div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="discount-item text-center">
-                                 <div class="discount-content">
-                                    <span>100% OFF</span>
-                                    <h3><a href="product.html">Offers</a></h3>
-                                 </div>
-                                 <div class="discount-thumb"
-                                    data-background="assets/imgs/New/ginger-goose-6.jpeg"></div>
-                              </div>
-                           </div> -->
-                        </div>
-                     </div>
-                  </div>
-               </div>
+      <section class="about-area section-space">
+        <div class="container">
+          <div class="row gy-50 align-items-center">
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+              <div
+                class="about-thumb-wrapper-6 p-relative z-index-11 wow fadeInLeft animated"
+                data-wow-delay="0.3s"
+              >
+                <div class="about-thumb w-img">
+                  <img src="assets/imgs/New/storyimages-04.jpg" alt="" />
+                </div>
+                <div class="about-dot">
+                  <img src="assets/imgs/about/dot.svg" alt="" />
+                </div>
+              </div>
             </div>
-         </div>
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+              <div
+                class="about-content-6 wow fadeInRight animated"
+                data-wow-delay="0.3s"
+              >
+                <div class="section-title-wrapper-2 mb-15">
+                  <span class="section-subtitle-2 mb-15"
+                    >ABOUT GINGER GOOSE</span
+                  >
+                  <h2 class="section-title">
+                    Natural Wellness Rooted in the Power of Ginger
+                  </h2>
+                </div>
+
+                <p>
+                  Founded in 2026, Ginger Goose is dedicated to creating
+                  high-quality herbal and organic wellness products that support
+                  everyday health and well-being. Inspired by the natural
+                  benefits of ginger, our formulations are carefully developed
+                  to help people lead healthier, more balanced, and energized
+                  lives.
+                </p>
+
+                <div class="features__list mb-40">
+                  <ul>
+                    <li>Premium Herbal & Organic Ingredients</li>
+                    <li>Natural Solutions for Everyday Wellness</li>
+                    <li>Committed to Purity, Quality & Transparency</li>
+                  </ul>
+                </div>
+
+                <p>
+                  At Ginger Goose, we believe wellness should be simple,
+                  natural, and accessible to everyone. By combining traditional
+                  herbal wisdom with modern innovation, we create products that
+                  promote vitality, comfort, and holistic well-being without
+                  unnecessary additives or artificial ingredients.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
-      <!-- discount area end -->
 
       <!-- seller area start -->
       <!-- <section class="seller-area section-space-bottom">
@@ -638,259 +549,537 @@
 
       <!-- Vaccine area start -->
       <div class="vaccine-area theme-bg-1 section-space">
-         <div class="container">
-            <div class="row gy-50 align-items-center">
-               <div class="col-xxl-6 col-xl-6 col-lg-6">
-                  <div class="vaccine-content">
-   <div class="section-title-wrapper-4 is-white mb-15">
-      <span class="section-subtitle-4 mb-10">Our Best Product</span>
-      <h2 class="section-title-4">Ginger Goose Herbal Inhaler</h2>
-   </div>
+        <div class="container">
+          <div class="row gy-50 align-items-center">
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+              <div class="vaccine-content">
+                <div class="section-title-wrapper-4 is-white mb-15">
+                  <span class="section-subtitle-4 mb-10">Our Best Product</span>
+                  <h2 class="section-title-4">Ginger Goose Herbal Inhaler</h2>
+                </div>
 
-   <p>
-      Experience natural freshness and instant revitalization with Ginger Goose Herbal Inhaler.
-      Made with carefully selected Ayurvedic ingredients, it provides a refreshing aroma that
-      helps you feel energized and comfortable throughout the day.
-   </p>
+                <p>
+                  Experience natural freshness and instant revitalization with
+                  Ginger Goose Herbal Inhaler. Made with carefully selected
+                  Ayurvedic ingredients, it provides a refreshing aroma that
+                  helps you feel energized and comfortable throughout the day.
+                </p>
 
-   <div class="btn-wrapper">
-      <a class="solid-btn" href="product-details.html">
-         Explore Product
-         <span><i class="fa-regular fa-angle-right"></i></span>
-      </a>
-   </div>
-</div>
-               </div>
-               <div class="col-xxl-6 col-xl-6 col-lg-6">
-                  <div class="vaccine-thumb-wrapper p-relative">
-                     <div class="vaccine-thumb">
-                        <img src="assets/imgs/New/mobile 3-3.jpg" alt="">
-                     </div>
-                  </div>
-               </div>
+                <div class="btn-wrapper">
+                  <a class="solid-btn" href="product-details.html">
+                    Explore Product
+                    <span><i class="fa-regular fa-angle-right"></i></span>
+                  </a>
+                </div>
+              </div>
             </div>
-         </div>
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+              <div class="vaccine-thumb-wrapper p-relative">
+                <div class="vaccine-thumb">
+                  <img src="assets/imgs/New/mobile 3-3.jpg" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <!-- Vaccine area end -->
 
       <!-- Best seller area start -->
       <section class="best-seller-area section-space">
-         <div class="container">
-            <div class="row gy-50">
-               <div class="col-xxl-6 col-xl-6 col-lg-6">
-                  <div class="row g-15">
-                     <div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6">
-                        <div class="product-item">
-                           <div class="product-badge">
-                              <span class="product-trending">10% off</span>
-                           </div>
-                           <div class="product-thumb">
-                              <a href="product-details.html"><img src="assets/imgs/New/ginger-goose-1.jpeg" alt=""></a>
-                           </div>
-                           
-                           <div class="product-content">
-                              <div class="product-tag">
-                                 <span>Herbal Wellness</span>
-                              </div>
-                              <h4 class="product-title"><a href="product-details.html">Ginger Goose Herbal Inhaler</a></h4>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6">
-                        <div class="product-item">
-                           <div class="product-badge">
-                              <span class="product-trending">10% off</span>
-                           </div>
-                           <div class="product-thumb">
-                              <a href="product-details.html"><img src="assets/imgs/New/ginger-goose-2.jpeg" alt=""></a>
-                           </div>
-                           
-                           <div class="product-content">
-                              <div class="product-tag">
-                                 <span>Ayurvedic Product</span>
-                              </div>
-                              <h4 class="product-title"><a href="product-details.html">Ginger Goose Herbal Inhaler Pack</a></h4>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6">
-                        <div class="product-item">
-                           <div class="product-badge">
-                              <span class="product-trending">10% off</span>
-                           </div>
-                           <div class="product-thumb">
-                              <a href="product-details.html"><img src="assets/imgs/New/ginger-goose-3.jpeg" alt=""></a>
-                           </div>
-                           
-                           <div class="product-content">
-                              <div class="product-tag">
-                                 <span>Herbal Wellness</span>
-                              </div>
-                              <h4 class="product-title"><a href="product-details.html">Ginger Goose Herbal Inhaler Box</a></h4>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6">
-                        <div class="product-item">
-                           <div class="product-badge">
-                              <span class="product-trending">10% off</span>
-                           </div>
-                           <div class="product-thumb">
-                              <a href="product-details.html"><img src="assets/imgs/New/ginger-goose-4.jpeg" alt=""></a>
-                           </div>
-                           
-                           <div class="product-content">
-                              <div class="product-tag">
-                                 <span>Premium Pack</span>
-                              </div>
-                              <h4 class="product-title"><a href="product-details.html">Ginger Goose Herbal Inhaler Combo</a></h4>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xxl-6 col-xl-6 col-lg-6">
-                  <div class="product-banner">
-                     <div class="product-banner-thumb" data-background="assets/imgs/New/home5.jpg"></div>
+        <div class="container">
+          <div class="row gy-50">
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+              <div class="row g-15">
+                <div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6">
+                  <div class="product-item">
+                    <div class="product-badge">
+                      <span class="product-trending">10% off</span>
+                    </div>
+                    <div class="product-thumb">
+                      <a href="product-details.html"
+                        ><img src="assets/imgs/New/ginger-goose-1.jpeg" alt=""
+                      /></a>
+                    </div>
 
+                    <div class="product-content">
+                      <div class="product-tag">
+                        <span>Herbal Wellness</span>
+                      </div>
+                      <h4 class="product-title">
+                        <a href="product-details.html"
+                          >Ginger Goose Herbal Inhaler</a
+                        >
+                      </h4>
+                    </div>
                   </div>
-               </div>
+                </div>
+                <div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6">
+                  <div class="product-item">
+                    <div class="product-badge">
+                      <span class="product-trending">10% off</span>
+                    </div>
+                    <div class="product-thumb">
+                      <a href="product-details.html"
+                        ><img src="assets/imgs/New/ginger-goose-2.jpeg" alt=""
+                      /></a>
+                    </div>
+
+                    <div class="product-content">
+                      <div class="product-tag">
+                        <span>Ayurvedic Product</span>
+                      </div>
+                      <h4 class="product-title">
+                        <a href="product-details.html"
+                          >Ginger Goose Herbal Inhaler Pack</a
+                        >
+                      </h4>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6">
+                  <div class="product-item">
+                    <div class="product-badge">
+                      <span class="product-trending">10% off</span>
+                    </div>
+                    <div class="product-thumb">
+                      <a href="product-details.html"
+                        ><img src="assets/imgs/New/ginger-goose-3.jpeg" alt=""
+                      /></a>
+                    </div>
+
+                    <div class="product-content">
+                      <div class="product-tag">
+                        <span>Herbal Wellness</span>
+                      </div>
+                      <h4 class="product-title">
+                        <a href="product-details.html"
+                          >Ginger Goose Herbal Inhaler Box</a
+                        >
+                      </h4>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xxl-6 col-xl-6 col-md-6 col-sm-6">
+                  <div class="product-item">
+                    <div class="product-badge">
+                      <span class="product-trending">10% off</span>
+                    </div>
+                    <div class="product-thumb">
+                      <a href="product-details.html"
+                        ><img src="assets/imgs/New/ginger-goose-4.jpeg" alt=""
+                      /></a>
+                    </div>
+
+                    <div class="product-content">
+                      <div class="product-tag">
+                        <span>Premium Pack</span>
+                      </div>
+                      <h4 class="product-title">
+                        <a href="product-details.html"
+                          >Ginger Goose Herbal Inhaler Combo</a
+                        >
+                      </h4>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-         </div>
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+              <div class="product-banner">
+                <div
+                  class="product-banner-thumb"
+                  data-background="assets/imgs/New/home5.jpg"
+                ></div>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
       <!-- Best seller area end -->
 
       <!-- Review area start -->
       <section class="review-area-2">
-         <div class="container">
-            <div class="review-main">
-               <div class="review-inner">
-                  <span class="round-1"></span>
-                  <span class="round-2"></span>
-                  <div class="review-singel">
-                     <div class="swiper review-active">
-                        <div class="swiper-wrapper">
-                           <div class="swiper-slide">
-                              <div class="review-item-2">
-                                 <div class="review-quote mb-40">
-                                    <img src="assets/imgs/icons/quote-blue.png" alt="">
-                                 </div>
-                                 <div class="review-content-2">
-                                    <p>
-      I've been using Ginger Goose Herbal Inhaler daily and it provides a refreshing
-      herbal aroma that helps me feel revitalized throughout the day. The compact
-      design makes it easy to carry wherever I go.
-   </p>
-                                 </div>
-                                 <div class="review-meta">
-                                    <!-- If we need navigation buttons -->
-                                    <div class="review-navigation">
-                                       <button class="review-button-prev"><i
-                                             class="fa-regular fa-arrow-left"></i></button>
-                                       <button class="review-button-next"><i
-                                             class="fa-regular fa-arrow-right"></i></button>
-                                    </div>
-                                    <div class="review-item-content">
-                                       <h4 class="avatar-name"><a href="#">Rahul Sharma</a></h4>
-   <span>Delhi, India</span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="review-item-2">
-                                 <div class="review-quote mb-40">
-                                    <img src="assets/imgs/icons/quote-blue.png" alt="">
-                                 </div>
-                                 <div class="review-content-2">
-                                    <p>
-      A wonderful herbal product with a pleasant natural fragrance. Ginger Goose
-      Herbal Inhaler has become an essential part of my daily wellness routine.
-      Highly recommended for anyone looking for a refreshing experience.
-   </p>
-                                 </div>
-                                 <div class="review-meta">
-                                    <!-- If we need navigation buttons -->
-                                    <div class="review-navigation">
-                                       <button class="review-button-prev"><i
-                                             class="fa-regular fa-arrow-left"></i></button>
-                                       <button class="review-button-next"><i
-                                             class="fa-regular fa-arrow-right"></i></button>
-                                    </div>
-                                    <div class="review-item-content">
-                                       <h4 class="avatar-name"><a href="#">Priya Verma</a></h4>
-   <span>Mumbai, India</span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="review-item-2">
-                                 <div class="review-quote mb-40">
-                                    <img src="assets/imgs/icons/quote-blue.png" alt="">
-                                 </div>
-                                 <div class="review-content-2">
-                                    <p>
-      The quality and packaging are excellent. The herbal blend feels natural and
-      refreshing, making it perfect for use at home, work, or while travelling.
-   </p>
-                                 </div>
-                                 <div class="review-meta">
-                                    <!-- If we need navigation buttons -->
-                                    <div class="review-navigation">
-                                       <button class="review-button-prev"><i
-                                             class="fa-regular fa-arrow-left"></i></button>
-                                       <button class="review-button-next"><i
-                                             class="fa-regular fa-arrow-right"></i></button>
-                                    </div>
-                                    <div class="review-item-content">
-                                       <h4 class="avatar-name"><a href="#">Amit Gupta</a></h4>
-   <span>Jaipur, India</span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
+        <div class="container">
+          <div class="review-main">
+            <div class="review-inner">
+              <span class="round-1"></span>
+              <span class="round-2"></span>
+              <div class="review-singel">
+                <div class="swiper review-active">
+                  <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                      <div class="review-item-2">
+                        <div class="review-quote mb-40">
+                          <img src="assets/imgs/icons/quote-blue.png" alt="" />
                         </div>
-                     </div>
+                        <div class="review-content-2">
+                          <p>
+                            I've been using Ginger Goose Herbal Inhaler daily
+                            and it provides a refreshing herbal aroma that helps
+                            me feel revitalized throughout the day. The compact
+                            design makes it easy to carry wherever I go.
+                          </p>
+                        </div>
+                        <div class="review-meta">
+                          <!-- If we need navigation buttons -->
+                          <div class="review-navigation">
+                            <button class="review-button-prev">
+                              <i class="fa-regular fa-arrow-left"></i>
+                            </button>
+                            <button class="review-button-next">
+                              <i class="fa-regular fa-arrow-right"></i>
+                            </button>
+                          </div>
+                          <div class="review-item-content">
+                            <h4 class="avatar-name">
+                              <a href="#">Rahul Sharma</a>
+                            </h4>
+                            <span>Delhi, India</span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div class="review-item-2">
+                        <div class="review-quote mb-40">
+                          <img src="assets/imgs/icons/quote-blue.png" alt="" />
+                        </div>
+                        <div class="review-content-2">
+                          <p>
+                            A wonderful herbal product with a pleasant natural
+                            fragrance. Ginger Goose Herbal Inhaler has become an
+                            essential part of my daily wellness routine. Highly
+                            recommended for anyone looking for a refreshing
+                            experience.
+                          </p>
+                        </div>
+                        <div class="review-meta">
+                          <!-- If we need navigation buttons -->
+                          <div class="review-navigation">
+                            <button class="review-button-prev">
+                              <i class="fa-regular fa-arrow-left"></i>
+                            </button>
+                            <button class="review-button-next">
+                              <i class="fa-regular fa-arrow-right"></i>
+                            </button>
+                          </div>
+                          <div class="review-item-content">
+                            <h4 class="avatar-name">
+                              <a href="#">Priya Verma</a>
+                            </h4>
+                            <span>Mumbai, India</span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div class="review-item-2">
+                        <div class="review-quote mb-40">
+                          <img src="assets/imgs/icons/quote-blue.png" alt="" />
+                        </div>
+                        <div class="review-content-2">
+                          <p>
+                            The quality and packaging are excellent. The herbal
+                            blend feels natural and refreshing, making it
+                            perfect for use at home, work, or while travelling.
+                          </p>
+                        </div>
+                        <div class="review-meta">
+                          <!-- If we need navigation buttons -->
+                          <div class="review-navigation">
+                            <button class="review-button-prev">
+                              <i class="fa-regular fa-arrow-left"></i>
+                            </button>
+                            <button class="review-button-next">
+                              <i class="fa-regular fa-arrow-right"></i>
+                            </button>
+                          </div>
+                          <div class="review-item-content">
+                            <h4 class="avatar-name">
+                              <a href="#">Amit Gupta</a>
+                            </h4>
+                            <span>Jaipur, India</span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
-                  <div class="review-thumb-wrapper">
-                     <div class="review-thumb w-img">
-                        <img src="assets/imgs/testimonial/review-thumb1.png" alt="">
-                     </div>
-                  </div>
-               </div>
+                </div>
+              </div>
+              <div class="review-thumb-wrapper">
+                <div class="review-thumb w-img">
+                  <img src="assets/imgs/testimonial/review-thumb1.png" alt="" style="width:400px;"/>
+                </div>
+              </div>
             </div>
-         </div>
+          </div>
+        </div>
       </section>
       <!-- Review area end -->
 
       <!-- Important area start -->
-      <section class="important-area p-relative section-space-bottom ">
-         <div class="intro-bg">
-            <div class="intro-bg-thumb include-bg" data-background="assets/imgs/New/bg1.jpg"></div>
-         </div>
-         <div class="container">
-            <div class="row justify-content-center">
-               <div class="col-xxl-6 col-xl-6 col-lg-6">
-                  <div class="section-title-wrapper-4 is-white text-center">
-   <span class="section-subtitle-4 mb-10">Natural Wellness</span>
-   <h2 class="section-title-4 mb-35">
-      Experience the Power of Herbal Freshness
-   </h2>
-   <p style="color:#fff;max-width:600px;margin:0 auto 30px;">
-      Discover Ginger Goose Herbal Inhaler, crafted with carefully selected herbal ingredients
-      to provide a refreshing and revitalizing experience wherever you go.
-   </p>
-   <a class="solid-btn" href="contact.html">
-      Contact Us
-      <span><i class="fa-regular fa-angle-right"></i></span>
-   </a>
-</div>
-               </div>
+      <section class="important-area p-relative section-space-bottom">
+        <div class="intro-bg">
+          <div
+            class="intro-bg-thumb include-bg"
+            data-background="assets/imgs/New/bg1.jpg"
+          ></div>
+        </div>
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+              <div class="section-title-wrapper-4 is-white text-center">
+                <span class="section-subtitle-4 mb-10">Natural Wellness</span>
+                <h2 class="section-title-4 mb-35">
+                  Experience the Power of Herbal Freshness
+                </h2>
+                <p style="color: #fff; max-width: 600px; margin: 0 auto 30px">
+                  Discover Ginger Goose Herbal Inhaler, crafted with carefully
+                  selected herbal ingredients to provide a refreshing and
+                  revitalizing experience wherever you go.
+                </p>
+                <a class="solid-btn" href="contact.html">
+                  Contact Us
+                  <span><i class="fa-regular fa-angle-right"></i></span>
+                </a>
+              </div>
             </div>
-         </div>
+          </div>
+        </div>
       </section>
       <!-- Important area end -->
+
+      <!-- discount area start -->
+      <section class="discount-area p-relative section-space">
+        <div class="container">
+          <div class="discount-main p-relative">
+            <div class="discount-slider-navigation">
+              <button type="button" class="discount-slider-button-prev">
+                <i class="fa-regular fa-angle-left"></i>
+              </button>
+              <button type="button" class="discount-slider-button-next">
+                <i class="fa-regular fa-angle-right"></i>
+              </button>
+            </div>
+            <div class="row align-items-center">
+              <div class="col-xxl-12">
+                <div class="swiper discount-active">
+                  <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                      <div
+                        style="
+                          border-radius: 25px;
+                          padding: 25px;
+                          text-align: center;
+
+                          transition: all 0.3s ease;
+                          min-height: 380px;
+                          display: flex;
+                          align-items: center;
+                          justify-content: center;
+                        "
+                      >
+                        <img
+                          src="assets/imgs/New/ginger-goose-1.jpeg"
+                          alt="Ginger Goose"
+                          style="
+                            width: 100%;
+                            max-width: 350px;
+                            height: 350px;
+                            object-fit: contain;
+                          "
+                        />
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div
+                        style="
+                          border-radius: 25px;
+                          padding: 25px;
+                          text-align: center;
+
+                          transition: all 0.3s ease;
+                          min-height: 380px;
+                          display: flex;
+                          align-items: center;
+                          justify-content: center;
+                        "
+                      >
+                        <img
+                          src="assets/imgs/New/ginger-goose-2.jpeg"
+                          alt="Ginger Goose"
+                          style="
+                            width: 100%;
+                            max-width: 350px;
+                            height: 350px;
+                            object-fit: contain;
+                          "
+                        />
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div
+                        style="
+                          border-radius: 25px;
+                          padding: 25px;
+                          text-align: center;
+
+                          transition: all 0.3s ease;
+                          min-height: 380px;
+                          display: flex;
+                          align-items: center;
+                          justify-content: center;
+                        "
+                      >
+                        <img
+                          src="assets/imgs/New/ginger-goose-3.jpeg"
+                          alt="Ginger Goose"
+                          style="
+                            width: 100%;
+                            max-width: 350px;
+                            height: 350px;
+                            object-fit: contain;
+                          "
+                        />
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div
+                        style="
+                          border-radius: 25px;
+                          padding: 25px;
+                          text-align: center;
+
+                          transition: all 0.3s ease;
+                          min-height: 380px;
+                          display: flex;
+                          align-items: center;
+                          justify-content: center;
+                        "
+                      >
+                        <img
+                          src="assets/imgs/New/ginger-goose-4.jpeg"
+                          alt="Ginger Goose"
+                          style="
+                            width: 100%;
+                            max-width: 350px;
+                            height: 350px;
+                            object-fit: contain;
+                          "
+                        />
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div
+                        style="
+                          border-radius: 25px;
+                          padding: 25px;
+                          text-align: center;
+
+                          transition: all 0.3s ease;
+                          min-height: 380px;
+                          display: flex;
+                          align-items: center;
+                          justify-content: center;
+                        "
+                      >
+                        <img
+                          src="assets/imgs/New/ginger-goose-5.jpeg"
+                          alt="Ginger Goose"
+                          style="
+                            width: 100%;
+                            max-width: 350px;
+                            height: 350px;
+                            object-fit: contain;
+                          "
+                        />
+                      </div>
+                    </div>
+                    <div class="swiper-slide">
+                      <div
+                        style="
+                          border-radius: 25px;
+                          padding: 25px;
+                          text-align: center;
+
+                          transition: all 0.3s ease;
+                          min-height: 380px;
+                          display: flex;
+                          align-items: center;
+                          justify-content: center;
+                        "
+                      >
+                        <img
+                          src="assets/imgs/New/ginger-goose-6.jpeg"
+                          alt="Ginger Goose"
+                          style="
+                            width: 100%;
+                            max-width: 350px;
+                            height: 350px;
+                            object-fit: contain;
+                          "
+                        />
+                      </div>
+                    </div>
+                    <!-- <div class="swiper-slide">
+                              <div class="discount-item text-center">
+                                 <div class="discount-content">
+                                    <span>FLAT 20% OFF</span>
+                                    <h3><a href="product.html">Healthcare</a></h3>
+                                 </div>
+                                 <div class="discount-thumb"
+                                    data-background="assets/imgs/New/ginger-goose-2.jpeg"></div>
+                              </div>
+                           </div>
+                           <div class="swiper-slide">
+                              <div class="discount-item text-center">
+                                 <div class="discount-content">
+                                    <span>FLAT 35% OFF</span>
+                                    <h3><a href="product.html">Value Store</a></h3>
+                                 </div>
+                                 <div class="discount-thumb"
+                                    data-background="assets/imgs/New/ginger-goose-3.jpeg"></div>
+                              </div>
+                           </div>
+                           <div class="swiper-slide">
+                              <div class="discount-item text-center">
+                                 <div class="discount-content">
+                                    <span>FLAT 25% OFF</span>
+                                    <h3><a href="product.html">Lab test</a></h3>
+                                 </div>
+                                 <div class="discount-thumb"
+                                    data-background="assets/imgs/New/ginger-goose-4.jpeg"></div>
+                              </div>
+                           </div>
+                           <div class="swiper-slide">
+                              <div class="discount-item text-center">
+                                 <div class="discount-content">
+                                    <span>FLAT 15% OFF</span>
+                                    <h3><a href="product.html">Medicine</a></h3>
+                                 </div>
+                                 <div class="discount-thumb"
+                                    data-background="assets/imgs/New/ginger-goose-5.jpeg"></div>
+                              </div>
+                           </div>
+                           <div class="swiper-slide">
+                              <div class="discount-item text-center">
+                                 <div class="discount-content">
+                                    <span>100% OFF</span>
+                                    <h3><a href="product.html">Offers</a></h3>
+                                 </div>
+                                 <div class="discount-thumb"
+                                    data-background="assets/imgs/New/ginger-goose-6.jpeg"></div>
+                              </div>
+                           </div> -->
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- discount area end -->
 
       <!-- Latest product area start -->
       <!-- <div class="section latest-product-area section-space">
@@ -1199,66 +1388,81 @@
 
       <!-- Support area start -->
       <section class="support-area section-space">
-         <div class="container">
-            <div class="row g-5">
-               <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
-   <div class="support-item">
-      <div class="support-content">
-         <h3>100% Herbal Formula</h3>
-         <p>Made with premium herbal ingredients carefully selected to deliver a refreshing and revitalizing wellness every day.</p>
-         <a class="join-btn" href="about.html">Learn More<span><i class="fa-regular fa-angle-right"></i></span></a>
-      </div>
-   </div>
-</div>
-
-<div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
-   <div class="support-item is-light-yellow">
-      <div class="support-content">
-         <h3>Easy to Carry</h3>
-         <p>Compact and convenient design allows you to enjoy natural freshness and comfort wherever you travel.</p>
-         <a class="join-btn" href="product.html">View Product<span><i class="fa-regular fa-angle-right"></i></span></a>
-      </div>
-   </div>
-</div>
-
-<div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
-   <div class="support-item is-pale-pink">
-      <div class="support-content">
-         <h3>Trusted Quality</h3>
-         <p>Manufactured with strict quality standards to ensure purity, consistency, and customer satisfaction every time.</p>
-         <a class="join-btn" href="contact.html">Contact Us<span><i class="fa-regular fa-angle-right"></i></span></a>
-      </div>
-   </div>
-</div>
+        <div class="container">
+          <div class="row g-5">
+            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
+              <div class="support-item">
+                <div class="support-content">
+                  <h3>100% Herbal Formula</h3>
+                  <p>
+                    Made with premium herbal ingredients carefully selected to
+                    deliver a refreshing and revitalizing wellness every day.
+                  </p>
+                  <a class="join-btn" href="about.html"
+                    >Learn More<span
+                      ><i class="fa-regular fa-angle-right"></i></span
+                  ></a>
+                </div>
+              </div>
             </div>
-         </div>
+
+            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
+              <div class="support-item is-light-yellow">
+                <div class="support-content">
+                  <h3>Easy to Carry</h3>
+                  <p>
+                    Compact and convenient design allows you to enjoy natural
+                    freshness and comfort wherever you travel.
+                  </p>
+                  <a class="join-btn" href="product.html"
+                    >View Product<span
+                      ><i class="fa-regular fa-angle-right"></i></span
+                  ></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
+              <div class="support-item is-pale-pink">
+                <div class="support-content">
+                  <h3>Trusted Quality</h3>
+                  <p>
+                    Manufactured with strict quality standards to ensure purity,
+                    consistency, and customer satisfaction every time.
+                  </p>
+                  <a class="join-btn" href="contact.html"
+                    >Contact Us<span
+                      ><i class="fa-regular fa-angle-right"></i></span
+                  ></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
 
-      
       <!-- Support area end -->
+    </main>
+    <!-- Body main wrapper end -->
 
-   </main>
-   <!-- Body main wrapper end -->
+    <!-- Footer area start -->
+    <?php include 'footer.php'; ?>
+    <!-- Footer area end -->
 
-   <!-- Footer area start -->
-   <?php include 'footer.php'; ?>
-   <!-- Footer area end -->
+    <!-- JS here -->
+    <script src="assets/js/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/meanmenu.min.js"></script>
+    <script src="assets/js/swiper.min.js"></script>
+    <script src="assets/js/slick.min.js"></script>
+    <script src="assets/js/magnific-popup.min.js"></script>
+    <script src="assets/js/counterup.js"></script>
+    <script src="assets/js/wow.js"></script>
+    <script src="assets/js/ajax-form.js"></script>
+    <script src="assets/js/beforeafter.jquery-1.0.0.min.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
 
-   <!-- JS here -->
-   <script src="assets/js/jquery-3.6.0.min.js"></script>
-   <script src="assets/js/waypoints.min.js"></script>
-   <script src="assets/js/bootstrap.bundle.min.js"></script>
-   <script src="assets/js/meanmenu.min.js"></script>
-   <script src="assets/js/swiper.min.js"></script>
-   <script src="assets/js/slick.min.js"></script>
-   <script src="assets/js/magnific-popup.min.js"></script>
-   <script src="assets/js/counterup.js"></script>
-   <script src="assets/js/wow.js"></script>
-   <script src="assets/js/ajax-form.js"></script>
-   <script src="assets/js/beforeafter.jquery-1.0.0.min.js"></script>
-   <script src="assets/js/main.js"></script>
-</body>
-
-
-<!-- Mirrored from meditek.baseecom.com/index-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Jun 2026 07:00:31 GMT -->
+  <!-- Mirrored from meditek.baseecom.com/index-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Jun 2026 07:00:31 GMT -->
 </html>

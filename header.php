@@ -109,13 +109,13 @@
                                        <a href="about.php">About</a>
                                     </li>
                                     <li class="">
-                                       <a href="service.php">Services</a>
+                                       <a href="product.php">Products</a>
                                     </li>
                                     <li class="">
                                        <a href="gallery.php">gallery</a>
                                     </li>
                                     <li>
-                                       <a href="contact.phpx">Contact</a>
+                                       <a href="contact.php">Contact</a>
                                     </li>
                                  </ul>
                               </nav>

@@ -6303,7 +6303,7 @@ PAGINATION CSS START
 .service-icon span {
   height: 100px;
   width: 100px;
-  background: var(--clr-theme-primary);
+  background: #e67e22;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -7999,7 +7999,7 @@ PAGINATION CSS START
   width: 24px;
   top: 50%;
   left: 0;
-  background: var(--clr-theme-secondary);
+  background: #e67e22;
   transform: translateY(-50%);
   font-family: var(--bd-ff-fontawesome);
   text-align: center;

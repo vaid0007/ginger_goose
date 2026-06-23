@@ -4,26 +4,67 @@
 
 <!-- Mirrored from meditek.baseecom.com/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Jun 2026 07:01:07 GMT -->
 <head>
-   <meta charset="utf-8">
-   <meta http-equiv="x-ua-compatible" content="ie=edge">
-   <title>Meditek
-                                  - Health & Medical HTML Template</title>
-   <meta name="description" content="">
-   <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-   <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/imgs/favicon.svg">
+<title>About Ginger Goose Wellness | Natural Herbal & Organic Wellness Brand</title>
 
-   <!-- CSS here -->
-   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-   <link rel="stylesheet" href="assets/css/meanmenu.min.css">
-   <link rel="stylesheet" href="assets/css/animate.css">
-   <link rel="stylesheet" href="assets/css/swiper.min.css">
-   <link rel="stylesheet" href="assets/css/slick.css">
-   <link rel="stylesheet" href="assets/css/magnific-popup.css">
-   <link rel="stylesheet" href="assets/css/fontawesome-pro.css">
-   <link rel="stylesheet" href="assets/css/spacing.css">
-   <link rel="stylesheet" href="assets/css/main.css">
+<meta name="description" content="Learn about Ginger Goose Wellness, a New Delhi-based herbal and organic wellness brand dedicated to creating natural products inspired by the power of ginger. Discover our mission, vision, and commitment to healthier living." />
+
+<meta name="keywords" content="About Ginger Goose, Ginger Goose Wellness, herbal wellness brand India, organic wellness products, natural health company, ginger wellness products, herbal lifestyle brand, wellness company New Delhi, natural wellness solutions" />
+
+<meta name="author" content="Ginger Goose Wellness" />
+<meta name="robots" content="index, follow" />
+<meta name="language" content="English" />
+
+<link rel="canonical" href="https://www.gingergoosewellness.com/about.html" />
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="About Ginger Goose Wellness">
+<meta property="og:description" content="Discover the story, mission, and vision behind Ginger Goose Wellness and our commitment to natural wellness through herbal and organic products.">
+<meta property="og:url" content="https://www.gingergoosewellness.com/about.html">
+<meta property="og:site_name" content="Ginger Goose Wellness">
+<meta property="og:image" content="https://www.gingergoosewellness.com/assets/imgs/logo/logo.png">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="About Ginger Goose Wellness">
+<meta name="twitter:description" content="Natural wellness inspired by the power of ginger. Learn about our story and values.">
+<meta name="twitter:image" content="https://www.gingergoosewellness.com/assets/imgs/logo/logo.png">
+
+<!-- About Page Schema -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"AboutPage",
+  "name":"About Ginger Goose Wellness",
+  "description":"Learn about Ginger Goose Wellness, its mission, vision, and commitment to natural wellness through herbal and organic products.",
+  "publisher":{
+    "@type":"Organization",
+    "name":"Ginger Goose Wellness Private Limited",
+    "url":"https://www.gingergoosewellness.com"
+  }
+}
+</script>
+
+<!-- Favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="assets/imgs/logo/favicon_io/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/imgs/logo/favicon_io/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/imgs/logo/favicon_io/favicon-16x16.png">
+<link rel="manifest" href="assets/imgs/logo/favicon_io/site.webmanifest">
+
+<!-- CSS -->
+<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+<link rel="stylesheet" href="assets/css/meanmenu.min.css" />
+<link rel="stylesheet" href="assets/css/animate.css" />
+<link rel="stylesheet" href="assets/css/swiper.min.css" />
+<link rel="stylesheet" href="assets/css/slick.css" />
+<link rel="stylesheet" href="assets/css/magnific-popup.css" />
+<link rel="stylesheet" href="assets/css/fontawesome-pro.css" />
+<link rel="stylesheet" href="assets/css/spacing.css" />
+<link rel="stylesheet" href="assets/css/main.css" />
 </head>
 
 <body>
@@ -97,7 +138,7 @@
 
       <!-- Breadcrumb area start  -->
       <div class="breadcrumb__area theme-bg-1 p-relative z-index-11 pt-95 pb-95">
-         <div class="breadcrumb__thumb" data-background="assets/imgs/bg/breadcrumb-bg.jpg"></div>
+         <div class="breadcrumb__thumb" data-background="assets/imgs/New/desktop3-1.jpg"></div>
          <div class="container">
             <div class="row justify-content-center">
                <div class="col-xxl-12">
@@ -120,56 +161,180 @@
 
       <!-- About area start -->
       <section class="about-area section-space">
-         <div class="container">
-            <div class="row gy-50 align-items-center">
-               <div class="col-xxl-6 col-xl-6 col-lg-6">
-                  <div class="about-thumb-wrapper-6 p-relative z-index-11 wow fadeInLeft animated"
-                     data-wow-delay="0.3s">
-                     <div class="about-thumb w-img">
-                        <img src="assets/imgs/about/about-thumb-11.jpg" alt="">
-                     </div>
-                     <div class="about-dot">
-                        <img src="assets/imgs/about/dot.svg" alt="">
-                     </div>
-                     <div class="about-experience-2">
-                        <p>25+ years of Experience</p>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xxl-6 col-xl-6 col-lg-6">
-                  <div class="about-content-6 wow fadeInRight animated" data-wow-delay="0.3s">
-                     <div class="section-title-wrapper-2 mb-15">
-                        <span class="section-subtitle-2 mb-15">DIAGNOSTIC CENTER</span>
-                        <h2 class="section-title">Best Healthcare
-                           for you</h2>
-                     </div>
-                     <p>Lorem ipsum dolor sit amet consectetur adipisng elit Ut et massa mi. Aliquam in hendr
-                        Pellentesque sit amet sapiengilla, mattis ligula consectetur, ultrices mauris. Maecenas.</p>
-                     <div class="features__list mb-40">
-                        <ul>
-                           <li>Reduced symptoms of anxiety</li>
-                           <li>Improved stress management</li>
-                           <li>Better emotional regulation</li>
-                        </ul>
-                     </div>
-                     <div class="about-author-wrapper">
-                        <div class="about-author">
-                           <div class="about-author-thumb">
-                              <img src="assets/imgs/user/user-06.jpg" alt="">
-                           </div>
-                           <div class="about-author-content">
-                              <h4>William K. Diaz</h4>
-                              <span>Founder</span>
-                           </div>
-                        </div>
-                        <div class="about-author-signature">
-                           <img src="assets/imgs/about/signature.png" alt="">
-                        </div>
-                     </div>
-                  </div>
-               </div>
+        <div class="container">
+          <div class="row gy-50 align-items-center">
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+              <div
+                class="about-thumb-wrapper-6 p-relative z-index-11 wow fadeInLeft animated"
+                data-wow-delay="0.3s"
+              >
+                <div class="about-thumb w-img">
+                  <img src="assets/imgs/New/3.png" alt="" />
+                </div>
+                <div class="about-dot">
+                  <img src="assets/imgs/about/dot.svg" alt="" />
+                </div>
+              </div>
             </div>
-         </div>
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+              <div
+                class="about-content-6 wow fadeInRight animated"
+                data-wow-delay="0.3s"
+              >
+                <div class="section-title-wrapper-2 mb-15">
+                  <span class="section-subtitle-2 mb-15"
+                    >ABOUT GINGER GOOSE</span
+                  >
+                  <h2 class="section-title">
+                    Natural Wellness Rooted in the Power of Ginger
+                  </h2>
+                </div>
+
+                <p>
+                  Founded in 2026, Ginger Goose is dedicated to creating
+                  high-quality herbal and organic wellness products that support
+                  everyday health and well-being. Inspired by the natural
+                  benefits of ginger, our formulations are carefully developed
+                  to help people lead healthier, more balanced, and energized
+                  lives.
+                </p>
+
+                <div class="features__list mb-40">
+                  <ul>
+                    <li>Premium Herbal & Organic Ingredients</li>
+                    <li>Natural Solutions for Everyday Wellness</li>
+                    <li>Committed to Purity, Quality & Transparency</li>
+                  </ul>
+                </div>
+
+                <p>
+                  At Ginger Goose, we believe wellness should be simple,
+                  natural, and accessible to everyone. By combining traditional
+                  herbal wisdom with modern innovation, we create products that
+                  promote vitality, comfort, and holistic well-being without
+                  unnecessary additives or artificial ingredients.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- About area end -->
+
+      <!-- About area start -->
+      <section class="about-area section-space">
+        <div class="container">
+          <div class="row gy-50 align-items-center">
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+  <div
+    class="about-content-6 wow fadeInRight animated"
+    data-wow-delay="0.3s"
+  >
+    <div class="section-title-wrapper-2 mb-15">
+      <span class="section-subtitle-2 mb-15">OUR MISSION</span>
+      <h2 class="section-title">
+        Committed to Natural Wellness for Everyone
+      </h2>
+    </div>
+
+    <p>
+      At Ginger Goose, our mission is to create high-quality herbal and organic
+      wellness products that harness the natural power of ginger and other
+      trusted ingredients. We are dedicated to delivering safe, effective, and
+      authentic solutions that support everyday health, vitality, and overall
+      well-being.
+    </p>
+
+    <div class="features__list mb-40">
+      <ul>
+        <li>Premium Herbal & Organic Ingredients</li>
+        <li>Safe, Natural & Effective Formulations</li>
+        <li>Committed to Quality, Purity & Transparency</li>
+      </ul>
+    </div>
+
+    <p>
+      Through continuous innovation and a deep respect for nature, we strive to
+      make natural wellness accessible to everyone. Our goal is to help
+      individuals and families embrace healthier lifestyles with products they
+      can trust every day.
+    </p>
+  </div>
+</div>
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+              <div
+                class="about-thumb-wrapper-6 p-relative z-index-11 wow fadeInLeft animated"
+                data-wow-delay="0.3s"
+              >
+                <div class="about-thumb w-img">
+                  <img src="assets/imgs/New/4.png" alt="" />
+                </div>
+                <div class="about-dot">
+                  <img src="assets/imgs/about/dot.svg" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- About area end -->
+
+      <!-- About area start -->
+      <section class="about-area section-space">
+        <div class="container">
+          <div class="row gy-50 align-items-center">
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+              <div
+                class="about-thumb-wrapper-6 p-relative z-index-11 wow fadeInLeft animated"
+                data-wow-delay="0.3s"
+              >
+                <div class="about-thumb w-img">
+                  <img src="assets/imgs/New/7.png" alt="" />
+                </div>
+                <div class="about-dot">
+                  <img src="assets/imgs/about/dot.svg" alt="" />
+                </div>
+              </div>
+            </div>
+            <div class="col-xxl-6 col-xl-6 col-lg-6">
+  <div
+    class="about-content-6 wow fadeInRight animated"
+    data-wow-delay="0.3s"
+  >
+    <div class="section-title-wrapper-2 mb-15">
+      <span class="section-subtitle-2 mb-15">OUR VISION</span>
+      <h2 class="section-title">
+        Inspiring Healthier Lives Through Nature
+      </h2>
+    </div>
+
+    <p>
+      At Ginger Goose, our vision is to become a trusted leader in natural
+      wellness by creating innovative, high-quality products rooted in the
+      goodness of nature. We aspire to empower individuals and families to
+      embrace healthier, more balanced lifestyles through safe and effective
+      herbal solutions.
+    </p>
+
+    <div class="features__list mb-40">
+      <ul>
+        <li>Leading Innovation in Natural Wellness</li>
+        <li>Promoting Holistic Health & Well-Being</li>
+        <li>Building Trust Through Quality & Authenticity</li>
+      </ul>
+    </div>
+
+    <p>
+      By combining traditional herbal wisdom with modern product innovation,
+      we aim to make natural wellness accessible to people everywhere. Our
+      commitment is to deliver products that inspire confidence, support
+      everyday well-being, and create a healthier future for generations to
+      come.
+    </p>
+  </div>
+</div>
+          </div>
+        </div>
       </section>
       <!-- About area end -->
 
@@ -179,8 +344,8 @@
             <div class="row section-title-spacing justify-content-center">
                <div class="col-xxl-5 col-xl-5 col-lg-6">
                   <div class="section-title-wrapper-2 text-center">
-                     <span class="section-subtitle-2 mb-15">Our Service</span>
-                     <h2 class="section-title">Best Medical Services</h2>
+                     <span class="section-subtitle-2 mb-15">Our Products</span>
+<h2 class="section-title">Natural Wellness Solutions</h2>
                   </div>
                </div>
             </div>
@@ -188,11 +353,14 @@
                <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
                   <div class="service-item wow fadeIn" data-wow-delay="0.3S">
                      <div class="service-thumb w-img">
-                        <a href="service-details.html"><img src="assets/imgs/service/service-01.jpg" alt=""></a>
+                        <a href="service-details.html"><img src="assets/imgs/new/5.png" alt=""></a>
                      </div>
                      <div class="service-content">
-                        <h4><a href="service-details.html">immediate care</a></h4>
-                        <p>edical services required on the spot e.g. for medical</p>
+                        <h4><a href="#">Herbal Wellness Products</a></h4>
+<p>
+   Carefully formulated herbal products designed to support everyday health,
+   vitality, and overall well-being using natural ingredients.
+</p>
                         <div class="service-link"><a href="service-details.html"><i
                                  class="fa-regular fa-angle-right"></i></a>
                         </div>
@@ -205,11 +373,14 @@
                <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
                   <div class="service-item wow fadeIn" data-wow-delay="0.5S">
                      <div class="service-thumb w-img">
-                        <a href="service-details.html"><img src="assets/imgs/service/service-02.jpg" alt=""></a>
+                        <a href="service-details.html"><img src="assets/imgs/New/6.png" alt=""></a>
                      </div>
                      <div class="service-content">
-                        <h4><a href="service-details.html">diagnostic center</a></h4>
-                        <p>edical services required on the spot e.g. for medical</p>
+                        <h4><a href="#">Ginger-Based Health Solutions</a></h4>
+<p>
+   Innovative wellness products powered by the natural benefits of ginger to
+   help promote comfort, balance, and a healthier lifestyle.
+</p>
                         <div class="service-link"><a href="service-details.html"><i
                                  class="fa-regular fa-angle-right"></i></a>
                         </div>
@@ -222,11 +393,14 @@
                <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
                   <div class="service-item wow fadeIn" data-wow-delay="0.7S">
                      <div class="service-thumb w-img">
-                        <a href="service-details.html"><img src="assets/imgs/service/service-03.jpg" alt=""></a>
+                        <a href="service-details.html"><img src="assets/imgs/New/4.png" alt=""></a>
                      </div>
                      <div class="service-content">
-                        <h4><a href="service-details.html">pediatric services</a></h4>
-                        <p>edical services required on the spot e.g. for medical</p>
+                        <h4><a href="#">Herbal Foods & Beverages</a></h4>
+<p>
+   Refreshing and nourishing foods and beverages crafted with natural
+   ingredients to support daily wellness and vitality.
+</p>
                         <div class="service-link"><a href="service-details.html"><i
                                  class="fa-regular fa-angle-right"></i></a>
                         </div>
@@ -238,12 +412,12 @@
                </div>
             </div>
             <div class="btn-wrapper text-center">
-               <a href="service-details.html" class="fill-btn">
-                  <span class="fill-btn-inner">
-                     <span class="fill-btn-normal">View More<i class="fa-regular fa-angle-right"></i></span>
-                     <span class="fill-btn-hover">View More<i class="fa-regular fa-angle-right"></i></span>
-                  </span>
-               </a>
+               <a href="products.html" class="fill-btn">
+   <span class="fill-btn-inner">
+      <span class="fill-btn-normal">Explore Products<i class="fa-regular fa-angle-right"></i></span>
+      <span class="fill-btn-hover">Explore Products<i class="fa-regular fa-angle-right"></i></span>
+   </span>
+</a>
             </div>
          </div>
       </section>
@@ -265,9 +439,10 @@
                                     <img src="assets/imgs/icons/quote-blue.png" alt="">
                                  </div>
                                  <div class="review-content-2">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                       hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula
-                                       consectetur, ultrices mauris. Maecenas.</p>
+                                    <p>I've been using Ginger Goose Herbal Inhaler daily
+                            and it provides a refreshing herbal aroma that helps
+                            me feel revitalized throughout the day. The compact
+                            design makes it easy to carry wherever I go.</p>
                                  </div>
                                  <div class="review-meta">
                                     <!-- If we need navigation buttons -->
@@ -278,8 +453,10 @@
                                              class="fa-regular fa-arrow-right"></i></button>
                                     </div>
                                     <div class="review-item-content">
-                                       <h4 class="avatar-name"><a href="#">Alexsia Jorgina</a></h4>
-                                       <span>Director</span>
+                                       <h4 class="avatar-name">
+                              <a href="#">Rahul Sharma</a>
+                            </h4>
+                            <span>Delhi, India</span>
                                     </div>
                                  </div>
                               </div>
@@ -290,9 +467,11 @@
                                     <img src="assets/imgs/icons/quote-blue.png" alt="">
                                  </div>
                                  <div class="review-content-2">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                       hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula
-                                       consectetur, ultrices mauris. Maecenas.</p>
+                                    <p>A wonderful herbal product with a pleasant natural
+                            fragrance. Ginger Goose Herbal Inhaler has become an
+                            essential part of my daily wellness routine. Highly
+                            recommended for anyone looking for a refreshing
+                            experience.</p>
                                  </div>
                                  <div class="review-meta">
                                     <!-- If we need navigation buttons -->
@@ -303,8 +482,10 @@
                                              class="fa-regular fa-arrow-right"></i></button>
                                     </div>
                                     <div class="review-item-content">
-                                       <h4 class="avatar-name"><a href="#">Alexsia Jorgina</a></h4>
-                                       <span>Director</span>
+                                       <h4 class="avatar-name">
+                              <a href="#">Priya Verma</a>
+                            </h4>
+                            <span>Mumbai, India</span>
                                     </div>
                                  </div>
                               </div>
@@ -315,9 +496,11 @@
                                     <img src="assets/imgs/icons/quote-blue.png" alt="">
                                  </div>
                                  <div class="review-content-2">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Aliquam in
-                                       hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula
-                                       consectetur, ultrices mauris. Maecenas.</p>
+                                    <p>
+                            The quality and packaging are excellent. The herbal
+                            blend feels natural and refreshing, making it
+                            perfect for use at home, work, or while travelling.
+                          </p>
                                  </div>
                                  <div class="review-meta">
                                     <!-- If we need navigation buttons -->
@@ -328,8 +511,10 @@
                                              class="fa-regular fa-arrow-right"></i></button>
                                     </div>
                                     <div class="review-item-content">
-                                       <h4 class="avatar-name"><a href="#">Alexsia Jorgina</a></h4>
-                                       <span>Director</span>
+                                        <h4 class="avatar-name">
+                              <a href="#">Amit Gupta</a>
+                            </h4>
+                            <span>Jaipur, India</span>
                                     </div>
                                  </div>
                               </div>
@@ -339,7 +524,7 @@
                   </div>
                   <div class="review-thumb-wrapper">
                      <div class="review-thumb w-img">
-                        <img src="assets/imgs/testimonial/review-thumb.png" alt="">
+                        <img src="assets/imgs/testimonial/review-thumb1.png" alt="" style="width:400px;">
                      </div>
                   </div>
                </div>
@@ -354,10 +539,13 @@
             <div class="row justify-content-center section__title-space">
                <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-8">
                   <div class="section-title-wrapper-2 text-center section-title-space">
-                     <span class="section-subtitle-2 mb-15">work process</span>
-                     <h2 class="section-title mb-20">How we work</h2>
-                     <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisng elit Ut et massa mi. Aliquam in
-                        hendr Pellentes.</p>
+                     <span class="section-subtitle-2 mb-15">OUR PROCESS</span>
+<h2 class="section-title mb-20">How We Create Natural Wellness Solutions</h2>
+<p class="mb-0">
+   From carefully selecting premium herbal ingredients to developing
+   effective wellness formulations, every Ginger Goose product is crafted
+   with quality, purity, and customer well-being in mind.
+</p>
                   </div>
                </div>
             </div>
@@ -374,8 +562,11 @@
                                  <span><img src="assets/imgs/work/work-icon-1.png" alt=""></span>
                               </div>
                               <div class="working-contentt">
-                                 <h4>Make appointment</h4>
-                                 <p>edical services required on the spot e.g. for medical</p>
+                                 <h4>Source Natural Ingredients</h4>
+<p>
+   We carefully select high-quality ginger and other trusted herbal
+   ingredients known for their natural wellness benefits.
+</p>
                               </div>
                            </div>
                         </div>
@@ -385,8 +576,11 @@
                                  <span><img src="assets/imgs/work/work-icon-2.png" alt=""></span>
                               </div>
                               <div class="working-contentt">
-                                 <h4>Chose Doctor</h4>
-                                 <p>edical services required on the spot e.g. for medical</p>
+                                 <h4>Develop & Test Formulations</h4>
+<p>
+   Our team combines traditional herbal wisdom with modern innovation
+   to create safe, effective, and reliable wellness products.
+</p>
                               </div>
                            </div>
                         </div>
@@ -396,8 +590,11 @@
                                  <span><img src="assets/imgs/work/work-icon-3.png" alt=""></span>
                               </div>
                               <div class="working-contentt">
-                                 <h4>Get Solution</h4>
-                                 <p>edical services required on the spot e.g. for medical</p>
+                                 <h4>Deliver Everyday Wellness</h4>
+<p>
+   We bring natural wellness solutions to consumers, helping them
+   support healthier and more balanced lifestyles every day.
+</p>
                               </div>
                            </div>
                         </div>
@@ -410,7 +607,7 @@
       <!-- Working area end -->
 
       <!-- Brand area start -->
-      <div class="brand-area section-space-bottom">
+      <!-- <div class="brand-area section-space-bottom">
          <div class="container">
             <div class="brand-grid">
                <div class="brand-item">
@@ -440,7 +637,7 @@
                </div>
             </div>
          </div>
-      </div>
+      </div> -->
       <!-- Brand area end -->
 
       <!-- Newsletter area start -->
@@ -449,7 +646,7 @@
          <div class="container">
             <div class="newsletter-grid p-relative">
                <div class="intro-bg">
-                  <div class="intro-bg-thumb include-bg" data-background="assets/imgs/bg/intro-bg.png"></div>
+                  <div class="intro-bg-thumb include-bg" data-background="assets/imgs/New/desktop5.jpg"></div>
                </div>
                <div class="row gy-4 align-items-center">
                   <div class="col-xxl-6 col-xl-6 col-lg-6">

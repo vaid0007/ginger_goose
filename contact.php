@@ -4,26 +4,75 @@
 
 <!-- Mirrored from meditek.baseecom.com/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Jun 2026 07:01:28 GMT -->
 <head>
-   <meta charset="utf-8">
-   <meta http-equiv="x-ua-compatible" content="ie=edge">
-   <title>Meditek
-                                  - Health & Medical HTML Template</title>
-   <meta name="description" content="">
-   <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-   <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/imgs/favicon.svg">
+<title>Contact Ginger Goose Wellness | Herbal & Organic Wellness Products</title>
 
-   <!-- CSS here -->
-   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-   <link rel="stylesheet" href="assets/css/meanmenu.min.css">
-   <link rel="stylesheet" href="assets/css/animate.css">
-   <link rel="stylesheet" href="assets/css/swiper.min.css">
-   <link rel="stylesheet" href="assets/css/slick.css">
-   <link rel="stylesheet" href="assets/css/magnific-popup.css">
-   <link rel="stylesheet" href="assets/css/fontawesome-pro.css">
-   <link rel="stylesheet" href="assets/css/spacing.css">
-   <link rel="stylesheet" href="assets/css/main.css">
+<meta name="description" content="Contact Ginger Goose Wellness for information about our herbal and organic wellness products. Reach us by phone, email, or visit our New Delhi office." />
+
+<meta name="keywords" content="Contact Ginger Goose, Ginger Goose Wellness contact, herbal wellness company India, organic wellness products contact, wellness products New Delhi, ginger wellness brand contact, natural health products India" />
+
+<meta name="author" content="Ginger Goose Wellness" />
+<meta name="robots" content="index, follow" />
+<meta name="language" content="English" />
+
+<link rel="canonical" href="https://www.gingergoosewellness.com/contact.html" />
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Contact Ginger Goose Wellness">
+<meta property="og:description" content="Get in touch with Ginger Goose Wellness for product information, business inquiries, and customer support.">
+<meta property="og:url" content="https://www.gingergoosewellness.com/contact.html">
+<meta property="og:site_name" content="Ginger Goose Wellness">
+<meta property="og:image" content="https://www.gingergoosewellness.com/assets/imgs/logo/logo.png">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Contact Ginger Goose Wellness">
+<meta name="twitter:description" content="Reach out to Ginger Goose Wellness for inquiries about our natural wellness products.">
+<meta name="twitter:image" content="https://www.gingergoosewellness.com/assets/imgs/logo/logo.png">
+
+<!-- Contact Page Schema -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"ContactPage",
+  "name":"Contact Ginger Goose Wellness",
+  "url":"https://www.gingergoosewellness.com/contact.html",
+  "mainEntity":{
+    "@type":"Organization",
+    "name":"Ginger Goose Wellness Private Limited",
+    "telephone":"+91-9717702060",
+    "email":"gingergoosewellness@gmail.com",
+    "address":{
+      "@type":"PostalAddress",
+      "streetAddress":"G-30B 1st Floor Kalkaji",
+      "addressLocality":"New Delhi",
+      "postalCode":"110019",
+      "addressCountry":"IN"
+    }
+  }
+}
+</script>
+
+<!-- Favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="assets/imgs/logo/favicon_io/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/imgs/logo/favicon_io/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/imgs/logo/favicon_io/favicon-16x16.png">
+<link rel="manifest" href="assets/imgs/logo/favicon_io/site.webmanifest">
+
+<!-- CSS -->
+<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+<link rel="stylesheet" href="assets/css/meanmenu.min.css" />
+<link rel="stylesheet" href="assets/css/animate.css" />
+<link rel="stylesheet" href="assets/css/swiper.min.css" />
+<link rel="stylesheet" href="assets/css/slick.css" />
+<link rel="stylesheet" href="assets/css/magnific-popup.css" />
+<link rel="stylesheet" href="assets/css/fontawesome-pro.css" />
+<link rel="stylesheet" href="assets/css/spacing.css" />
+<link rel="stylesheet" href="assets/css/main.css" />
 </head>
 
 <body>
@@ -168,7 +217,7 @@
 
       <!-- Breadcrumb area start  -->
       <div class="breadcrumb__area theme-bg-1 p-relative z-index-11 pt-95 pb-95">
-         <div class="breadcrumb__thumb" data-background="assets/imgs/bg/breadcrumb-bg.jpg"></div>
+         <div class="breadcrumb__thumb" data-background="assets/imgs/New/desktop2.jpg"></div>
          <div class="container">
             <div class="row justify-content-center">
                <div class="col-xxl-12">
@@ -237,9 +286,7 @@
                <div class="row gy-50">
                   <div class="col-xxl-6 col-xl-6">
                      <div class="contact-map">
-                        <iframe
-                           src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4216.433331900906!2d90.36996032419312!3d23.83718617432321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1693682874850!5m2!1sen!2sbd"></iframe>
-                     </div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1675.9407470411509!2d77.25644473703223!3d28.540575757353366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e0!3m2!1sen!2sin!4v1782199304492!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                     </div>
                   </div>
                   <div class="col-xxl-6 col-xl-6">
                      <div class="contact-from">
@@ -263,31 +310,6 @@
                               <div class="col-lg-6">
                                  <div class="contact__from-input">
                                     <input type="date">
-                                 </div>
-                              </div>
-                              <div class="col-lg-6">
-                                 <div class="contact__select mb-20">
-                                    <select>
-                                       <option value="0">Pediatric Clinic</option>
-                                       <option value="2">Meditek
-                                 sis Clinic</option>
-                                       <option value="3">Cardiac Clinic</option>
-                                       <option value="1">Medical Pharmacy</option>
-                                       <option value="1">Rehabilitation Therapy</option>
-                                       <option value="1">Laryngological Clinic</option>
-                                    </select>
-                                 </div>
-                              </div>
-                              <div class="col-lg-6">
-                                 <div class="contact__select mb-20">
-                                    <select>
-                                       <option value="0">Choose Doctor</option>
-                                       <option value="2">Dr. Jalen Kothenbeutel</option>
-                                       <option value="3">Dr. Jade Dayal</option>
-                                       <option value="1">Dr. Zander Nishida</option>
-                                       <option value="1">Dr. Mattie Tellers</option>
-                                       <option value="1">Dr. Jade Dayal </option>
-                                    </select>
                                  </div>
                               </div>
                               <div class="col-lg-12">
@@ -318,7 +340,7 @@
       <!-- Contact area end -->
 
       <!-- Brand area start -->
-      <div class="brand-area section-space-bottom">
+      <!-- <div class="brand-area section-space-bottom">
          <div class="container">
             <div class="brand-grid">
                <div class="brand-item">
@@ -348,7 +370,7 @@
                </div>
             </div>
          </div>
-      </div>
+      </div> -->
       <!-- Brand area end -->
 
       <!-- Newsletter area start -->
@@ -357,7 +379,7 @@
          <div class="container">
             <div class="newsletter-grid p-relative">
                <div class="intro-bg">
-                  <div class="intro-bg-thumb include-bg" data-background="assets/imgs/bg/intro-bg.png"></div>
+                  <div class="intro-bg-thumb include-bg" data-background="assets/imgs/New/desktop5.jpg"></div>
                </div>
                <div class="row gy-4 align-items-center">
                   <div class="col-xxl-6 col-xl-6 col-lg-6">
@@ -394,132 +416,7 @@
    <!-- Body main wrapper end -->
 
    <!-- Footer area start -->
-   <footer>
-      <div class="footer-area footer-bg section-space-medium">
-         <div class="container">
-            <div class="row gy-50 justify-content-between">
-               <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                  <div class="footer-widget footer-col-1">
-                     <div class="footer-logo mb-35">
-                        <a href="index.html"><img src="assets/imgs/logo/logo-white.svg" alt="image bnot found"></a>
-                     </div>
-                     <p>It helps designers plan out where the content will sit, the content to be written and approved.
-                     </p>
-                  </div>
-                  <div class="footer-opening d-flex align-items-start">
-                     <div class="footer-opening-icon mr-15">
-                        <span>
-                           <svg width="36" height="33" viewBox="0 0 36 33" fill="none"
-                              xmlns="http://www.w3.org/2000/svg">
-                              <path
-                                 d="M33.3525 8.27969L28.1441 29.1907C27.7732 30.7516 26.3823 31.8335 24.7749 31.8335H4.4667C2.13296 31.8335 0.463822 29.546 1.1593 27.305L7.66595 6.40966C8.11415 4.95687 9.45877 3.95215 10.9734 3.95215H29.9833C31.4516 3.95215 32.6725 4.84856 33.1826 6.08498C33.4762 6.74955 33.538 7.50692 33.3525 8.27969Z"
-                                 stroke="#EB753B" stroke-width="2" stroke-miterlimit="10" />
-                              <path
-                                 d="M24.1895 31.8329H31.5771C33.5708 31.8329 35.1318 30.1482 34.9927 28.1545L33.4626 7.10449"
-                                 stroke="#EB753B" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"
-                                 stroke-linejoin="round" />
-                              <path d="M14.4199 7.69318L16.0273 1.0166" stroke="#EB753B" stroke-width="2"
-                                 stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
-                              <path d="M24.7734 7.70752L26.2262 1" stroke="#EB753B" stroke-width="2"
-                                 stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
-                              <path d="M11.3594 16.3779H23.7236" stroke="#EB753B" stroke-width="2"
-                                 stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
-                              <path d="M9.81445 22.5596H22.1787" stroke="#EB753B" stroke-width="2"
-                                 stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
-                           </svg>
-                        </span>
-                     </div>
-                     <div class="footer-opening-content">
-                        <h4>Opening Hours</h4>
-                        <p>Mon – Sat 8:00 – 17:30 Sunday – CLOSED</p>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-6 col-sm-6">
-                  <div class="footer-widget footer-col-2">
-                     <div class="footer-widget-title">
-                        <h4>Quick Link</h4>
-                     </div>
-                     <div class="footer-link">
-                        <ul>
-                           <li><a href="#">Home</a></li>
-                           <li><a href="#">About</a></li>
-                           <li><a href="#">Service</a></li>
-                           <li><a href="#">Portfoilo</a></li>
-                           <li><a href="#">News</a></li>
-                           <li><a href="#">Contact</a></li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                  <div class="footer-widget footer-col-3">
-                     <div class="footer-widget-title">
-                        <h4>Support Desk</h4>
-                     </div>
-                     <div class="footer-link">
-                        <ul>
-                           <li><a href="#">Teams</a></li>
-                           <li><a href="#">Careers</a></li>
-                           <li><a href="#">How its work</a></li>
-                           <li><a href="#">Feedback</a></li>
-                           <li><a href="#">Technology</a></li>
-                           <li><a href="#">Privacy policy</a></li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                  <div class="footer-widget footer-col-4">
-                     <div class="footer-widget-title">
-                        <h4>Social</h4>
-                     </div>
-                     <div class="footer-info mb-35">
-                        <div class="footer-info-item d-flex align-items-start">
-                           <div class="footer-info-icon mr-20">
-                              <span> <i class="fa-solid fa-location-dot"></i></span>
-                           </div>
-                           <div class="footer-info-text">
-                              <a target="_blank"
-                                 href="https://www.google.com/maps/place/Orville+St,+La+Presa,+CA+91977,+USA/@32.7092048,-117.0082772,17z/data=!3m1!4b1!4m5!3m4!1s0x80d9508a9aec8cd1:0x72d1ac1c9527b705!8m2!3d32.7092003!4d-117.0060885">711-2880
-                                 Nulla St.</a>
-                           </div>
-                        </div>
-                        <div class="footer-info-item d-flex align-items-start">
-                           <div class="footer-info-icon mr-20">
-                              <span><i class="fa-solid fa-envelope"></i></span>
-                           </div>
-                           <div class="footer-info-text">
-                              <a href="mailto:example@gmail.com">example@gmail.com</a>
-                           </div>
-                        </div>
-                        <div class="footer-info-item d-flex align-items-start">
-                           <div class="footer-info-icon mr-20">
-                              <span><i class="fa-solid fa-phone"></i></span>
-                           </div>
-                           <div class="footer-info-text">
-                              <a href="tel:012-345-6789">+964 742 44 763</a>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="theme-social">
-                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div class="fotter-bottom theme-bg-1 pt-25 pb-25">
-         <div class="footer-copyright-text text-center">
-            <p class="mb-0">© All Copyright 2024 by <a href="#">Meditek
-                                 </a></p>
-         </div>
-      </div>
-   </footer>
+   <?php include 'footer.php' ?>
    <!-- Footer area end -->
 
    <!-- JS here -->
