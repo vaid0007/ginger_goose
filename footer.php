@@ -5,7 +5,7 @@
                <div class="footer-grid-3">
                   <div class="footer-widget-3">
                      <div class="footer-logo mb-35">
-                        <a href="index.html"><img src="assets/imgs/logo/GG_logo.png" alt="image bnot found" style="width:150px;"></a>
+                        <a href="/"><img src="assets/imgs/logo/GG_logo.png" alt="image bnot found" style="width:150px;"></a>
                      </div>
                      <p>
    Ginger Goose offers natural wellness solutions crafted with premium herbal ingredients, helping individuals embrace healthier and more balanced lives through the goodness of nature.
@@ -19,33 +19,32 @@
                   </div>
                   <div class="footer-widget-3 style-2">
                      <div class="footer-widget-title">
-                        <h4>Support Desk</h4>
+                        <h4>Quick Link</h4>
                      </div>
                      <div class="footer-link">
                         <ul>
-                           <li><a href="#">Teams</a></li>
-                           <li><a href="#">Careers</a></li>
-                           <li><a href="#">How its work</a></li>
-                           <li><a href="#">Feedback</a></li>
-                           <li><a href="#">Technology</a></li>
-                           <li><a href="#">Privacy policy</a></li>
+                           <li><a href="/">Home</a></li>
+                           <li><a href="about">About</a></li>
+                           <li><a href="product">Products</a></li>
+                           <li><a href="gallery">Gallery</a></li>
+                           <li><a href="contact">Contact</a></li>
                         </ul>
                      </div>
                   </div>
                   <div class="footer-widget-3 style-2">
                      <div class="footer-widget-title">
-                        <h4>Quick Link</h4>
+                        <h4>Products</h4>
                      </div>
                      <div class="footer-link">
                         <ul>
-                           <li><a href="#">Home</a></li>
-                           <li><a href="#">About</a></li>
-                           <li><a href="#">Products</a></li>
-                           <li><a href="#">Gallery</a></li>
-                           <li><a href="#">Contact</a></li>
+                           <li><a href="product">Herbal Wellness</a></li>
+                           <li><a href="product">Ginger Health</a></li>
+                           <li><a href="product">Herbal Foods</a></li>
+                           <li><a href="product">Wellness Beverages</a></li>
                         </ul>
                      </div>
                   </div>
+                  
                   <div class="footer-widget-3 style-2">
                      <div class="footer-widget-title">
    <h4>Location</h4>

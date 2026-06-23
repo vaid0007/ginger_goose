@@ -18,13 +18,13 @@
 <meta name="robots" content="index, follow" />
 <meta name="language" content="English" />
 
-<link rel="canonical" href="https://www.gingergoosewellness.com/products.html" />
+<link rel="canonical" href="https://www.gingergoosewellness.com/products" />
 
 <!-- Open Graph -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="Our Products | Ginger Goose Wellness">
 <meta property="og:description" content="Discover premium herbal and organic wellness products inspired by the natural power of ginger.">
-<meta property="og:url" content="https://www.gingergoosewellness.com/products.html">
+<meta property="og:url" content="https://www.gingergoosewellness.com/products">
 <meta property="og:site_name" content="Ginger Goose Wellness">
 <meta property="og:image" content="https://www.gingergoosewellness.com/assets/imgs/logo/logo.png">
 
@@ -143,7 +143,7 @@
                      <div class="breadcrumb__menu">
                         <nav>
                            <ul>
-                              <li><span><a href="index.html">Home</a></span></li>
+                              <li><span><a href="/">Home</a></span></li>
                               <li><span>Product Details</span></li>
                            </ul>
                         </nav>
@@ -431,7 +431,7 @@
                   Learn more about Ginger Goose products, our commitment to natural wellness,
                   and how we create high-quality herbal solutions inspired by the power of nature.
                </p>
-               <a href="contact.html" class="fill-btn">
+               <a href="contact" class="fill-btn">
                   <span class="fill-btn-inner">
                      <span class="fill-btn-normal">Contact Us<i class="fa-regular fa-angle-right"></i></span>
                      <span class="fill-btn-hover">Contact Us<i class="fa-regular fa-angle-right"></i></span>

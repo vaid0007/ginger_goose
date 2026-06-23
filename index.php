@@ -183,7 +183,7 @@
                           anywhere.
                         </p>
                         <div class="banner-btn-wrapper">
-                          <a class="solid-btn" href="product-details.html">
+                          <a class="solid-btn" href="product">
                             Explore Product
                             <span
                               ><i class="fa-regular fa-angle-right"></i
@@ -206,9 +206,9 @@
                                  <h2 class="banner-title-4">Premium Face Masks!</h2>
                                  <p>Lorem ipsum dolor sit amet consectetur adipi elit Ut et massa mi. Aliquam</p>
                                  <div class="banner-btn-wrapper">
-                                    <a class="solid-btn" href="product-details.html">Buy Now<span><i
+                                    <a class="solid-btn" href="product">Buy Now<span><i
                                              class="fa-regular fa-angle-right"></i></span></a>
-                                    <a class="text-btn" href="service.html">View More<span><i
+                                    <a class="text-btn" href="service">View More<span><i
                                              class="fa-regular fa-angle-right"></i></span></a>
                                  </div>
                               </div>
@@ -227,9 +227,9 @@
                                  <h2 class="banner-title-4">Premium Face Masks!</h2>
                                  <p>Lorem ipsum dolor sit amet consectetur adipi elit Ut et massa mi. Aliquam</p>
                                  <div class="banner-btn-wrapper">
-                                    <a class="solid-btn" href="product-details.html">Buy Now<span><i
+                                    <a class="solid-btn" href="product">Buy Now<span><i
                                              class="fa-regular fa-angle-right"></i></span></a>
-                                    <a class="text-btn" href="service.html">View More<span><i
+                                    <a class="text-btn" href="service">View More<span><i
                                              class="fa-regular fa-angle-right"></i></span></a>
                                  </div>
                               </div>
@@ -319,7 +319,7 @@
                </div>
                <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                   <div class="seller-link text-md-end">
-                     <a class="solid-btn" href="product.html">Shop all<span><i
+                     <a class="solid-btn" href="product">Shop all<span><i
                               class="fa-regular fa-angle-right"></i></span></a>
                   </div>
                </div>
@@ -334,7 +334,7 @@
                                  <span class="product-trending">10% off</span>
                               </div>
                               <div class="product-thumb">
-                                 <a href="product-details.html"><img src="assets/imgs/product/product-01.png"
+                                 <a href="product"><img src="assets/imgs/product/product-01.png"
                                        alt=""></a>
                               </div>
                               <div class="product-action-item">
@@ -372,7 +372,7 @@
                                  <div class="product-tag">
                                     <span>ACCESSORIES</span>
                                  </div>
-                                 <h4 class="product-title"><a href="product-details.html">Supradyn Daily</a></h4>
+                                 <h4 class="product-title"><a href="product">Supradyn Daily</a></h4>
                                  <div class="product-price">
                                     <span class="product-old-price"><del>$15.00</del></span>
                                     <span class="product-new-price">$12.00</span>
@@ -386,7 +386,7 @@
                                  <span class="product-trending">10% off</span>
                               </div>
                               <div class="product-thumb">
-                                 <a href="product-details.html"><img src="assets/imgs/product/product-02.png"
+                                 <a href="product"><img src="assets/imgs/product/product-02.png"
                                        alt=""></a>
                               </div>
                               <div class="product-action-item">
@@ -424,7 +424,7 @@
                                  <div class="product-tag">
                                     <span>PHARMA PRODUCT</span>
                                  </div>
-                                 <h4 class="product-title"><a href="product-details.html">Accu-chek Tablet</a></h4>
+                                 <h4 class="product-title"><a href="product">Accu-chek Tablet</a></h4>
                                  <div class="product-price">
                                     <span class="product-old-price"><del>$20.00</del></span>
                                     <span class="product-new-price">$34.00</span>
@@ -438,7 +438,7 @@
                                  <span class="product-trending">10% off</span>
                               </div>
                               <div class="product-thumb">
-                                 <a href="product-details.html"><img src="assets/imgs/product/product-03.png"
+                                 <a href="product"><img src="assets/imgs/product/product-03.png"
                                        alt=""></a>
                               </div>
                               <div class="product-action-item">
@@ -476,7 +476,7 @@
                                  <div class="product-tag">
                                     <span>SKIN PRODUCT</span>
                                  </div>
-                                 <h4 class="product-title"><a href="product-details.html">Curaskin Lipgel</a></h4>
+                                 <h4 class="product-title"><a href="product">Curaskin Lipgel</a></h4>
                                  <div class="product-price">
                                     <span class="product-old-price"><del>$12.00</del></span>
                                     <span class="product-new-price">$8.50</span>
@@ -490,7 +490,7 @@
                                  <span class="product-trending">10% off</span>
                               </div>
                               <div class="product-thumb">
-                                 <a href="product-details.html"><img src="assets/imgs/product/product-04.png"
+                                 <a href="product"><img src="assets/imgs/product/product-04.png"
                                        alt=""></a>
                               </div>
                               <div class="product-action-item">
@@ -528,7 +528,7 @@
                                  <div class="product-tag">
                                     <span>ACCESSORIES</span>
                                  </div>
-                                 <h4 class="product-title"><a href="product-details.html">Shelcal 500 Tablet</a></h4>
+                                 <h4 class="product-title"><a href="product">Shelcal 500 Tablet</a></h4>
                                  <div class="product-price">
                                     <span class="product-old-price"><del>$80.00</del></span>
                                     <span class="product-new-price">$66.00</span>
@@ -566,7 +566,7 @@
                 </p>
 
                 <div class="btn-wrapper">
-                  <a class="solid-btn" href="product-details.html">
+                  <a class="solid-btn" href="product">
                     Explore Product
                     <span><i class="fa-regular fa-angle-right"></i></span>
                   </a>
@@ -597,7 +597,7 @@
                       <span class="product-trending">10% off</span>
                     </div>
                     <div class="product-thumb">
-                      <a href="product-details.html"
+                      <a href="product"
                         ><img src="assets/imgs/New/ginger-goose-1.jpeg" alt=""
                       /></a>
                     </div>
@@ -607,7 +607,7 @@
                         <span>Herbal Wellness</span>
                       </div>
                       <h4 class="product-title">
-                        <a href="product-details.html"
+                        <a href="product"
                           >Ginger Goose Herbal Inhaler</a
                         >
                       </h4>
@@ -620,7 +620,7 @@
                       <span class="product-trending">10% off</span>
                     </div>
                     <div class="product-thumb">
-                      <a href="product-details.html"
+                      <a href="product"
                         ><img src="assets/imgs/New/ginger-goose-2.jpeg" alt=""
                       /></a>
                     </div>
@@ -630,7 +630,7 @@
                         <span>Ayurvedic Product</span>
                       </div>
                       <h4 class="product-title">
-                        <a href="product-details.html"
+                        <a href="product"
                           >Ginger Goose Herbal Inhaler Pack</a
                         >
                       </h4>
@@ -643,7 +643,7 @@
                       <span class="product-trending">10% off</span>
                     </div>
                     <div class="product-thumb">
-                      <a href="product-details.html"
+                      <a href="product"
                         ><img src="assets/imgs/New/ginger-goose-3.jpeg" alt=""
                       /></a>
                     </div>
@@ -653,7 +653,7 @@
                         <span>Herbal Wellness</span>
                       </div>
                       <h4 class="product-title">
-                        <a href="product-details.html"
+                        <a href="product"
                           >Ginger Goose Herbal Inhaler Box</a
                         >
                       </h4>
@@ -666,7 +666,7 @@
                       <span class="product-trending">10% off</span>
                     </div>
                     <div class="product-thumb">
-                      <a href="product-details.html"
+                      <a href="product"
                         ><img src="assets/imgs/New/ginger-goose-4.jpeg" alt=""
                       /></a>
                     </div>
@@ -676,7 +676,7 @@
                         <span>Premium Pack</span>
                       </div>
                       <h4 class="product-title">
-                        <a href="product-details.html"
+                        <a href="product"
                           >Ginger Goose Herbal Inhaler Combo</a
                         >
                       </h4>
@@ -839,7 +839,7 @@
                   selected herbal ingredients to provide a refreshing and
                   revitalizing experience wherever you go.
                 </p>
-                <a class="solid-btn" href="contact.html">
+                <a class="solid-btn" href="contact">
                   Contact Us
                   <span><i class="fa-regular fa-angle-right"></i></span>
                 </a>
@@ -1026,7 +1026,7 @@
                               <div class="discount-item text-center">
                                  <div class="discount-content">
                                     <span>FLAT 20% OFF</span>
-                                    <h3><a href="product.html">Healthcare</a></h3>
+                                    <h3><a href="product">Healthcare</a></h3>
                                  </div>
                                  <div class="discount-thumb"
                                     data-background="assets/imgs/New/ginger-goose-2.jpeg"></div>
@@ -1036,7 +1036,7 @@
                               <div class="discount-item text-center">
                                  <div class="discount-content">
                                     <span>FLAT 35% OFF</span>
-                                    <h3><a href="product.html">Value Store</a></h3>
+                                    <h3><a href="product">Value Store</a></h3>
                                  </div>
                                  <div class="discount-thumb"
                                     data-background="assets/imgs/New/ginger-goose-3.jpeg"></div>
@@ -1046,7 +1046,7 @@
                               <div class="discount-item text-center">
                                  <div class="discount-content">
                                     <span>FLAT 25% OFF</span>
-                                    <h3><a href="product.html">Lab test</a></h3>
+                                    <h3><a href="product">Lab test</a></h3>
                                  </div>
                                  <div class="discount-thumb"
                                     data-background="assets/imgs/New/ginger-goose-4.jpeg"></div>
@@ -1056,7 +1056,7 @@
                               <div class="discount-item text-center">
                                  <div class="discount-content">
                                     <span>FLAT 15% OFF</span>
-                                    <h3><a href="product.html">Medicine</a></h3>
+                                    <h3><a href="product">Medicine</a></h3>
                                  </div>
                                  <div class="discount-thumb"
                                     data-background="assets/imgs/New/ginger-goose-5.jpeg"></div>
@@ -1066,7 +1066,7 @@
                               <div class="discount-item text-center">
                                  <div class="discount-content">
                                     <span>100% OFF</span>
-                                    <h3><a href="product.html">Offers</a></h3>
+                                    <h3><a href="product">Offers</a></h3>
                                  </div>
                                  <div class="discount-thumb"
                                     data-background="assets/imgs/New/ginger-goose-6.jpeg"></div>
@@ -1095,7 +1095,7 @@
                      </div>
                      <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                         <div class="seller-link text-md-end">
-                           <a class="solid-btn" href="project-details.html">Shop all<span><i
+                           <a class="solid-btn" href="project-details">Shop all<span><i
                                     class="fa-regular fa-angle-right"></i></span></a>
                         </div>
                      </div>
@@ -1112,7 +1112,7 @@
                                  <span class="product-trending">10% off</span>
                               </div>
                               <div class="product-thumb">
-                                 <a href="product-details.html"><img src="assets/imgs/product/product-01.png"
+                                 <a href="product"><img src="assets/imgs/product/product-01.png"
                                        alt=""></a>
                               </div>
                               <div class="product-action-item">
@@ -1150,7 +1150,7 @@
                                  <div class="product-tag">
                                     <span>ACCESSORIES</span>
                                  </div>
-                                 <h4 class="product-title"><a href="product-details.html">Supradyn Daily</a></h4>
+                                 <h4 class="product-title"><a href="product">Supradyn Daily</a></h4>
                                  <div class="product-price">
                                     <span class="product-old-price"><del>$15.00</del></span>
                                     <span class="product-new-price">$12.00</span>
@@ -1164,7 +1164,7 @@
                                  <span class="product-trending">10% off</span>
                               </div>
                               <div class="product-thumb">
-                                 <a href="product-details.html"><img src="assets/imgs/product/product-02.png"
+                                 <a href="product"><img src="assets/imgs/product/product-02.png"
                                        alt=""></a>
                               </div>
                               <div class="product-action-item">
@@ -1202,7 +1202,7 @@
                                  <div class="product-tag">
                                     <span>PHARMA PRODUCT</span>
                                  </div>
-                                 <h4 class="product-title"><a href="product-details.html">Accu-chek Tablet</a></h4>
+                                 <h4 class="product-title"><a href="product">Accu-chek Tablet</a></h4>
                                  <div class="product-price">
                                     <span class="product-old-price"><del>$20.00</del></span>
                                     <span class="product-new-price">$34.00</span>
@@ -1216,7 +1216,7 @@
                                  <span class="product-trending">10% off</span>
                               </div>
                               <div class="product-thumb">
-                                 <a href="product-details.html"><img src="assets/imgs/product/product-03.png"
+                                 <a href="product"><img src="assets/imgs/product/product-03.png"
                                        alt=""></a>
                               </div>
                               <div class="product-action-item">
@@ -1254,7 +1254,7 @@
                                  <div class="product-tag">
                                     <span>SKIN PRODUCT</span>
                                  </div>
-                                 <h4 class="product-title"><a href="product-details.html">Curaskin Lipgel</a></h4>
+                                 <h4 class="product-title"><a href="product">Curaskin Lipgel</a></h4>
                                  <div class="product-price">
                                     <span class="product-old-price"><del>$12.00</del></span>
                                     <span class="product-new-price">$8.50</span>
@@ -1268,7 +1268,7 @@
                                  <span class="product-trending">10% off</span>
                               </div>
                               <div class="product-thumb">
-                                 <a href="product-details.html"><img src="assets/imgs/product/product-04.png"
+                                 <a href="product"><img src="assets/imgs/product/product-04.png"
                                        alt=""></a>
                               </div>
                               <div class="product-action-item">
@@ -1306,7 +1306,7 @@
                                  <div class="product-tag">
                                     <span>ACCESSORIES</span>
                                  </div>
-                                 <h4 class="product-title"><a href="product-details.html">Shelcal 500 Tablet</a></h4>
+                                 <h4 class="product-title"><a href="product">Shelcal 500 Tablet</a></h4>
                                  <div class="product-price">
                                     <span class="product-old-price"><del>$80.00</del></span>
                                     <span class="product-new-price">$66.00</span>
@@ -1348,12 +1348,12 @@
                            <span>07 jan, 2024</span>
                         </div>
                         <h4 class="blog-title">
-                           <a href="blog-details.html">Experimental cancer vaccine both treats</a>
+                           <a href="blog-details">Experimental cancer vaccine both treats</a>
                         </h4>
-                        <a class="round-link" href="blog-details.html"><i class="fa-regular fa-angle-right"></i></a>
+                        <a class="round-link" href="blog-details"><i class="fa-regular fa-angle-right"></i></a>
                      </div>
                      <div class="blog-item-thumb w-img">
-                        <a href="blog-details.html">
+                        <a href="blog-details">
                            <img src="assets/imgs/blog/blog-5.jpg" alt="">
                         </a>
                      </div>
@@ -1370,12 +1370,12 @@
                            <span>07 jan, 2024</span>
                         </div>
                         <h4 class="blog-title">
-                           <a href="blog-details.html">Empowering Wellness: Navigating the Path to Lifelong Health</a>
+                           <a href="blog-details">Empowering Wellness: Navigating the Path to Lifelong Health</a>
                         </h4>
-                        <a class="round-link" href="blog-details.html"><i class="fa-regular fa-angle-right"></i></a>
+                        <a class="round-link" href="blog-details"><i class="fa-regular fa-angle-right"></i></a>
                      </div>
                      <div class="blog-item-thumb-4 w-img">
-                        <a href="blog-details.html">
+                        <a href="blog-details">
                            <img src="assets/imgs/blog/blog-6.jpg" alt="">
                         </a>
                      </div>
@@ -1398,7 +1398,7 @@
                     Made with premium herbal ingredients carefully selected to
                     deliver a refreshing and revitalizing wellness every day.
                   </p>
-                  <a class="join-btn" href="about.html"
+                  <a class="join-btn" href="about"
                     >Learn More<span
                       ><i class="fa-regular fa-angle-right"></i></span
                   ></a>
@@ -1414,7 +1414,7 @@
                     Compact and convenient design allows you to enjoy natural
                     freshness and comfort wherever you travel.
                   </p>
-                  <a class="join-btn" href="product.html"
+                  <a class="join-btn" href="product"
                     >View Product<span
                       ><i class="fa-regular fa-angle-right"></i></span
                   ></a>
@@ -1430,7 +1430,7 @@
                     Manufactured with strict quality standards to ensure purity,
                     consistency, and customer satisfaction every time.
                   </p>
-                  <a class="join-btn" href="contact.html"
+                  <a class="join-btn" href="contact"
                     >Contact Us<span
                       ><i class="fa-regular fa-angle-right"></i></span
                   ></a>

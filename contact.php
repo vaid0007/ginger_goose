@@ -18,13 +18,13 @@
 <meta name="robots" content="index, follow" />
 <meta name="language" content="English" />
 
-<link rel="canonical" href="https://www.gingergoosewellness.com/contact.html" />
+<link rel="canonical" href="https://www.gingergoosewellness.com/contact" />
 
 <!-- Open Graph -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="Contact Ginger Goose Wellness">
 <meta property="og:description" content="Get in touch with Ginger Goose Wellness for product information, business inquiries, and customer support.">
-<meta property="og:url" content="https://www.gingergoosewellness.com/contact.html">
+<meta property="og:url" content="https://www.gingergoosewellness.com/contact">
 <meta property="og:site_name" content="Ginger Goose Wellness">
 <meta property="og:image" content="https://www.gingergoosewellness.com/assets/imgs/logo/logo.png">
 
@@ -40,7 +40,7 @@
   "@context":"https://schema.org",
   "@type":"ContactPage",
   "name":"Contact Ginger Goose Wellness",
-  "url":"https://www.gingergoosewellness.com/contact.html",
+  "url":"https://www.gingergoosewellness.com/contact",
   "mainEntity":{
     "@type":"Organization",
     "name":"Ginger Goose Wellness Private Limited",
@@ -144,7 +144,7 @@
             <div class="offcanvas__content">
                <div class="offcanvas__top mb-40 d-flex justify-content-between align-items-center">
                   <div class="offcanvas__logo">
-                     <a href="dashboard.html">
+                     <a href="dashboard">
                         <img src="assets/imgs/logo/logo-white.svg" alt="logo not found">
                      </a>
                   </div>
@@ -170,8 +170,9 @@
                         </div>
                         <div class="offcanvas__contact-text">
                            <a target="_blank"
-                              href="https://www.google.com/maps/place/Dhaka/@23.7806207,90.3492859,12z/data=!3m1!4b1!4m5!3m4!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.8104753!4d90.4119873">12/A,
-                              Mirnada City Tower, NYC</a>
+   href="https://maps.google.com/?q=28.5405807,77.2553978">
+   G-30B 1ST Floor Kalkaji, New Delhi 110019
+</a>
                         </div>
                      </li>
                      <li class="d-flex align-items-center">
@@ -179,7 +180,7 @@
                            <i class="far fa-phone"></i>
                         </div>
                         <div class="offcanvas__contact-text">
-                           <a href="tel:+088889797697">+088889797697</a>
+                           <a href="tel:+919717702060">+91 9717702060</a>
                         </div>
                      </li>
                      <li class="d-flex align-items-center">
@@ -187,7 +188,7 @@
                            <i class="fal fa-envelope"></i>
                         </div>
                         <div class="offcanvas__contact-text">
-                           <a href="tel:+012-345-6789"><span class="mailto:support@mail.com">support@mail.com</span></a>
+                           <a href="tel:+012-345-6789"><span class="mailto:gingergoosewellness@gmail.com">gingergoosewellness@gmail.com</span></a>
                         </div>
                      </li>
                   </ul>
@@ -226,7 +227,7 @@
                      <div class="breadcrumb__menu">
                         <nav>
                            <ul>
-                              <li><span><a href="index.html">Home</a></span></li>
+                              <li><span><a href="/">Home</a></span></li>
                               <li><span>Contact</span></li>
                            </ul>
                         </nav>
@@ -249,7 +250,10 @@
                      </div>
                      <div class="contact-info-content">
                         <h4>Our Location</h4>
-                        <p><a href="#">House #5, Street Number #98, brasilia- 70000-000, Brazil.</a></p>
+                        <p><a target="_blank"
+   href="https://maps.google.com/?q=28.5405807,77.2553978">
+   G-30B 1ST Floor Kalkaji, New Delhi 110019
+</a></p>
                      </div>
                   </div>
                </div>
@@ -260,12 +264,7 @@
                      </div>
                      <div class="contact-info-content">
                         <h4>Our Email Address</h4>
-                        <span><a href="mailto:contact@Meditek
-                                 .com">contact@Meditek
-                                 .com</a></span>
-                        <span><a href="mailto:support@Meditek
-                                 .com">support@Meditek
-                                 .com</a></span>
+                        <span><a href="mailto:gingergoosewellness@gmail.com">gingergoosewellness@gmail.com</a></span>
                      </div>
                   </div>
                </div>
@@ -276,8 +275,7 @@
                      </div>
                      <div class="contact-info-content">
                         <h4>Contact Phone Number</h4>
-                        <span><a href="mailto:+380961381876">+380961381876</a></span>
-                        <span><a href="mailto:+380961381877">+380961381877</a></span>
+                        <span><a href="mailto:+919717702060">+91 9717702060</a></span>
                      </div>
                   </div>
                </div>

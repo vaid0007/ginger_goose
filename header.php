@@ -5,8 +5,8 @@
             <div class="offcanvas__content">
                <div class="offcanvas__top mb-40 d-flex justify-content-between align-items-center">
                   <div class="offcanvas__logo">
-                     <a href="dashboard.html">
-                        <img src="assets/imgs/logo/logo-white.svg" alt="logo not found">
+                     <a href="dashboard">
+                        <img src="assets/imgs/logo/GG_logo.png" alt="logo not found">
                      </a>
                   </div>
                   <div class="offcanvas__close">
@@ -25,8 +25,9 @@
                         </div>
                         <div class="offcanvas__contact-text">
                            <a target="_blank"
-                              href="https://www.google.com/maps/place/Dhaka/@23.7806207,90.3492859,12z/data=!3m1!4b1!4m5!3m4!1s0x3755b8b087026b81:0x8fa563bbdd5904c2!8m2!3d23.8104753!4d90.4119873">12/A,
-                              Mirnada City Tower, NYC</a>
+   href="https://maps.google.com/?q=28.5405807,77.2553978">
+   G-30B 1ST Floor Kalkaji, New Delhi 110019
+</a>
                         </div>
                      </li>
                      <li class="d-flex align-items-center">
@@ -34,7 +35,7 @@
                            <i class="far fa-phone"></i>
                         </div>
                         <div class="offcanvas__contact-text">
-                           <a href="tel:+088889797697">+088889797697</a>
+                           <a href="tel:+919717702060">+91 9717702060</a>
                         </div>
                      </li>
                      <li class="d-flex align-items-center">
@@ -42,7 +43,7 @@
                            <i class="fal fa-envelope"></i>
                         </div>
                         <div class="offcanvas__contact-text">
-                           <a href="tel:+012-345-6789"><span class="mailto:support@mail.com">support@mail.com</span></a>
+                           <a href="tel:+012-345-6789"><span class="gingergoosewellness@gmail.com">support@mail.com</span></a>
                         </div>
                      </li>
                   </ul>
@@ -89,7 +90,7 @@
                   <div class="header-main-4">
                      <div class="header-left">
                         <div class="header-logo">
-                           <a href="index.html">
+                           <a href="/">
                               <img src="assets/imgs/logo/GG_logo.png" alt="logo not found" style="width:100px;">
                            </a>
                         </div>
@@ -98,24 +99,24 @@
                               <nav id="mobile-menu">
                                  <ul>
                                     <li class="active menu-thumb">
-                                       <a href="index.php">
+                                       <a href="/">
                                            Home 
                                        </a>
                                    </li>
                                     <li class="d-lg-none">
-                                       <a href="index.php">Home</a>
+                                       <a href="/">Home</a>
                                     </li>
                                     <li>
-                                       <a href="about.php">About</a>
+                                       <a href="about">About</a>
                                     </li>
                                     <li class="">
-                                       <a href="product.php">Products</a>
+                                       <a href="product">Products</a>
                                     </li>
                                     <li class="">
-                                       <a href="gallery.php">gallery</a>
+                                       <a href="gallery">gallery</a>
                                     </li>
                                     <li>
-                                       <a href="contact.php">Contact</a>
+                                       <a href="contact">Contact</a>
                                     </li>
                                  </ul>
                               </nav>

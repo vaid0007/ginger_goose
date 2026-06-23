@@ -18,13 +18,13 @@
 <meta name="robots" content="index, follow" />
 <meta name="language" content="English" />
 
-<link rel="canonical" href="https://www.gingergoosewellness.com/gallery.html" />
+<link rel="canonical" href="https://www.gingergoosewellness.com/gallery" />
 
 <!-- Open Graph -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="Gallery | Ginger Goose Wellness">
 <meta property="og:description" content="Explore our collection of wellness products, natural ingredients, and moments that reflect the Ginger Goose commitment to natural health and well-being.">
-<meta property="og:url" content="https://www.gingergoosewellness.com/gallery.html">
+<meta property="og:url" content="https://www.gingergoosewellness.com/gallery">
 <meta property="og:site_name" content="Ginger Goose Wellness">
 <meta property="og:image" content="https://www.gingergoosewellness.com/assets/imgs/logo/logo.png">
 
@@ -41,7 +41,7 @@
   "@type":"ImageGallery",
   "name":"Ginger Goose Wellness Gallery",
   "description":"Gallery showcasing Ginger Goose herbal wellness products, natural ingredients, and wellness lifestyle imagery.",
-  "url":"https://www.gingergoosewellness.com/gallery.html"
+  "url":"https://www.gingergoosewellness.com/gallery"
 }
 </script>
 
@@ -143,7 +143,7 @@
                      <div class="breadcrumb__menu">
                         <nav>
                            <ul>
-                              <li><span><a href="index.html">Home</a></span></li>
+                              <li><span><a href="/">Home</a></span></li>
                               <li><span>Gallery</span></li>
                            </ul>
                         </nav>

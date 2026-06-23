@@ -18,13 +18,13 @@
 <meta name="robots" content="index, follow" />
 <meta name="language" content="English" />
 
-<link rel="canonical" href="https://www.gingergoosewellness.com/about.html" />
+<link rel="canonical" href="https://www.gingergoosewellness.com/about" />
 
 <!-- Open Graph -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="About Ginger Goose Wellness">
 <meta property="og:description" content="Discover the story, mission, and vision behind Ginger Goose Wellness and our commitment to natural wellness through herbal and organic products.">
-<meta property="og:url" content="https://www.gingergoosewellness.com/about.html">
+<meta property="og:url" content="https://www.gingergoosewellness.com/about">
 <meta property="og:site_name" content="Ginger Goose Wellness">
 <meta property="og:image" content="https://www.gingergoosewellness.com/assets/imgs/logo/logo.png">
 
@@ -147,7 +147,7 @@
                      <div class="breadcrumb__menu">
                         <nav>
                            <ul>
-                              <li><span><a href="index.html">Home</a></span></li>
+                              <li><span><a href="/">Home</a></span></li>
                               <li><span>About Us</span></li>
                            </ul>
                         </nav>
@@ -353,7 +353,7 @@
                <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
                   <div class="service-item wow fadeIn" data-wow-delay="0.3S">
                      <div class="service-thumb w-img">
-                        <a href="service-details.html"><img src="assets/imgs/new/5.png" alt=""></a>
+                        <a href="#"><img src="assets/imgs/new/5.png" alt=""></a>
                      </div>
                      <div class="service-content">
                         <h4><a href="#">Herbal Wellness Products</a></h4>
@@ -361,7 +361,7 @@
    Carefully formulated herbal products designed to support everyday health,
    vitality, and overall well-being using natural ingredients.
 </p>
-                        <div class="service-link"><a href="service-details.html"><i
+                        <div class="service-link"><a href="#"><i
                                  class="fa-regular fa-angle-right"></i></a>
                         </div>
                         <div class="service-icon">
@@ -373,7 +373,7 @@
                <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
                   <div class="service-item wow fadeIn" data-wow-delay="0.5S">
                      <div class="service-thumb w-img">
-                        <a href="service-details.html"><img src="assets/imgs/New/6.png" alt=""></a>
+                        <a href="#"><img src="assets/imgs/New/6.png" alt=""></a>
                      </div>
                      <div class="service-content">
                         <h4><a href="#">Ginger-Based Health Solutions</a></h4>
@@ -381,7 +381,7 @@
    Innovative wellness products powered by the natural benefits of ginger to
    help promote comfort, balance, and a healthier lifestyle.
 </p>
-                        <div class="service-link"><a href="service-details.html"><i
+                        <div class="service-link"><a href="#"><i
                                  class="fa-regular fa-angle-right"></i></a>
                         </div>
                         <div class="service-icon">
@@ -393,7 +393,7 @@
                <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
                   <div class="service-item wow fadeIn" data-wow-delay="0.7S">
                      <div class="service-thumb w-img">
-                        <a href="service-details.html"><img src="assets/imgs/New/4.png" alt=""></a>
+                        <a href="#"><img src="assets/imgs/New/4.png" alt=""></a>
                      </div>
                      <div class="service-content">
                         <h4><a href="#">Herbal Foods & Beverages</a></h4>
@@ -401,7 +401,7 @@
    Refreshing and nourishing foods and beverages crafted with natural
    ingredients to support daily wellness and vitality.
 </p>
-                        <div class="service-link"><a href="service-details.html"><i
+                        <div class="service-link"><a href="#"><i
                                  class="fa-regular fa-angle-right"></i></a>
                         </div>
                         <div class="service-icon">
@@ -412,7 +412,7 @@
                </div>
             </div>
             <div class="btn-wrapper text-center">
-               <a href="products.html" class="fill-btn">
+               <a href="product" class="fill-btn">
    <span class="fill-btn-inner">
       <span class="fill-btn-normal">Explore Products<i class="fa-regular fa-angle-right"></i></span>
       <span class="fill-btn-hover">Explore Products<i class="fa-regular fa-angle-right"></i></span>
