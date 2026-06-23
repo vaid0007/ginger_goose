@@ -164,16 +164,13 @@
         <div class="swiper banner-active">
           <div class="swiper-wrapper">
             <div class="swiper-slide">
-              <div class="banner-item-4 d-flex align-items-end">
+              <div class="banner-item-4 d-flex align-items-center">
                 <div class="container p-5">
                   <div class="row g-5 align-self-end">
                     <div class="col-xxl-8 col-lg-8">
                       <div class="banner-content-4">
-                        <span style="color: #e67e22"
-                          >Natural Wellness Solution</span
-                        >
                         <h2 class="banner-title-4">
-                          Breathe Fresh with Ginger Goose Herbal Inhaler
+                          Ginger Goose Herbal Inhaler
                         </h2>
                         <p>
                           Experience instant freshness and natural relief with
