@@ -43,7 +43,7 @@
                            <i class="fal fa-envelope"></i>
                         </div>
                         <div class="offcanvas__contact-text">
-                           <a href="tel:+012-345-6789"><span class="gingergoosewellness@gmail.com">support@mail.com</span></a>
+                           <a href="tel:+012-345-6789"><span class="gingergoosewellness@gmail.com">gingergoosewellness@gmail.com</span></a>
                         </div>
                      </li>
                   </ul>
@@ -148,3 +148,39 @@
          </div>
       </div>
    </header>
+
+   <!-- Floating WhatsApp, Amazon & Flipkart -->
+<div style="position:fixed;top:50%;right:20px;transform:translateY(-50%);z-index:99999;display:flex;flex-direction:column;gap:12px;">
+
+    <!-- WhatsApp -->
+    <a href="https://wa.me/9717702060"
+       target="_blank"
+       title="Chat on WhatsApp"
+       style="width:58px;height:58px;background:#25D366;border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:30px;text-decoration:none;box-shadow:0 5px 15px rgba(0,0,0,.25);transition:.3s;"
+       onmouseover="this.style.transform='translateX(-8px)'"
+       onmouseout="this.style.transform='translateX(0)'">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <!-- Amazon -->
+    <a href="https://amzn.in/d/08Lxu9HO"
+       target="_blank"
+       title="Buy on Amazon"
+       style="width:58px;height:58px;background:rgb(164 112 59);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#ffffff;font-size:28px;text-decoration:none;box-shadow:0 5px 15px rgba(0,0,0,.25);transition:.3s;"
+       onmouseover="this.style.transform='translateX(-8px)'"
+       onmouseout="this.style.transform='translateX(0)'">
+        <i class="fab fa-amazon"></i>
+    </a>
+
+    <!-- Flipkart -->
+    <a href="https://www.flipkart.com/ginger-goose-herbal-ayurvedic-aroma-nasal-congestion-cold-cough-nausea-headache-inhaler/p/itm8ca925a787819?pid=BPRHNZ56H9HP59YU&lid=LSTBPRHNZ56H9HP59YUZLW2NJ&marketplace=FLIPKART&hl_lid=&q=ginger"
+       target="_blank"
+       title="Buy on Flipkart"
+       style="width:58px;height:58px;background:#2874F0;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 5px 15px rgba(0,0,0,.25);transition:.3s;"
+       onmouseover="this.style.transform='translateX(-8px)'"
+       onmouseout="this.style.transform='translateX(0)'">
+        <img src="https://static-assets-web.flixcart.com/www/promos/new/20150528-140547-favicon-retina.ico"
+     style="width:28px;height:28px;">
+    </a>
+
+</div>

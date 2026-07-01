@@ -51,6 +51,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="assets/imgs/logo/favicon_io/favicon-16x16.png">
 <link rel="manifest" href="assets/imgs/logo/favicon_io/site.webmanifest">
 
+
 <!-- CSS -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
 <link rel="stylesheet" href="assets/css/meanmenu.min.css" />

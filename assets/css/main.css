@@ -163,7 +163,7 @@ i[class^="flaticon-"],
   /**
   @font family declaration
   */
-  --bd-ff-body: "Sora", sans-serif;
+  --bd-ff-body: 'Cinzel', serif;
   --bd-ff-fontawesome: "Font Awesome 6 Pro";
   /**
   @color declaration
@@ -4359,6 +4359,16 @@ PAGINATION CSS START
             rgba(0, 0, 0, 0.6),
             rgba(0, 0, 0, 0.6)
         ), url(../imgs/New/bg_home1.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.banner-5 {
+  background-image:   linear-gradient(
+            rgba(0, 0, 0, 0.6),
+            rgba(0, 0, 0, 0.6)
+        ), url(../imgs/New/bg_about.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

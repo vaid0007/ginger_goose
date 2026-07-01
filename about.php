@@ -55,6 +55,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="assets/imgs/logo/favicon_io/favicon-16x16.png">
 <link rel="manifest" href="assets/imgs/logo/favicon_io/site.webmanifest">
 
+
 <!-- CSS -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
 <link rel="stylesheet" href="assets/css/meanmenu.min.css" />
@@ -137,7 +138,7 @@
    <main>
 
       <!-- Breadcrumb area start  -->
-      <div class="breadcrumb__area theme-bg-1 p-relative z-index-11 pt-95 pb-95">
+      <!-- <div class="breadcrumb__area theme-bg-1 p-relative z-index-11 pt-95 pb-95">
          <div class="breadcrumb__thumb" data-background="assets/imgs/New/desktop3-1.jpg"></div>
          <div class="container">
             <div class="row justify-content-center">
@@ -156,8 +157,294 @@
                </div>
             </div>
          </div>
-      </div>
+      </div> -->
       <!-- Breadcrumb area start  -->
+
+      <!-- Banner area start -->
+      <section class="banner-5 p-relative fix">
+        <div class="swiper banner-active">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="banner-item-4 d-flex align-items-center">
+                <div class="container p-5">
+                  <div class="row g-5 align-self-end">
+                    <div class="col-xxl-8 col-lg-8">
+                      <div class="banner-content-4">
+                        <h2 class="banner-title-4">
+                          About Us
+                        </h2>
+                        <p>
+                           Ginger Goose is dedicated to creating high-quality herbal and organic wellness products that support everyday health and well-being.
+                        </p>
+                        <div class="banner-btn-wrapper">
+                          <a class="solid-btn" href="product">
+                            Explore Product
+                            <span
+                              ><i class="fa-regular fa-angle-right"></i
+                            ></span>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- <div class="swiper-slide">
+                  <div class="banner-item-4 d-flex align-items-end">
+                     <div class="container">
+                        <div class="row align-self-end">
+                           <div class="col-xxl-8 col-lg-8">
+                              <div class="banner-content-4">
+                                 <span>Welcome to Meditek</span>
+                                 <h2 class="banner-title-4">Premium Face Masks!</h2>
+                                 <p>Lorem ipsum dolor sit amet consectetur adipi elit Ut et massa mi. Aliquam</p>
+                                 <div class="banner-btn-wrapper">
+                                    <a class="solid-btn" href="product">Buy Now<span><i
+                                             class="fa-regular fa-angle-right"></i></span></a>
+                                    <a class="text-btn" href="service">View More<span><i
+                                             class="fa-regular fa-angle-right"></i></span></a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="swiper-slide">
+                  <div class="banner-item-4 d-flex align-items-end">
+                     <div class="container">
+                        <div class="row g-5 align-self-end">
+                           <div class="col-xxl-8 col-lg-8">
+                              <div class="banner-content-4">
+                                 <span>Welcome to Meditek</span>
+                                 <h2 class="banner-title-4">Premium Face Masks!</h2>
+                                 <p>Lorem ipsum dolor sit amet consectetur adipi elit Ut et massa mi. Aliquam</p>
+                                 <div class="banner-btn-wrapper">
+                                    <a class="solid-btn" href="product">Buy Now<span><i
+                                             class="fa-regular fa-angle-right"></i></span></a>
+                                    <a class="text-btn" href="service">View More<span><i
+                                             class="fa-regular fa-angle-right"></i></span></a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div> -->
+          </div>
+          <!-- If we need pagination -->
+          <div class="banner-dot-inner">
+            <div class="banner-dot"></div>
+          </div>
+        </div>
+      </section>
+      <!-- Banner area end -->
+
+                <!-- discount area start -->
+      <section class="discount-area p-relative section-space pb-0">
+        <div class="container">
+          <div class="discount-main p-relative">
+            <div class="discount-slider-navigation">
+              <button type="button" class="discount-slider-button-prev">
+                <i class="fa-regular fa-angle-left"></i>
+              </button>
+              <button type="button" class="discount-slider-button-next">
+                <i class="fa-regular fa-angle-right"></i>
+              </button>
+            </div>
+            <div class="row align-items-center">
+              <div class="col-xxl-12">
+                <div class="swiper discount-active">
+                  <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                      <a href="https://amzn.in/d/08Lxu9HO"
+       target="_blank"
+       style="text-decoration:none;display:block;">
+                      <div
+                        style="
+                          border-radius: 25px;
+                          
+                          text-align: center;
+
+                          transition: all 0.3s ease;
+                          min-height: 380px;
+                          display: flex;
+                          align-items: center;
+                          justify-content: center;
+                        "
+                      >
+                        <img
+                          src="assets/imgs/New/ginger-goose-1.jpeg"
+                          alt="Ginger Goose"
+                          style="
+                            width: 100%;
+                            max-width: 350px;
+                            height: 350px;
+                            object-fit: contain;
+                          "
+                        />
+                      </div>
+</a>
+                    </div>
+                    <div class="swiper-slide">
+                      <a href="https://amzn.in/d/08Lxu9HO"
+       target="_blank"
+       style="text-decoration:none;display:block;">
+                      <div
+                        style="
+                          border-radius: 25px;
+                          
+                          text-align: center;
+
+                          transition: all 0.3s ease;
+                          min-height: 380px;
+                          display: flex;
+                          align-items: center;
+                          justify-content: center;
+                        "
+                      >
+                        <img
+                          src="assets/imgs/New/ginger-goose-2.jpeg"
+                          alt="Ginger Goose"
+                          style="
+                            width: 100%;
+                            max-width: 350px;
+                            height: 350px;
+                            object-fit: contain;
+                          "
+                        />
+                      </div>
+</a>
+                    </div>
+                    <div class="swiper-slide">
+                      <a href="https://amzn.in/d/08Lxu9HO"
+       target="_blank"
+       style="text-decoration:none;display:block;">
+                      <div
+                        style="
+                          border-radius: 25px;
+                          
+                          text-align: center;
+
+                          transition: all 0.3s ease;
+                          min-height: 380px;
+                          display: flex;
+                          align-items: center;
+                          justify-content: center;
+                        "
+                      >
+                        <img
+                          src="assets/imgs/New/ginger-goose-3.jpeg"
+                          alt="Ginger Goose"
+                          style="
+                            width: 100%;
+                            max-width: 350px;
+                            height: 350px;
+                            object-fit: contain;
+                          "
+                        />
+                      </div>
+</a>
+                    </div>
+                    <div class="swiper-slide">
+                      <a href="https://amzn.in/d/08Lxu9HO"
+       target="_blank"
+       style="text-decoration:none;display:block;">
+                      <div
+                        style="
+                          border-radius: 25px;
+                          
+                          text-align: center;
+
+                          transition: all 0.3s ease;
+                          min-height: 380px;
+                          display: flex;
+                          align-items: center;
+                          justify-content: center;
+                        "
+                      >
+                        <img
+                          src="assets/imgs/New/ginger-goose-4.jpeg"
+                          alt="Ginger Goose"
+                          style="
+                            width: 100%;
+                            max-width: 350px;
+                            height: 350px;
+                            object-fit: contain;
+                          "
+                        />
+                      </div>
+</a>
+                    </div>
+                    <div class="swiper-slide">
+                      <a href="https://amzn.in/d/08Lxu9HO"
+       target="_blank"
+       style="text-decoration:none;display:block;">
+                      <div
+                        style="
+                          border-radius: 25px;
+                          
+                          text-align: center;
+
+                          transition: all 0.3s ease;
+                          min-height: 380px;
+                          display: flex;
+                          align-items: center;
+                          justify-content: center;
+                        "
+                      >
+                        <img
+                          src="assets/imgs/New/ginger-goose-5.jpeg"
+                          alt="Ginger Goose"
+                          style="
+                            width: 100%;
+                            max-width: 350px;
+                            height: 350px;
+                            object-fit: contain;
+                          "
+                        />
+                      </div>
+</a>
+                    </div>
+                    <div class="swiper-slide">
+                      <a href="https://amzn.in/d/08Lxu9HO"
+       target="_blank"
+       style="text-decoration:none;display:block;">
+                      <div
+                        style="
+                          border-radius: 25px;
+                          
+                          text-align: center;
+
+                          transition: all 0.3s ease;
+                          min-height: 380px;
+                          display: flex;
+                          align-items: center;
+                          justify-content: center;
+                        "
+                      >
+                        <img
+                          src="assets/imgs/New/ginger-goose-6.jpeg"
+                          alt="Ginger Goose"
+                          style="
+                            width: 100%;
+                            max-width: 350px;
+                            height: 350px;
+                            object-fit: contain;
+                          "
+                        />
+                      </div>
+</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- discount area end -->
 
       <!-- About area start -->
       <section class="about-area section-space">
@@ -169,7 +456,7 @@
                 data-wow-delay="0.3s"
               >
                 <div class="about-thumb w-img">
-                  <img src="assets/imgs/New/3.png" alt="" />
+                  <img src="assets/imgs/New/about_1.png" alt="" />
                 </div>
                 <div class="about-dot">
                   <img src="assets/imgs/about/dot.svg" alt="" />
@@ -267,7 +554,7 @@
                 data-wow-delay="0.3s"
               >
                 <div class="about-thumb w-img">
-                  <img src="assets/imgs/New/4.png" alt="" />
+                  <img src="assets/imgs/New/about_2.png" alt="" />
                 </div>
                 <div class="about-dot">
                   <img src="assets/imgs/about/dot.svg" alt="" />
@@ -289,7 +576,7 @@
                 data-wow-delay="0.3s"
               >
                 <div class="about-thumb w-img">
-                  <img src="assets/imgs/New/7.png" alt="" />
+                  <img src="assets/imgs/New/about_3.png" alt="" />
                 </div>
                 <div class="about-dot">
                   <img src="assets/imgs/about/dot.svg" alt="" />
@@ -338,92 +625,80 @@
       </section>
       <!-- About area end -->
 
-      <!-- Service area start -->
-      <section class="service-area theme-bg-2 section-space">
+            <!-- Working area start -->
+      <section class="work-area section-space fix">
          <div class="container">
-            <div class="row section-title-spacing justify-content-center">
-               <div class="col-xxl-5 col-xl-5 col-lg-6">
-                  <div class="section-title-wrapper-2 text-center">
-                     <span class="section-subtitle-2 mb-15">Our Products</span>
-<h2 class="section-title">Natural Wellness Solutions</h2>
+            <div class="row justify-content-center section__title-space">
+               <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-8">
+                  <div class="section-title-wrapper-2 text-center section-title-space">
+                     <span class="section-subtitle-2 mb-15">OUR PROCESS</span>
+<h2 class="section-title mb-20">How We Create Natural Wellness Solutions</h2>
+<p class="mb-0">
+   From carefully selecting premium herbal ingredients to developing
+   effective wellness formulations, every Ginger Goose product is crafted
+   with quality, purity, and customer well-being in mind.
+</p>
                   </div>
                </div>
             </div>
-            <div class="row gy-5">
-               <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
-                  <div class="service-item wow fadeIn" data-wow-delay="0.3S">
-                     <div class="service-thumb w-img">
-                        <a href="#"><img src="assets/imgs/new/5.png" alt=""></a>
+            <div class="row wow fadeInUp" data-wow-delay=".3s">
+               <div class="col-xxl-12">
+                  <div class="work-main p-relative">
+                     <div class="work-line">
+                        <img src="assets/imgs/work/work-line.png" alt="">
                      </div>
-                     <div class="service-content">
-                        <h4><a href="#">Herbal Wellness Products</a></h4>
+                     <div class="row g-5">
+                        <div class="col-xxl-4 col-xl-4 col-lg-4">
+                           <div class="working-item text-center">
+                              <div class="working-icon">
+                                 <span><img src="assets/imgs/work/work-icon-1.png" alt=""></span>
+                              </div>
+                              <div class="working-contentt">
+                                 <h4>Source Natural Ingredients</h4>
 <p>
-   Carefully formulated herbal products designed to support everyday health,
-   vitality, and overall well-being using natural ingredients.
+   We carefully select high-quality ginger and other trusted herbal
+   ingredients known for their natural wellness benefits.
 </p>
-                        <div class="service-link"><a href="#"><i
-                                 class="fa-regular fa-angle-right"></i></a>
+                              </div>
+                           </div>
                         </div>
-                        <div class="service-icon">
-                           <span><img src="assets/imgs/service/service-icon-1.svg" alt=""></span>
+                        <div class="col-xxl-4 col-xl-4 col-lg-4">
+                           <div class="working-item text-center">
+                              <div class="working-icon">
+                                 <span><img src="assets/imgs/work/work-icon-2.png" alt=""></span>
+                              </div>
+                              <div class="working-contentt">
+                                 <h4>Develop & Test Formulations</h4>
+<p>
+   Our team combines traditional herbal wisdom with modern innovation
+   to create safe, effective, and reliable wellness products.
+</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-xxl-4 col-xl-4 col-lg-4">
+                           <div class="working-item text-center">
+                              <div class="working-icon">
+                                 <span><img src="assets/imgs/work/work-icon-3.png" alt=""></span>
+                              </div>
+                              <div class="working-contentt">
+                                 <h4>Deliver Everyday Wellness</h4>
+<p>
+   We bring natural wellness solutions to consumers, helping them
+   support healthier and more balanced lifestyles every day.
+</p>
+                              </div>
+                           </div>
                         </div>
                      </div>
                   </div>
                </div>
-               <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
-                  <div class="service-item wow fadeIn" data-wow-delay="0.5S">
-                     <div class="service-thumb w-img">
-                        <a href="#"><img src="assets/imgs/New/6.png" alt=""></a>
-                     </div>
-                     <div class="service-content">
-                        <h4><a href="#">Ginger-Based Health Solutions</a></h4>
-<p>
-   Innovative wellness products powered by the natural benefits of ginger to
-   help promote comfort, balance, and a healthier lifestyle.
-</p>
-                        <div class="service-link"><a href="#"><i
-                                 class="fa-regular fa-angle-right"></i></a>
-                        </div>
-                        <div class="service-icon">
-                           <span><img src="assets/imgs/service/service-icon-2.svg" alt=""></span>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
-                  <div class="service-item wow fadeIn" data-wow-delay="0.7S">
-                     <div class="service-thumb w-img">
-                        <a href="#"><img src="assets/imgs/New/4.png" alt=""></a>
-                     </div>
-                     <div class="service-content">
-                        <h4><a href="#">Herbal Foods & Beverages</a></h4>
-<p>
-   Refreshing and nourishing foods and beverages crafted with natural
-   ingredients to support daily wellness and vitality.
-</p>
-                        <div class="service-link"><a href="#"><i
-                                 class="fa-regular fa-angle-right"></i></a>
-                        </div>
-                        <div class="service-icon">
-                           <span><img src="assets/imgs/service/service-icon-3.svg" alt=""></span>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="btn-wrapper text-center">
-               <a href="product" class="fill-btn">
-   <span class="fill-btn-inner">
-      <span class="fill-btn-normal">Explore Products<i class="fa-regular fa-angle-right"></i></span>
-      <span class="fill-btn-hover">Explore Products<i class="fa-regular fa-angle-right"></i></span>
-   </span>
-</a>
             </div>
          </div>
       </section>
-      <!-- Service area end -->
+      <!-- Working area end -->
 
-      <!-- Review area start -->
+          <!-- Review area start -->
       <section class="review-area-3 section-space-top">
          <div class="container">
             <div class="review-main">
@@ -524,7 +799,7 @@
                   </div>
                   <div class="review-thumb-wrapper">
                      <div class="review-thumb w-img">
-                        <img src="assets/imgs/testimonial/review-thumb1.png" alt="" style="width:400px;">
+                        <img src="assets/imgs/testimonial/review-thumb2.png" alt="" style="width:400px;">
                      </div>
                   </div>
                </div>
@@ -533,78 +808,94 @@
       </section>
       <!-- Review area end -->
 
-      <!-- Working area start -->
-      <section class="work-area section-space fix">
+
+
+      <!-- Service area start -->
+      <!-- <section class="service-area theme-bg-2 section-space">
          <div class="container">
-            <div class="row justify-content-center section__title-space">
-               <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-8">
-                  <div class="section-title-wrapper-2 text-center section-title-space">
-                     <span class="section-subtitle-2 mb-15">OUR PROCESS</span>
-<h2 class="section-title mb-20">How We Create Natural Wellness Solutions</h2>
-<p class="mb-0">
-   From carefully selecting premium herbal ingredients to developing
-   effective wellness formulations, every Ginger Goose product is crafted
-   with quality, purity, and customer well-being in mind.
-</p>
+            <div class="row section-title-spacing justify-content-center">
+               <div class="col-xxl-5 col-xl-5 col-lg-6">
+                  <div class="section-title-wrapper-2 text-center">
+                     <span class="section-subtitle-2 mb-15">Our Products</span>
+                      <h2 class="section-title">Natural Wellness Solutions</h2>
                   </div>
                </div>
             </div>
-            <div class="row wow fadeInUp" data-wow-delay=".3s">
-               <div class="col-xxl-12">
-                  <div class="work-main p-relative">
-                     <div class="work-line">
-                        <img src="assets/imgs/work/work-line.png" alt="">
+            <div class="row gy-5">
+               <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
+                  <div class="service-item wow fadeIn" data-wow-delay="0.3S">
+                     <div class="service-thumb w-img">
+                        <a href="#"><img src="assets/imgs/new/5.png" alt=""></a>
                      </div>
-                     <div class="row g-5">
-                        <div class="col-xxl-4 col-xl-4 col-lg-4">
-                           <div class="working-item text-center">
-                              <div class="working-icon">
-                                 <span><img src="assets/imgs/work/work-icon-1.png" alt=""></span>
-                              </div>
-                              <div class="working-contentt">
-                                 <h4>Source Natural Ingredients</h4>
+                     <div class="service-content">
+                        <h4><a href="#">Herbal Wellness Products</a></h4>
 <p>
-   We carefully select high-quality ginger and other trusted herbal
-   ingredients known for their natural wellness benefits.
+   Carefully formulated herbal products designed to support everyday health,
+   vitality, and overall well-being using natural ingredients.
 </p>
-                              </div>
-                           </div>
+                        <div class="service-link"><a href="#"><i
+                                 class="fa-regular fa-angle-right"></i></a>
                         </div>
-                        <div class="col-xxl-4 col-xl-4 col-lg-4">
-                           <div class="working-item text-center">
-                              <div class="working-icon">
-                                 <span><img src="assets/imgs/work/work-icon-2.png" alt=""></span>
-                              </div>
-                              <div class="working-contentt">
-                                 <h4>Develop & Test Formulations</h4>
-<p>
-   Our team combines traditional herbal wisdom with modern innovation
-   to create safe, effective, and reliable wellness products.
-</p>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-xxl-4 col-xl-4 col-lg-4">
-                           <div class="working-item text-center">
-                              <div class="working-icon">
-                                 <span><img src="assets/imgs/work/work-icon-3.png" alt=""></span>
-                              </div>
-                              <div class="working-contentt">
-                                 <h4>Deliver Everyday Wellness</h4>
-<p>
-   We bring natural wellness solutions to consumers, helping them
-   support healthier and more balanced lifestyles every day.
-</p>
-                              </div>
-                           </div>
+                        <div class="service-icon">
+                           <span><img src="assets/imgs/service/service-icon-1.svg" alt=""></span>
                         </div>
                      </div>
                   </div>
                </div>
+               <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
+                  <div class="service-item wow fadeIn" data-wow-delay="0.5S">
+                     <div class="service-thumb w-img">
+                        <a href="#"><img src="assets/imgs/New/6.png" alt=""></a>
+                     </div>
+                     <div class="service-content">
+                        <h4><a href="#">Ginger-Based Health Solutions</a></h4>
+<p>
+   Innovative wellness products powered by the natural benefits of ginger to
+   help promote comfort, balance, and a healthier lifestyle.
+</p>
+                        <div class="service-link"><a href="#"><i
+                                 class="fa-regular fa-angle-right"></i></a>
+                        </div>
+                        <div class="service-icon">
+                           <span><img src="assets/imgs/service/service-icon-2.svg" alt=""></span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6">
+                  <div class="service-item wow fadeIn" data-wow-delay="0.7S">
+                     <div class="service-thumb w-img">
+                        <a href="#"><img src="assets/imgs/New/4.png" alt=""></a>
+                     </div>
+                     <div class="service-content">
+                        <h4><a href="#">Herbal Foods & Beverages</a></h4>
+<p>
+   Refreshing and nourishing foods and beverages crafted with natural
+   ingredients to support daily wellness and vitality.
+</p>
+                        <div class="service-link"><a href="#"><i
+                                 class="fa-regular fa-angle-right"></i></a>
+                        </div>
+                        <div class="service-icon">
+                           <span><img src="assets/imgs/service/service-icon-3.svg" alt=""></span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="btn-wrapper text-center">
+               <a href="product" class="fill-btn">
+   <span class="fill-btn-inner">
+      <span class="fill-btn-normal">Explore Products<i class="fa-regular fa-angle-right"></i></span>
+      <span class="fill-btn-hover">Explore Products<i class="fa-regular fa-angle-right"></i></span>
+   </span>
+</a>
             </div>
          </div>
-      </section>
-      <!-- Working area end -->
+      </section> -->
+      <!-- Service area end -->
+
+  
 
       <!-- Brand area start -->
       <!-- <div class="brand-area section-space-bottom">
@@ -641,7 +932,7 @@
       <!-- Brand area end -->
 
       <!-- Newsletter area start -->
-      <section class="newsletter-area p-relative">
+      <!-- <section class="newsletter-area p-relative">
          <div class="newsletter-overlay theme-bg-3 "></div>
          <div class="container">
             <div class="newsletter-grid p-relative">
@@ -676,7 +967,7 @@
                </div>
             </div>
          </div>
-      </section>
+      </section> -->
       <!-- Newsletter area end -->
 
    </main>

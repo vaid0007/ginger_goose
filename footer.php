@@ -12,8 +12,6 @@
 </p>
                      <div class="theme-social">
                         <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
                         <a href="#"><i class="fa-brands fa-instagram"></i></a>
                      </div>
                   </div>
@@ -33,16 +31,53 @@
                   </div>
                   <div class="footer-widget-3 style-2">
                      <div class="footer-widget-title">
-                        <h4>Products</h4>
+                        <h4>Contact</h4>
                      </div>
-                     <div class="footer-link">
-                        <ul>
-                           <li><a href="product">Herbal Wellness</a></li>
-                           <li><a href="product">Ginger Health</a></li>
-                           <li><a href="product">Herbal Foods</a></li>
-                           <li><a href="product">Wellness Beverages</a></li>
-                        </ul>
-                     </div>
+                     <div class="footer-contact">
+
+    <div class="d-flex mb-3">
+        <div style="width:35px;">
+            <i class="fas fa-phone-alt" style="color:#5cab08;font-size:18px;"></i>
+        </div>
+
+        <div>
+            <div style="font-size:14px;color:#777;">Phone</div>
+                        <a href="tel:+919717702060" style="color:#222;text-decoration:none;">+91 9717702060
+            </a>
+        </div>
+    </div>
+
+    <div class="d-flex mb-3">
+        <div style="width:35px;">
+            <i class="fas fa-envelope" style="color:#5cab08;font-size:18px;"></i>
+        </div>
+
+        <div>
+            <div style="font-size:14px;color:#777;">Email</div>
+            <a href="mailto:gingergoosewellness@gmail.com"
+               style="color:#222;text-decoration:none;font-size:15px;word-break:break-word;">
+                gingergoosewellness@gmail.com
+            </a>
+        </div>
+    </div>
+
+    <div class="d-flex">
+        <div style="width:35px;">
+            <i class="fas fa-map-marker-alt" style="color:#5cab08;font-size:18px;"></i>
+        </div>
+
+        <div>
+            <div style="font-size:14px;color:#777;">Address</div>
+            <a href="https://maps.google.com/?q=28.5405807,77.2553978"
+               target="_blank"
+               style="color:#222;text-decoration:none;line-height:1.6;">
+                G-30B, 1st Floor,<br>
+                Kalkaji, New Delhi - 110019
+            </a>
+        </div>
+    </div>
+
+</div>
                   </div>
                   
                   <div class="footer-widget-3 style-2">
