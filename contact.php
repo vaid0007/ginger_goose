@@ -373,7 +373,7 @@
       <!-- Brand area end -->
 
       <!-- Newsletter area start -->
-      <section class="newsletter-area p-relative">
+      <!-- <section class="newsletter-area p-relative">
          <div class="newsletter-overlay theme-bg-3 "></div>
          <div class="container">
             <div class="newsletter-grid p-relative">
@@ -408,7 +408,7 @@
                </div>
             </div>
          </div>
-      </section>
+      </section> -->
       <!-- Newsletter area end -->
 
    </main>

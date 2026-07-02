@@ -112,9 +112,9 @@
                                     <li class="">
                                        <a href="product">Products</a>
                                     </li>
-                                    <li class="">
+                                    <!-- <li class="">
                                        <a href="gallery">gallery</a>
-                                    </li>
+                                    </li> -->
                                     <li>
                                        <a href="contact">Contact</a>
                                     </li>
