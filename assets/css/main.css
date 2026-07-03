@@ -4384,6 +4384,16 @@ PAGINATION CSS START
   background-repeat: no-repeat;
 }
 
+.banner-7 {
+  background-image:   linear-gradient(
+            rgba(0, 0, 0, 0.6),
+            rgba(0, 0, 0, 0.6)
+        ), url(../imgs/New/bg_contact.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 .banner-item-4 {
   min-height: 600px;
 }

@@ -586,6 +586,17 @@
           </div>
           <!-- Benefit area end -->
 
+          <div class="row">
+            <div class="col-12">
+              <div class="service-details-thumb mt-80 mb-80">
+                <img
+                  src="assets/imgs/New/product2.png"
+                  alt="Ginger Goose Products"
+                />
+              </div>
+            </div>
+          </div>
+
           <div class="row" style="padding-top: 100px">
             <div class="col-xxl-6 col-xl-6 col-lg-6">
               <div class="section-title-wrapper-2">
@@ -599,11 +610,6 @@
                 without unnecessary chemicals or artificial additives. We
                 believe in transparency, authenticity, and providing solutions
                 consumers can trust every day.
-              </p>
-              <p>
-                From herbal wellness products to ginger-based foods and
-                beverages, every Ginger Goose product reflects our commitment to
-                quality, innovation, and the power of nature.
               </p>
             </div>
           </div>

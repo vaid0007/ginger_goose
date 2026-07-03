@@ -217,28 +217,84 @@
    <!-- Body main wrapper start -->
    <main>
 
-      <!-- Breadcrumb area start  -->
-      <div class="breadcrumb__area theme-bg-1 p-relative z-index-11 pt-95 pb-95">
-         <div class="breadcrumb__thumb" data-background="assets/imgs/New/desktop2.jpg"></div>
-         <div class="container">
-            <div class="row justify-content-center">
-               <div class="col-xxl-12">
-                  <div class="breadcrumb__wrapper text-center">
-                     <h2 class="breadcrumb__title">Contact</h2>
-                     <div class="breadcrumb__menu">
-                        <nav>
-                           <ul>
-                              <li><span><a href="/">Home</a></span></li>
-                              <li><span>Contact</span></li>
-                           </ul>
-                        </nav>
+      <!-- Banner area start -->
+      <section class="banner-7 p-relative fix">
+        <div class="swiper banner-active">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="banner-item-4 d-flex align-items-center">
+                <div class="container p-5">
+                  <div class="row g-5 align-self-end">
+                    <div class="col-xxl-8 col-lg-8">
+                      <div class="banner-content-4">
+                        <h2 class="banner-title-4">Contact Us</h2>
+                        <p>
+                          Have a question or need assistance? We're here to help. Reach out to the Ginger Goose team for product inquiries, support, or partnership opportunities. We're just a message away.
+                        </p>
+                        <div class="banner-btn-wrapper">
+                          <a class="solid-btn" href="product">
+                            Explore Product
+                            <span
+                              ><i class="fa-regular fa-angle-right"></i
+                            ></span>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- <div class="swiper-slide">
+                  <div class="banner-item-4 d-flex align-items-end">
+                     <div class="container">
+                        <div class="row align-self-end">
+                           <div class="col-xxl-8 col-lg-8">
+                              <div class="banner-content-4">
+                                 <span>Welcome to Meditek</span>
+                                 <h2 class="banner-title-4">Premium Face Masks!</h2>
+                                 <p>Lorem ipsum dolor sit amet consectetur adipi elit Ut et massa mi. Aliquam</p>
+                                 <div class="banner-btn-wrapper">
+                                    <a class="solid-btn" href="product">Buy Now<span><i
+                                             class="fa-regular fa-angle-right"></i></span></a>
+                                    <a class="text-btn" href="service">View More<span><i
+                                             class="fa-regular fa-angle-right"></i></span></a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
                      </div>
                   </div>
                </div>
-            </div>
-         </div>
-      </div>
-      <!-- Breadcrumb area start  -->
+               <div class="swiper-slide">
+                  <div class="banner-item-4 d-flex align-items-end">
+                     <div class="container">
+                        <div class="row g-5 align-self-end">
+                           <div class="col-xxl-8 col-lg-8">
+                              <div class="banner-content-4">
+                                 <span>Welcome to Meditek</span>
+                                 <h2 class="banner-title-4">Premium Face Masks!</h2>
+                                 <p>Lorem ipsum dolor sit amet consectetur adipi elit Ut et massa mi. Aliquam</p>
+                                 <div class="banner-btn-wrapper">
+                                    <a class="solid-btn" href="product">Buy Now<span><i
+                                             class="fa-regular fa-angle-right"></i></span></a>
+                                    <a class="text-btn" href="service">View More<span><i
+                                             class="fa-regular fa-angle-right"></i></span></a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div> -->
+          </div>
+          <!-- If we need pagination -->
+          <div class="banner-dot-inner">
+            <div class="banner-dot"></div>
+          </div>
+        </div>
+      </section>
+      <!-- Banner area end -->
 
       <!-- Contact area start -->
       <div class="contact-area section-space">

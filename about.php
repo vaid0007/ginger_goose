@@ -374,9 +374,9 @@
 
                 <div class="features__list mb-40">
                   <ul>
-                    <li>Premium Herbal & Organic Ingredients</li>
-                    <li>Safe, Natural & Effective Formulations</li>
-                    <li>Committed to Quality, Purity & Transparency</li>
+                    <li>Crafted from Premium Botanical & Herbal Ingredients</li>
+<li>Naturally Safe, Gentle & Highly Effective Solutions</li>
+<li>Driven by Quality, Authenticity & Complete Transparency</li>
                   </ul>
                 </div>
 
