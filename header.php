@@ -43,8 +43,9 @@
                            <i class="fal fa-envelope"></i>
                         </div>
                         <div class="offcanvas__contact-text">
-                           <a href="tel:+012-345-6789"><span class="gingergoosewellness@gmail.com">gingergoosewellness@gmail.com</span></a>
-                        </div>
+<a href="mailto:gingergoosewellness@gmail.com">
+    <span>gingergoosewellness@gmail.com</span>
+</a>                        </div>
                      </li>
                   </ul>
                </div>

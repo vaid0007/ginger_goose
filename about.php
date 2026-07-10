@@ -394,7 +394,7 @@
                 data-wow-delay="0.3s"
               >
                 <div class="about-thumb w-img">
-                  <img src="assets/imgs/New/about_2.png" alt="" />
+                  <img src="assets/imgs/New/about_2.jpg" alt="" />
                 </div>
                 <div class="about-dot">
                   <img src="assets/imgs/about/dot.svg" alt="" />
@@ -416,7 +416,7 @@
                 data-wow-delay="0.3s"
               >
                 <div class="about-thumb w-img">
-                  <img src="assets/imgs/New/about_3.png" alt="" />
+                  <img src="assets/imgs/New/about_3.jpg" alt="" />
                 </div>
                 <div class="about-dot">
                   <img src="assets/imgs/about/dot.svg" alt="" />
@@ -664,7 +664,7 @@
               <div class="review-thumb-wrapper">
                 <div class="review-thumb w-img">
                   <img
-                    src="assets/imgs/testimonial/review-thumb2.png"
+                    src="assets/imgs/testimonial/review-thumb1.png"
                     alt=""
                     style="width: 400px"
                   />

@@ -484,7 +484,7 @@
             <div class="col-xxl-6 col-xl-6 col-lg-6">
               <div class="vaccine-thumb-wrapper p-relative">
                 <div class="vaccine-thumb">
-                  <img src="assets/imgs/New/home_2.png" alt="" />
+                  <img src="assets/imgs/New/home21.png" alt="" />
                 </div>
               </div>
             </div>
@@ -713,7 +713,7 @@
               </div>
               <div class="review-thumb-wrapper">
                 <div class="review-thumb w-img">
-                  <img src="assets/imgs/testimonial/review-thumb2.png" alt="" style="width:400px;"/>
+                  <img src="assets/imgs/testimonial/review-thumb1.png" alt="" style="width:400px;"/>
                 </div>
               </div>
             </div>
