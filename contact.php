@@ -349,7 +349,12 @@
                            <div class="row">
                               <div class="col-lg-6">
                                  <div class="contact__from-input">
-                                    <input type="text" placeholder="Full Name*">
+                                    <input type="text" placeholder="First Name*">
+                                 </div>
+                              </div>
+                              <div class="col-lg-6">
+                                 <div class="contact__from-input">
+                                    <input type="text" placeholder="Last Name*">
                                  </div>
                               </div>
                               <div class="col-lg-6">
@@ -360,11 +365,6 @@
                               <div class="col-lg-6">
                                  <div class="contact__from-input">
                                     <input type="tel" placeholder="Phone Number">
-                                 </div>
-                              </div>
-                              <div class="col-lg-6">
-                                 <div class="contact__from-input">
-                                    <input type="date">
                                  </div>
                               </div>
                               <div class="col-lg-12">

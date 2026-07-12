@@ -5,7 +5,7 @@
             <div class="offcanvas__content">
                <div class="offcanvas__top mb-40 d-flex justify-content-between align-items-center">
                   <div class="offcanvas__logo">
-                     <a href="dashboard">
+                     <a href="/">
                         <img src="assets/imgs/logo/GG_logo.png" alt="logo not found">
                      </a>
                   </div>
@@ -51,10 +51,8 @@
                </div>
                <div class="offcanvas__social">
                   <ul>
-                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                     <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                     <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                     <li><a href="https://www.facebook.com/people/Ginger-Goose/61591999763389/?rdid=1CmTyNiWkNU5RflH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F17g9ygPdUT%2F"><i class="fab fa-facebook-f"></i></a></li>
+                     <li><a href="https://www.instagram.com/gingergoose.in?utm_source=qr&igsh=cnRub2ZtOTI2ZTlq"><i class="fab fa-instagram"></i></a></li>
                   </ul>
                </div>
             </div>

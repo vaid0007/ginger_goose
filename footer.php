@@ -11,8 +11,8 @@
    Ginger Goose offers natural wellness solutions crafted with premium herbal ingredients, helping individuals embrace healthier and more balanced lives through the goodness of nature.
 </p>
                      <div class="theme-social">
-                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/people/Ginger-Goose/61591999763389/?rdid=1CmTyNiWkNU5RflH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F17g9ygPdUT%2F"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/gingergoose.in?utm_source=qr&igsh=cnRub2ZtOTI2ZTlq"><i class="fa-brands fa-instagram"></i></a>
                      </div>
                   </div>
                   <div class="footer-widget-3 style-2">
@@ -108,8 +108,8 @@
                   </div>
                   <div class="footer-conditions">
                      <ul>
-                        <li><a href="#">Terms &amp; Condition</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="terms&conditions">Terms &amp; Condition</a></li>
+                        <li><a href="privacypolicy">Privacy Policy</a></li>
                      </ul>
                   </div>
                </div>

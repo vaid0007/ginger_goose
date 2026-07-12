@@ -624,7 +624,7 @@
               />
             </div>
 
-   <div class="col-lg-6">
+   <div class="col-lg-6" style="margin-top:50px;">
       <span class="section-subtitle-2">OUR PRODUCT</span>
       <h3>Ginger Goose Herbal Inhaler</h3>
 

@@ -352,7 +352,7 @@
       <section class="about-area section-space">
         <div class="container">
           <div class="row gy-50 align-items-center">
-            <div class="col-xxl-6 col-xl-6 col-lg-6">
+            <div class="col-xxl-6 col-xl-6 col-lg-6 order-2 order-lg-1">
               <div
                 class="about-content-6 wow fadeInRight animated"
                 data-wow-delay="0.3s"
@@ -388,7 +388,7 @@
                 </p>
               </div>
             </div>
-            <div class="col-xxl-6 col-xl-6 col-lg-6">
+            <div class="col-xxl-6 col-xl-6 col-lg-6 order-1 order-lg-2">
               <div
                 class="about-thumb-wrapper-6 p-relative z-index-11 wow fadeInLeft animated"
                 data-wow-delay="0.3s"
